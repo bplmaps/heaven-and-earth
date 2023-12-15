@@ -1,0 +1,130 @@
+# ------------------------------------------------------------------------------
+
+# ==============================================================================
+# Publication.yml
+# ------------------------------------------------------------------------------
+#
+# This file houses the bibliographic info and general metadata for your digital
+# publication.
+
+# ------------------------------------------------------------------------------
+# The publication's base URL, i.e. 'https://www.my-publication.org'
+url: 'http://localhost:8080'
+
+# ------------------------------------------------------------------------------
+# Title & Description
+title: Heaven and Earth
+subtitle: The Blue Maps of China
+reading_line:
+short_title:
+
+description:
+  one_line:
+  full: "In the early decades of nineteenth-century China, two series of large-format maps, one terrestrial and one celestial, were printed in the city of Suzhou. They were printed as eight loose sheets using Prussian blue, the first large scale use of this pigment in East Asia, in the unusual manner of a rubbing from a stone-stele, resulting in most of the paper appearing in bright blue. The terrestrial maps present the realm of the Qing Empire (1644–1911) and selected surrounding regions. The four extant editions of the celestial maps, dated to 1822 and 1826, present a planisphere of all the known stars and extensive descriptions of known celestial bodies and their related celestial mechanics. This exhibition considers these two maps in the contexts of their production, consumption, and functions revealing them as unique in the global history of mapmaking. "
+
+# ------------------------------------------------------------------------------
+# Publication Details
+# ------------------------------------------------------------------------------
+
+pub_date: 2024-05-01 # YYYY-MM-DD
+language: en
+pub_type: book # book | journal-periodical | other
+
+identifier:
+  isbn:
+
+publisher:
+  - name: Leventhal Map & Education Center at the Boston Public Library
+    location: Boston
+    url: https://www.leventhalmap.org
+    logo: MapCenter_allwhite.png
+
+# ------------------------------------------------------------------------------
+# Contributors
+# ------------------------------------------------------------------------------
+
+contributor_as_it_appears:
+
+contributor:
+  - id: rpegg
+    type: primary
+    first_name: Richard
+    last_name: Pegg
+    title: Director and Curator of Asian Art
+    affiliation: MacLean Collection
+    bio: "TKTK Richard bio"
+    url: https://www.macleancollection.com/contact
+  - id: gnelson
+    type: secondary
+    first_name: Garrett
+    last_name: Nelson
+    title: President & Head Curator
+    affiliation: Leventhal Map & Education Center at the Boston Public Library
+    url: https://www.leventhalmap.org/about/people/garrett-nelson/
+
+# ------------------------------------------------------------------------------
+# Copright & License
+# ------------------------------------------------------------------------------
+
+copyright: © 2024 Leventhal Map & Education Center
+
+license:
+  name: Creative Commons Attribution 4.0 International License
+  abbreviation: CC BY
+  url: https://creativecommons.org/licenses/by/4.0/
+  scope: full # full | text-only | some-exceptions
+
+# ------------------------------------------------------------------------------
+# Formats, Resources & Links
+# ------------------------------------------------------------------------------
+
+resource_link:
+  - type: other-format
+    name: PDF
+    media_type: application/pdf
+    link_relation: alternate
+    url: /downloads/output.pdf
+  - type: other-format
+    name: EPUB
+    media_type: application/epub+zip
+    link_relation: alternate
+    url: /downloads/output.epub
+  - type: footer-link
+    name: About
+    link_relation: about
+    url: /about/
+  - type: footer-link
+    name: Privacy Policy
+    link_relation: privacy-policy
+    url:
+  - type: footer-link
+    name: Terms of Use
+    link_relation: terms-of-service
+    url:
+
+# ------------------------------------------------------------------------------
+# Subjects
+# ------------------------------------------------------------------------------
+
+subject:
+  - type: bisac
+    name: PHOTOGRAPHY / Subjects & Themes / Historical
+    identifer: PHO023100
+  - type: keywords
+    name: photography, black-and-white, great despression
+
+# ------------------------------------------------------------------------------
+# Revision History
+# ------------------------------------------------------------------------------
+
+revision_history:
+  - date:
+    summary:
+
+repository_url:
+
+# ------------------------------------------------------------------------------
+# Promo Image
+# ------------------------------------------------------------------------------
+
+promo_image: static-cover.jpg
