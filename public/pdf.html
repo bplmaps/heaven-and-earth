@@ -1,0 +1,3036 @@
+<!DOCTYPE html><html><head>
+    <!--
+    <meta charset="utf-8" />
+    <meta name="description" content="${description}">
+    <meta name="keywords" content="${keywords}">
+    <title>${pageTitle}</title>
+    <link rel="canonical" href="${canonicalURL}">
+    <link rel="version-history" href="${publication.repositoryUrl}">
+    -->
+    <link rel="stylesheet" href="pdf.css">
+  </head>
+  <body>
+  
+
+<svg style="display: none">
+      <symbol id="left-arrow-icon" viewBox="0 0 18 32">
+        <path d="M23.1,11.1L21,9l-9,9l9,9l2.1-2.1L16.2,18L23.1,11.1z"></path>
+      </symbol>
+      <symbol id="right-arrow-icon" viewBox="0 0 18 32">
+        <path d="M12.9,11.1L15,9l9,9l-9,9l-2.1-2.1l6.9-6.9L12.9,11.1z"></path>
+      </symbol>
+      <symbol id="search-icon" viewBox="0 0 32 32">
+        <path d="M18.6,16.4h-1.2L17,16c1.5-1.7,2.3-3.9,2.3-6.3C19.3,4.3,15,0,9.7,0S0,4.3,0,9.7s4.3,9.7,9.7,9.7c2.4,0,4.6-0.9,6.3-2.3
+      l0.4,0.4v1.2l7.4,7.4l2.2-2.2L18.6,16.4z M9.7,16.4C6,16.4,3,13.4,3,9.7S6,3,9.7,3s6.7,3,6.7,6.7S13.4,16.4,9.7,16.4z"></path>
+      </symbol>
+      <symbol id="nav-icon" viewBox="0 0 32 32">
+        <path d="M0,6.7h24.9V3.1H0V6.7z M0,13.8h24.9v-3.6H0V13.8z M0,20.9h24.9v-3.6H0V20.9z M28.4,20.9H32v-3.6h-3.6V20.9z M28.4,3.1v3.6
+      H32V3.1H28.4z M28.4,13.8H32v-3.6h-3.6V13.8z"></path>
+      </symbol>
+      <symbol id="arrow-forward-icon" viewBox="0 0 32 32">
+        <path d="M16,5.3l-1.9,1.9l7.4,7.5H5.3v2.7h16.2l-7.4,7.5l1.9,1.9L26.7,16L16,5.3z"></path>
+      </symbol>
+      <symbol id="home-icon" viewBox="0 0 32 32">
+        <path d="M11,18V6l-8.5,6L11,18z M11.5,12l8.5,6V6L11.5,12z"></path>
+      </symbol>
+      <symbol id="start-icon" viewBox="0 0 32 32">
+        <path d="M8,5v14l11-7L8,5z"></path>
+      </symbol>
+      <symbol id="down-arrow-icon" viewBox="0 0 32 32">
+        <path d="M16.6,8.6L12,13.2L7.4,8.6L6,10l6,6l6-6L16.6,8.6z"></path>
+      </symbol>
+      <symbol id="link-icon" viewBox="0 0 20 20">
+        <path d="M3.3,16.7c-1.4-1.4-1.4-3.7,0-5.1l3.3-3.3L5,6.7L1.7,10c-2.3,2.3-2.3,6,0,8.3s6,2.3,8.3,0l3.3-3.3l-1.6-1.6l-3.3,3.3
+          C7,18.1,4.7,18.1,3.3,16.7z M7.5,14.1l6.6-6.6l-1.7-1.7l-6.6,6.6L7.5,14.1z M10,1.7L6.7,5l1.6,1.6l3.3-3.3c1.4-1.4,3.7-1.4,5.1,0
+          s1.4,3.7,0,5.1l-3.3,3.3l1.6,1.6l3.3-3.3c2.3-2.3,2.3-6,0-8.3S12.3-0.6,10,1.7z"></path>
+      </symbol>
+      <symbol id="close-icon" viewBox="0 0 48 48">
+        <path d="M38 12.83L35.17 10 24 21.17 12.83 10 10 12.83 21.17 24 10 35.17 12.83 38 24 26.83 35.17 38 38 35.17 26.83 24z"></path>
+      </symbol>
+      <symbol id="download-icon" viewBox="0 0 32 32">
+        <path d="M28.4,16v12.4H3.6V16H0v12.4c0,2,1.6,3.6,3.6,3.6h24.9c2,0,3.6-1.6,3.6-3.6V16H28.4z M17.8,17.2l4.6-4.6l2.5,2.5L16,24
+          l-8.9-8.9l2.5-2.5l4.6,4.6V0h3.6V17.2z"></path>
+      </symbol>
+      <symbol id="plus-icon" viewBox="0 0 16 16">
+        <path d="M26 0C11.664 0 0 11.663 0 26s11.664 26 26 26 26-11.663 26-26S40.336 0 26 0zm0 50C12.767 50 2 39.233 2 26S12.767 2 26 2s24 10.767 24 24-10.767 24-24 24z"></path>
+        <path d="M38.5 25H27V14c0-.553-.448-1-1-1s-1 .447-1 1v11H13.5c-.552 0-1 .447-1 1s.448 1 1 1H25v12c0 .553.448 1 1 1s1-.447 1-1V27h11.5c.552 0 1-.447 1-1s-.448-1-1-1z"></path>
+      </symbol>
+      <symbol id="fullscreen-icon" viewBox="0 0 24 24">
+        <path d="M0 0h24v24H0z" fill="none"></path>
+        <path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"></path>
+      </symbol>
+      <symbol id="add-circle-icon" viewBox="0 0 20 20">
+        <path d="M9.25 14h1.5v-3.25H14v-1.5h-3.25V6h-1.5v3.25H6v1.5h3.25Zm.75 4q-1.646 0-3.104-.625-1.458-.625-2.552-1.719t-1.719-2.552Q2 11.646 2 10q0-1.667.625-3.115.625-1.447 1.719-2.541Q5.438 3.25 6.896 2.625T10 2q1.667 0 3.115.625 1.447.625 2.541 1.719 1.094 1.094 1.719 2.541Q18 8.333 18 10q0 1.646-.625 3.104-.625 1.458-1.719 2.552t-2.541 1.719Q11.667 18 10 18Zm0-1.5q2.708 0 4.604-1.896T16.5 10q0-2.708-1.896-4.604T10 3.5q-2.708 0-4.604 1.896T3.5 10q0 2.708 1.896 4.604T10 16.5Zm0-6.5Z"></path>
+      </symbol>
+      <symbol id="rotation-icon" viewBox="0 0 24 24">
+        <path d="M8.76918 19.1836L7.77593 18.1904L9.67785 16.2779C7.68107 16.0073 6.01922 15.4801 4.6923 14.6961C3.36537 13.9121 2.7019 13.0201 2.7019 12.0202C2.7019 10.8314 3.60117 9.80777 5.3997 8.9493C7.19822 8.09082 9.39805 7.66158 11.9992 7.66158C14.6003 7.66158 16.8004 8.09082 18.5995 8.9493C20.3985 9.80777 21.298 10.8314 21.298 12.0202C21.298 12.8584 20.8103 13.633 19.835 14.344C18.8597 15.055 17.5679 15.5936 15.9596 15.9596V14.5298C17.2211 14.1965 18.1931 13.7907 18.8754 13.3125C19.5578 12.8343 19.899 12.4035 19.899 12.0202C19.899 11.4676 19.197 10.8362 17.7929 10.126C16.3888 9.4157 14.4582 9.06057 12.001 9.06057C9.5439 9.06057 7.61293 9.4157 6.20813 10.126C4.80331 10.8362 4.1009 11.4676 4.1009 12.0202C4.1009 12.4587 4.59338 12.9806 5.57833 13.5861C6.56328 14.1915 7.89133 14.6154 9.56248 14.8577L7.77593 13.0711L8.76918 12.0779L12.322 15.6308L8.76918 19.1836Z"></path>
+      </symbol>
+    </svg><svg style="display: none" data-outputs-exclude="epub,pdf">
+      <symbol id="by" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M29.9 0C38.3 0 45.4 2.9 51.2 8.7C57 14.5 59.9 21.6 59.9 30C59.9 38.4 57 45.4 51.3 51.1C45.2 57.1 38.1 60 29.8 60C21.7 60 14.7 57.1 8.7 51.2C2.9 45.3 0 38.2 0 30C0 21.8 2.9 14.7 8.8 8.7C14.6 2.9 21.7 0 29.9 0ZM30.1 5.4C23.3 5.4 17.5 7.8 12.8 12.6C7.9 17.6 5.5 23.4 5.5 30C5.5 36.6 7.9 42.4 12.8 47.2C17.7 52.1 23.4 54.5 30.2 54.5C36.9 54.5 42.7 52.1 47.7 47.2C52.4 42.7 54.8 36.9 54.8 30C54.8 23.2 52.4 17.4 47.6 12.6C42.6 7.8 36.8 5.4 30.1 5.4ZM38.1 22.6V34.9H34.7V49.5H25.4V34.8H22V22.6C22 22.1 22.2 21.6 22.6 21.2C23 20.8 23.4 20.6 24 20.6H36.3C36.8 20.6 37.2 20.8 37.6 21.2C37.9 21.6 38.1 22 38.1 22.6ZM25.8 14.8C25.8 12 27.2 10.6 30 10.6C32.8 10.6 34.2 12 34.2 14.8C34.2 17.6 32.8 19 30 19C27.2 19 25.8 17.6 25.8 14.8Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="cc" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M29.9 0C38.3 0 45.4 2.90484 51.3 8.81469C54.1 11.6194 56.3 14.8247 57.7 18.5309C59.3 22.1369 60 25.9432 60 30.0501C60 34.1569 59.3 38.0634 57.8 41.5693C56.4 45.1753 54.2 48.3806 51.4 51.0851C48.5 53.99 45.2 56.1937 41.4 57.6962C37.7 59.1987 33.8 60 29.9 60C26 60 22.1 59.1987 18.5 57.6962C14.9 56.1937 11.6 53.99 8.7 51.0851C5.8 48.1803 3.6 44.975 2.1 41.3689C0.6 37.7629 0 34.0568 0 30.0501C0 26.0434 0.8 22.2371 2.3 18.6311C3.8 15.025 6 11.6194 8.9 8.71452C14.6 2.90484 21.6 0 29.9 0ZM30.1 5.40901C23.2 5.40901 17.5 7.81302 12.8 12.621C10.4 15.025 8.6 17.7295 7.4 20.7346C6.1 23.7396 5.5 26.8447 5.5 30.0501C5.5 33.2554 6.1 36.3606 7.4 39.3656C8.7 42.3706 10.5 44.975 12.8 47.379C15.2 49.6828 17.8 51.4858 20.8 52.788C23.8 53.99 26.9 54.591 30.1 54.591C33.3 54.591 36.4 53.99 39.4 52.6878C42.4 51.3856 45.1 49.5826 47.6 47.2788C52.3 42.6711 54.6 36.9616 54.6 30.0501C54.6 26.7446 54 23.5392 52.8 20.6344C51.6 17.6294 49.8 15.025 47.5 12.7212C42.6 7.81302 36.8 5.40901 30.1 5.40901ZM29.7 25.0417L25.7 27.1452C25.3 26.2437 24.7 25.6427 24.1 25.2421C23.5 24.8414 22.9 24.7412 22.4 24.7412C19.7 24.7412 18.4 26.5442 18.4 30.0501C18.4 31.6528 18.7 32.9549 19.4 33.9566C20.1 34.9583 21.1 35.3589 22.4 35.3589C24.2 35.3589 25.4 34.4574 26.1 32.7546L29.8 34.6578C29 36.1603 27.9 37.2621 26.5 38.1636C25.1 38.9649 23.6 39.4658 21.9 39.4658C19.2 39.4658 17.1 38.6644 15.4 36.9616C13.8 35.3589 12.9 33.0551 12.9 30.0501C12.9 27.1452 13.7 24.9416 15.4 23.2387C17.1 21.5359 19.2 20.7346 21.7 20.7346C25.4 20.7346 28.1 22.1369 29.7 25.0417ZM47 25.0417L43 27.1452C42.6 26.2437 42 25.6427 41.4 25.2421C40.8 24.8414 40.2 24.7412 39.6 24.7412C36.9 24.7412 35.6 26.5442 35.6 30.0501C35.6 31.6528 35.9 32.9549 36.6 33.9566C37.3 34.9583 38.3 35.3589 39.6 35.3589C41.3 35.3589 42.6 34.4574 43.3 32.7546L47.1 34.6578C46.3 36.1603 45.2 37.2621 43.8 38.1636C42.4 38.9649 40.9 39.4658 39.2 39.4658C36.5 39.4658 34.3 38.6644 32.7 36.9616C31.1 35.3589 30.3 33.0551 30.3 30.0501C30.3 27.1452 31.1 24.9416 32.8 23.2387C34.5 21.5359 36.6 20.7346 39.1 20.7346C42.8 20.7346 45.4 22.1369 47 25.0417Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="nc" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 0C38.4 0 45.5 2.9 51.3 8.7C57.1 14.5 60 21.6 60 30C60 38.4 57.1 45.4 51.4 51.1C45.3 57.1 38.2 60 29.9 60C21.8 60 14.7 57 8.80001 51.1C2.90001 45.2 0 38.2 0 30C0 21.8 2.90001 14.7 8.80001 8.7C14.7 2.9 21.8 0 30 0ZM6.90001 21.9C6.00001 24.4 5.60001 27.1 5.60001 30C5.60001 36.6 8.00001 42.4 12.9 47.3C17.8 52.1 23.6 54.5 30.3 54.5C37.1 54.5 42.9 52.1 47.8 47.2C49.6 45.5 50.9 43.8 51.9 41.9L40.6 36.9C40.2 38.8 39.3 40.3 37.7 41.5C36.2 42.7 34.4 43.4 32.3 43.6V48.2H28.8V43.6C25.5 43.6 22.4 42.4 19.7 40L23.8 35.8C25.8 37.6 28 38.5 30.5 38.5C31.5 38.5 32.4 38.3 33.2 37.8C33.9 37.3 34.3 36.6 34.3 35.5C34.3 34.7 34 34.1 33.5 33.7L30.6 32.5L27.1 30.9L22.3 28.8L6.90001 21.9ZM30.2 5.4C23.4 5.4 17.6 7.8 12.9 12.6C11.7 13.8 10.6 15.1 9.60001 16.6L21.1 21.7C21.6 20.1 22.5 18.9 23.9 17.9C25.3 17 26.9 16.4 28.8 16.3V11.7H32.3V16.3C35.1 16.4 37.5 17.4 39.8 19.1L35.9 23.1C34.2 21.9 32.5 21.3 30.8 21.3C29.9 21.3 29 21.5 28.3 21.8C27.6 22.2 27.2 22.8 27.2 23.6C27.2 23.9 27.3 24.1 27.5 24.4L31.3 26.1L33.9 27.3L38.7 29.4L54.1 36.3C54.6 34.2 54.9 32.1 54.9 29.9C54.9 23 52.5 17.2 47.7 12.5C42.8 7.8 37 5.4 30.2 5.4Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="nd" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 0C38.4 0 45.5 2.9 51.3 8.7C57.1 14.5 60 21.6 60 30C60 38.4 57.1 45.4 51.4 51.1C45.4 57 38.2 60 29.9 60C21.8 60 14.8 57.1 8.8 51.2C2.90001 45.3 0 38.3 0 30C0 21.8 2.90001 14.7 8.8 8.7C14.8 2.9 21.8 0 30 0ZM30.2 5.4C23.4 5.4 17.6 7.8 12.9 12.6C8.00001 17.6 5.60001 23.4 5.60001 30C5.60001 36.7 8.00001 42.4 12.9 47.3C17.8 52.2 23.5 54.6 30.3 54.6C37 54.6 42.8 52.2 47.8 47.3C52.5 42.7 54.9 37 54.9 30.1C54.9 23.2 52.5 17.5 47.7 12.7C42.8 7.8 37 5.4 30.2 5.4ZM41.5 22.9V28H19.7V22.9H41.5ZM41.5 32.6V37.7H19.7V32.6H41.5Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="sa" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 0C38.4 0 45.5 2.9 51.3 8.7C57.1 14.5 60 21.6 60 30C60 38.4 57.1 45.4 51.4 51.1C45.4 57 38.2 60 29.9 60C21.8 60 14.8 57.1 8.8 51.2C2.9 45.3 0 38.3 0 30C0 21.8 2.9 14.7 8.8 8.7C14.8 2.9 21.8 0 30 0ZM30.2 5.4C23.4 5.4 17.6 7.8 12.9 12.6C8.00001 17.6 5.60001 23.4 5.60001 30C5.60001 36.7 8.00001 42.4 12.9 47.2C17.8 52.1 23.5 54.5 30.3 54.5C37 54.5 42.8 52.1 47.8 47.2C52.5 42.6 54.9 36.9 54.9 30C54.9 23.1 52.5 17.4 47.7 12.6C42.8 7.8 37 5.4 30.2 5.4ZM16.8 25.8C17.4 22.1 18.9 19.3 21.2 17.3C23.6 15.3 26.5 14.3 29.9 14.3C34.6 14.3 38.4 15.8 41.1 18.9C43.9 21.9 45.3 25.8 45.3 30.6C45.3 35.2 43.9 39 41 42.1C38.1 45.2 34.4 46.7 29.7 46.7C26.3 46.7 23.4 45.7 20.9 43.6C18.4 41.6 17 38.7 16.5 34.9H24.1C24.3 38.5 26.5 40.4 30.7 40.4C32.8 40.4 34.5 39.5 35.8 37.7C37.1 35.9 37.7 33.4 37.7 30.4C37.7 27.2 37.1 24.8 35.9 23.1C34.7 21.4 33 20.6 30.8 20.6C26.8 20.6 24.5 22.4 24 25.9H26.2L20.3 31.8L14.4 25.9L16.8 25.8Z" fill="currentColor"></path>
+      </symbol>
+      <symbol id="zero" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+        <path d="M30 12.7C20.1 12.7 17.6 22 17.6 30C17.6 37.9 20.1 47.3 30 47.3C39.9 47.3 42.4 38 42.4 30C42.4 22.1 39.9 12.7 30 12.7ZM30 19.2C30.4 19.2 30.8 19.3 31.1 19.3C31.8 19.9 32.2 20.8 31.5 21.9L24.9 34C24.7 32.5 24.7 31 24.7 29.8C24.7 26.5 24.9 19.2 30 19.2ZM34.9 24.8C35.2 26.7 35.3 28.6 35.3 30C35.3 33.5 35.1 40.8 30 40.8C29.6 40.8 29.2 40.8 28.9 40.7C28.8 40.7 28.8 40.7 28.7 40.6C28.6 40.6 28.5 40.5 28.4 40.5C27.3 40 26.6 39.1 27.6 37.6L34.9 24.8Z" fill="currentColor"></path>
+        <path d="M29.9 0C21.6 0 14.6 2.9 8.8 8.7C5.9 11.6 3.7 14.9 2.2 18.6C0.699997 22.2 0 26 0 30C0 34 0.699997 37.8 2.2 41.4C3.7 45 5.9 48.3 8.7 51.1C11.6 54 14.8 56.2 18.4 57.7C22.2 59.3 26 60 29.9 60C33.9 60 37.7 59.2 41.4 57.7C45.1 56.2 48.4 54 51.4 51.1C54.2 48.4 56.4 45.2 57.8 41.6C59.3 38 60 34.1 60 30C60 25.9 59.3 22.1 57.8 18.5C56.3 14.9 54.2 11.6 51.4 8.8C45.5 2.9 38.3 0 29.9 0ZM30.1 5.4C36.9 5.4 42.7 7.8 47.5 12.6C49.8 14.9 51.6 17.6 52.8 20.5C54 23.5 54.6 26.6 54.6 29.9C54.6 36.8 52.2 42.5 47.6 47.1C45.2 49.5 42.4 51.3 39.4 52.5C36.4 53.8 33.3 54.4 30.1 54.4C26.8 54.4 23.7 53.8 20.8 52.6C17.8 51.3 15.2 49.6 12.8 47.2C10.4 44.8 8.6 42.2 7.3 39.2C6.1 36.2 5.4 33.1 5.4 29.9C5.4 26.6 6 23.5 7.3 20.6C8.6 17.6 10.4 14.9 12.8 12.5C17.4 7.8 23.2 5.4 30.1 5.4Z" fill="currentColor"></path>
+      </symbol>
+    </svg><section class="quire-page frontmatter quire-cover" data-footer-page-title="Cover" id="page-index">
+          <section class="quire-cover__hero hero is-fullheight">
+            <div class="quire-cover__overlay" style="background-image: url(_assets/images/spiral-overlay.png);">
+              <!-- This ensures background image asset gets copied into epub package -->
+              <img class="visually-hidden" src="_assets/images/spiral-overlay.png">
+            </div>
+            <div class="quire-cover__hero-body hero-body">
+              <div class="container is-fluid">
+                <h1 class="title" id="page-header-index">
+                  Heaven and Earth
+
+                  <span class="visually-hidden">: </span>
+                  <span class="subtitle">The Blue Maps of China</span>
+                </h1>
+                <p class="reading-line"></p>
+                <div class="contributor">
+                  <span class="visually-hidden">Contributors: </span>
+
+                  <em><span class="quire-contributor">Richard Pegg</span></em>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="quire-cover__more next-page">
+            <div class="quire-cover__more-body hero-more">
+              <a href="#page-cover-content">
+                
+                
+              </a>
+            </div>
+          </section>
+
+          <section id="cover-content" class="section quire-page__content">
+            <div class="container is-fluid">
+              <div class="content">
+                <p>
+                  In the early decades of nineteenth-century China, two series
+                  of large-format maps, one terrestrial and one celestial, were
+                  printed in the city of Suzhou. They were printed as eight
+                  loose sheets using Prussian blue, the first large scale use of
+                  this pigment in East Asia, in the unusual manner of a rubbing
+                  from a stone-stele, resulting in most of the paper appearing
+                  in bright blue. The terrestrial maps present the realm of the
+                  Qing Empire (1644–1911) and selected surrounding regions. The
+                  four extant editions of the celestial maps, dated to 1822 and
+                  1826, present a planisphere of all the known stars and
+                  extensive descriptions of known celestial bodies and their
+                  related celestial mechanics. This exhibition considers these
+                  two maps in the contexts of their production, consumption, and
+                  functions revealing them as unique in the global history of
+                  mapmaking.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          
+        </section><section class="quire-page frontmatter half-title-page" data-footer-page-title="" id="page-pdf-epub-half-title">
+          <section class="half-title">
+            <p>Heaven and Earth</p>
+          </section>
+        </section><section class="quire-page frontmatter title-page" data-footer-page-title="" id="page-pdf-epub-title">
+          <section class="title-block">
+            <h1 class="title">Heaven and Earth: The Blue Maps of China</h1>
+            <p class="contributor">
+              <span class="quire-contributor">Richard Pegg</span>
+            </p>
+          </section>
+          <section class="publisher-block">
+            <p class="publisher">
+              Leventhal Map &amp; Education Center at the Boston Public Library,
+              Boston
+            </p>
+          </section>
+        </section><section class="quire-page frontmatter copyright-page" data-footer-page-title="" id="page-pdf-epub-copyright">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="undefined"></h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <div class="quire-copyright">
+                  <img src="_assets/images/MapCenter_allwhite.png" class="copyright__publisher-logo" alt="Leventhal Map &amp; Education Center at the Boston Public Library">
+                  <p>© 2024 Leventhal Map &amp; Education Center</p>
+                  <a class="quire-copyright__icon__link" href="#page-https-creativecommons-org-licenses-by-4-0" rel="license" target="_blank">
+                    <svg class="quire-copyright__icon">
+                      <use xlink:href="#cc"></use>
+                    </svg>
+                    <svg class="quire-copyright__icon">
+                      <use xlink:href="#by"></use>
+                    </svg>
+                  </a>
+                  <div class="is-screen-only">
+                    This work is licensed under a
+                    <a rel="license" href="#page-https-creativecommons-org-licenses-by-4-0" target="_blank">Creative Commons Attribution 4.0 International License</a>.
+                    <span class="is-print-only">
+                      To view a copy of this license visit
+                      https://creativecommons.org/licenses/by/4.0/.
+                    </span>
+                  </div>
+                  <div class="is-print-only">
+                    This work is licensed under a
+                    <a rel="license" href="#page-https-creativecommons-org-licenses-by-4-0" target="_blank">Creative Commons Attribution 4.0 International License</a>.
+                    <span class="is-print-only">
+                      To view a copy of this license visit
+                      https://creativecommons.org/licenses/by/4.0/.
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page frontmatter quire-contents" data-footer-page-title="Contents" id="page-contents">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="contents">Contents</h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="quire-contents-list list">
+                
+                
+                <nav class="table-of-contents menu-list" data-outputs-include="pdf">
+                  <ol class="table-of-contents-list">
+                    <li class="level-0 page-item">
+                      <a href="#page-intro">Introduction: Cosmographic Spaces<span class="contributor-divider">
+                          — </span><span class="contributor"><span class="quire-contributor">Garrett Nelson</span></span></a>
+                    </li>
+                    <li class="level-0 page-item">
+                      <a href="#page-essay">Essay. Heaven and Earth: The Blue Maps of China<span class="contributor-divider">
+                          — </span><span class="contributor"><span class="quire-contributor">Richard Pegg</span></span></a>
+                    </li>
+                    <li class="level-0 section-item">
+                      <a href="#page-learn">Learn About the Maps</a>
+
+                      <ol class="table-of-contents-list">
+                        <li class="level-1 page-item">
+                          <a href="#page-learn-rubbings">Rubbings</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-learn-collecting-rubbings">Collecting Rubbings</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-learn-prussian-blue">Prussian Blue</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-learn-calligraphy">Calligraphy</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-learn-huang-family">Huang Family</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-learn-encoded-toponyms">Encoded Toponyms</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-learn-gujin-paradigm"><em>Gujin</em> Paradigm</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-learn-planishphere">Planisphere</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-learn-combining-heaven-and-earth">Combining Heaven and Earth</a>
+                        </li>
+                      </ol>
+                    </li>
+                    <li class="level-0 section-item">
+                      <a href="#page-catalogue">Catalogue</a>
+
+                      <ol class="table-of-contents-list">
+                        <li class="level-1 page-item">
+                          <a href="#page-catalogue-1">Cat.1. Geographical Map, Rubbing from Stone
+                            Carving</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-catalogue-2">Cat.2. Celestial Chart, Rubbing from Stone
+                            Carving</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-catalogue-3">Cat.3. Complete Geographical Map of the Everlasting
+                            Unified Qing Empire</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-catalogue-4">Cat.4. Complete Map of Unified Star Configurations
+                            in the Heavens</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-catalogue-5">Cat.5. Complete Terrestrial Map and Map of Zhejiang
+                            Province, in Enlarged Territorial Atlas</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-catalogue-6">Cat.6. Capital Edition of the Complete Map (Based
+                            on) Astronomy</a>
+                        </li>
+                        <li class="level-1 page-item">
+                          <a href="#page-catalogue-7">Cat.7. Complete all under heaven map of the
+                            everlasting unified Qing empire</a>
+                        </li>
+                      </ol>
+                    </li>
+                    <li class="level-0 page-item">
+                      <a href="#page-bibliography">Bibliography</a>
+                    </li>
+                    <li class="level-0 page-item">
+                      <a href="#page-contributors">Contributors</a>
+                    </li>
+                  </ol>
+                </nav>
+                <div class="content"></div>
+              </div>
+              
+            </div>
+          </section>
+        </section><section class="quire-page frontmatter quire-splash" data-footer-page-title="Introduction" id="page-intro">
+          <section class="quire-page__header hero hero-image" style="background-image: url(_assets/images/banners/terrestrial_zoom.jpg);">
+            <!-- This ensures background image asset gets copied into epub package -->
+            <img class="visually-hidden" src="_assets/images/banners/terrestrial_zoom.jpg">
+
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="page-header-intro">
+                Introduction: Cosmographic Spaces
+              </h1>
+
+              <div class="quire-page__header__contributor">
+                <ul class="quire-contributors-list name-title align-left">
+                  <li class="quire-contributor" id="gnelson">
+                    <span class="quire-contributor__name">Garrett Nelson</span>,
+                    <span class="quire-contributor__title">President &amp; Head Curator</span>,
+                    <span class="quire-contributor__affiliation">Leventhal Map &amp; Education Center at the Boston Public
+                      Library</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>Welcome to this lovely exhibition</p>
+              </div>
+              
+            </div>
+          </section>
+        </section><section class="quire-page quire-essay page-one" data-footer-page-title="Essay. Heaven and Earth" id="page-essay">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="heaven-and-earth">
+                <span class="label">Essay<span class="visually-hidden">. </span></span>
+                Heaven and Earth: The Blue Maps of China
+              </h1>
+              <div class="quire-page__header__contributor">
+                <ul class="quire-contributors-list name-title align-left">
+                  <li class="quire-contributor" id="rpegg">
+                    <span class="quire-contributor__name">Richard Pegg</span>,
+                    <span class="quire-contributor__title">Director and Curator of Asian Art</span>,
+                    <span class="quire-contributor__affiliation">MacLean Collection</span>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <section class="section quire-page__abstract">
+              <div class="container">
+                <div class="content">
+                  <p>TKTK Abstract</p>
+                </div>
+              </div>
+            </section>
+
+            <div class="container">
+              <div class="content">
+                <p>
+                  In China, during the early decades of the nineteenth century,
+                  two series<br>
+                  of large format maps, one terrestrial and one celestial, were
+                  printed<br>
+                  between 1812 and 1826 in the city of Suzhou, one of the
+                  economic and<br>
+                  intellectual centers of the Chinese empire at the time and
+                  throughout<br>
+                  much of China’s imperial history. The terrestrial maps, of
+                  which most of<br>
+                  the ten editions are entitled <em>Geographical</em>
+                  <em>Complete Map of the<br>
+                    Everlasting Unified Qing Empire</em>
+                  (<em>Daqing wannian yitong dili quantu</em><br>
+                  大清萬年一統地理全圖), present the realm of the Qing Empire
+                  (1644–1911)<br>
+                  and selected surrounding regions. The four extant editions of
+                  the<br>
+                  celestial maps entitled
+                  <em>Complete Map of Unified Star Configurations in<br>
+                    the Heavens</em>
+                  (<em>Huntian yitong xingxiang quantu</em> 渾天壹統星象全圖),
+                  dated<br>
+                  to 1822 and 1826, present a planisphere of all the known stars
+                  and<br>
+                  extensive descriptions of known celestial bodies and their
+                  related<br>
+                  celestial mechanics. This catalogue essay considers these two
+                  maps in<br>
+                  the contexts of their interconnected “4 M’s;” that is
+                  methods,<br>
+                  materials, makers and models; while the catalogue entries
+                  provide<br>
+                  information about the content of each of the maps and charts
+                  included in<br>
+                  the exhibition.
+                </p>
+                <h2>Methods and Materials</h2>
+                <p>
+                  The methods and materials for the production and consumption
+                  of the blue<br>
+                  maps and charts are unique in cartographic history, not only
+                  locally in<br>
+                  East Asia but within the larger world.<sup class="footnote-ref"><a href="#page-essay-fn1" id="page-essay-fnref1" class="footnote-ref-anchor">1</a></sup>
+                  Both maps and charts were<br>
+                  produced on eight sheets of Chinese <em>xuan</em> 宣 paper in
+                  three unique<br>
+                  manners; the paper, the printing method and the blue colorant.
+                  While the<br>
+                  associated mounting and consumption practices are also unique.
+                </p>
+                <p>
+                  Xuan paper, made primarily in Anhui and Zhejiang provinces,
+                  was<br>
+                  principally blue sandalwood (Tara Wingceltis, L.
+                  <em>Ulmus Cavaleriei</em>, C.<br>
+                  <em>qingdan</em> 青檀), a deciduous tree found throughout
+                  China, mixed with<br>
+                  differing degrees of rice plant fibers. In the case of the
+                  blue maps and<br>
+                  charts, a low grade <em>xuan</em> type paper was used, one
+                  with less blue<br>
+                  sandalwood fibers and more rice plant fiber fill. The paper
+                  used was<br>
+                  unusual, between a low-cost bamboo paper typical of rubbings
+                  (a printing<br>
+                  technique) and a high-cost sandalwood paper typical of
+                  painting and<br>
+                  calligraphy.
+                </p>
+                <p>
+                  The blue maps follow closely the aesthetics of a print
+                  production known<br>
+                  as a rubbing. This printing production methodology began in
+                  the Tang<br>
+                  dynasty (618-907 CE). The manner of presentation of white
+                  characters on<br>
+                  a solid color, here blue, should be understood within the
+                  context of<br>
+                  historical Chinese practices associated with making rubbings
+                  from stone<br>
+                  stele and ancient bronzes. In China, rubbings were an
+                  essential<br>
+                  component of long-established epigraphic study and associated
+                  collecting<br>
+                  practices, as well as specific calligraphic practices. To make
+                  a rubbing<br>
+                  from an engraved stone stele, slightly moistened paper would
+                  be fixed on<br>
+                  a prepared, flattened smooth then carved, stone. The moist
+                  paper would<br>
+                  be manipulated using brushes and pointed sticks, pressing the
+                  paper into<br>
+                  the recessed areas of the carved stone. An inked (typically in
+                  black)<br>
+                  dauber (fabric over cotton wadding) would be tamped down onto
+                  the<br>
+                  paper-covered stone. The ink would adhere to the “raised”
+                  paper making<br>
+                  the areas of carved away stone appear in white. In this
+                  process a<br>
+                  positive image is carved on the stone, and a positive image is
+                  created<br>
+                  on the inked paper. This contrasts to the typical manner of
+                  woodblock<br>
+                  printing where a negative image is carved into the block, the
+                  block is<br>
+                  then inked and the paper pressed onto the inked block with the
+                  ink<br>
+                  transferring to the paper, making for a positive image on the
+                  paper. In<br>
+                  other words, typical woodblock printing creates a positive
+                  image from a<br>
+                  negative block.
+                </p>
+                <p>
+                  The blue maps and charts production adhere this process of
+                  making<br>
+                  rubbings from stone steles, but through printing from
+                  woodblocks instead<br>
+                  of stone. Like a stone stele, a positive image would be carved
+                  into a<br>
+                  wooden block that was then used to print in the manner of a
+                  rubbing.<br>
+                  Historically in China, it is highly unusual to print from
+                  woodblocks a<br>
+                  positive image from a positive block, especially at this
+                  scale.<br>
+                  Woodblock printing typically was used to create more easily
+                  and quickly<br>
+                  multiple similar copies of any given work. Printing in the
+                  manner of a<br>
+                  rubbing is comparatively very labor intensive and time
+                  consuming,<br>
+                  creating essentially a unique print each time. Through close
+                  visual<br>
+                  analysis of the printed paper, the rubbing method of
+                  production using<br>
+                  woodblocks can easily be seen on the blue maps and charts. As
+                  already<br>
+                  noted, during the printing process the moistened paper was
+                  pressed and<br>
+                  stretched into the negative space of the carved woodblock,
+                  furthest for<br>
+                  the large characters of the title. After printing, when the
+                  finished<br>
+                  print was to be mounted, the paper was pressed flat and glued
+                  to an<br>
+                  additional paper backing. The resulting “stretch marks,”
+                  formed during<br>
+                  the printing process, became folds and creases that can be
+                  easily seen<br>
+                  when looked for closely on any copy of the blue maps or
+                  charts.<sup class="footnote-ref"><a href="#page-essay-fn2" id="page-essay-fnref2" class="footnote-ref-anchor">2</a></sup>
+                </p>
+                <p>
+                  The most striking, and unusual, feature of these maps is of
+                  course the<br>
+                  blue color that sets them apart from other Chinese maps, and
+                  indeed maps<br>
+                  from any other part of the world, produced at the time.
+                  Scientific<br>
+                  spectral analysis of three copies of the terrestrial maps and
+                  one copy<br>
+                  of a celestial blue map by the Weissman Preservation Center at
+                  Harvard<br>
+                  University and Microtrace in Elgin Illinois, have confirmed
+                  the pigment<br>
+                  to be Prussian Blue. Prussian blue, a ferric (iron)
+                  hexacyanoferrate,<br>
+                  was first synthesized accidentally in Berlin by Johann Jacob
+                  Diesbach, a<br>
+                  Swiss painter and colormaker, in 1706. Its production is a
+                  complex and<br>
+                  time-consuming process of acidic additives into a
+                  crystalline<br>
+                  distillation with resulting varying sized crystals that can be
+                  filtered<br>
+                  to create different tones of blue (note the two tones of blue
+                  used on<br>
+                  the terrestrial map, see entry 3). The blue maps and charts
+                  were<br>
+                  produced around the time when Chinese manufacturers learned to
+                  make the<br>
+                  pigment locally and were less dependent on imports. The
+                  discovery of the<br>
+                  use of Prussian blue in the case of the blue maps and charts
+                  is<br>
+                  historically significant as it demonstrates the first
+                  large-scale use of<br>
+                  Prussian blue for printing in China, and East Asia, in the
+                  first decades<br>
+                  of the nineteenth century.
+                </p>
+                <p>
+                  The blue maps and charts were popular, with ten editions (from
+                  forty-six<br>
+                  extant copies) for the terrestrial map and four editions (from
+                  thirteen<br>
+                  extent copies) of the celestial chart identified thus far.<sup class="footnote-ref"><a href="#page-essay-fn3" id="page-essay-fnref3" class="footnote-ref-anchor">3</a></sup>
+                  The<br>
+                  consumption and display techniques of the blue maps and charts
+                  hint to<br>
+                  their popularity in Japan. The maps and charts were intended
+                  to be<br>
+                  mounted as sets of multiple (eight) hanging scrolls arranged
+                  as a<br>
+                  continuous image in a Chinese style known as the panoramic
+                  screen<br>
+                  (<em>tongjing ping</em> 通景屏), with no borders or gaps in
+                  between the<br>
+                  scrolls, and a one-color border (<em>yise biao</em> 一色裱) in
+                  minimal<br>
+                  proportions done in paper or brocade below and at the top of
+                  each<br>
+                  scroll. And, in general, when the printed sheets were mounted
+                  in China<br>
+                  this was the presentation style. The sheets however were also
+                  sold and<br>
+                  distributed as unmounted sheets.<sup class="footnote-ref"><a href="#page-essay-fn4" id="page-essay-fnref4" class="footnote-ref-anchor">4</a></sup>
+                  The maps and charts were soon<br>
+                  popular in Japan and arrived as eight unmounted sheets. This
+                  is<br>
+                  evidenced by the numerous mounting styles fabricated in Japan.
+                  The maps<br>
+                  and charts can still be found mounted as hanging scrolls,
+                  folded screens<br>
+                  (<em>byōbu</em> 屏風, see entry 3), sliding doors (<em>fusuma</em>
+                  襖), and folded<br>
+                  sheet maps. The Japanese style mounting of the folded sheet
+                  map has two<br>
+                  covers, mounted on the back of the map in opposite corners of
+                  the map<br>
+                  proper, that protect the map when folded. In the case of the
+                  hanging<br>
+                  scroll style (original Chinese style) in Japan, a two-color
+                  mount style<br>
+                  (<em>erse biao</em> 二色裱, and different from the Chinese
+                  style) using two<br>
+                  separate border colors was used, the preferred style in
+                  Japan.<sup class="footnote-ref"><a href="#page-essay-fn5" id="page-essay-fnref5" class="footnote-ref-anchor">5</a></sup>
+                  The<br>
+                  number of still extent blue maps and charts mounted in
+                  Japanese styles<br>
+                  attests to their popularity in Japan.
+                </p>
+                <p>
+                  Confirmation that the maps were intended to be mounted as
+                  hanging<br>
+                  scrolls, can be found in the title slips extant on many prints
+                  of the<br>
+                  terrestrial maps (see entry 3). These title slips were
+                  printed<br>
+                  vertically and stacked on the far-right exterior edge of the
+                  first sheet<br>
+                  for most editions.<sup class="footnote-ref"><a href="#page-essay-fn6" id="page-essay-fnref6" class="footnote-ref-anchor">6</a></sup>
+                  The map’s title, in an abbreviated form (<em>Da Qing<br>
+                    yitong dili quantu</em>), is repeated eight times in individual rectangular<br>
+                  framed boxes. In addition, these eight title slips are
+                  numbered in the<br>
+                  bottom right corner of each slip, from top to bottom, one to
+                  eight.<br>
+                  Typically, title slips were a small blank sheet of paper added
+                  during<br>
+                  the mounting process to the exterior of the rolled hanging
+                  scroll<br>
+                  (hanging scrolls are rolled when stored). After application to
+                  the<br>
+                  scroll by the mount maker a title would be written on the
+                  slip. In other<br>
+                  words, the title slips were typically produced by the mount
+                  maker,<br>
+                  entirely separately from the printing process, and attached to
+                  the<br>
+                  scroll when the work was mounted onto the backing paper that
+                  helps<br>
+                  protect the original work. On the blue maps, however, these
+                  title slips<br>
+                  were incorporated into the original printing process, even
+                  though they<br>
+                  were not, technically, part of the map proper. It is quite
+                  unusual that<br>
+                  title slips were part of the original printed work, to be
+                  removed by the<br>
+                  mount maker. Mount makers would typically never alter the
+                  original work<br>
+                  in any way. The title slips imply that the printer and mount
+                  maker,<br>
+                  typically unrelated craftsmen, collaborated, or at least that
+                  the<br>
+                  production team seriously considered the mount maker as part
+                  of the<br>
+                  project. The intentional inclusion of these eight slips
+                  indicates that<br>
+                  the maps were to be mounted as hanging scrolls, with the title
+                  slips cut<br>
+                  off, separated and placed outside the mount as labels on the
+                  exterior of<br>
+                  the rolled scrolls; again a highly unusual production model.
+                  What is<br>
+                  interesting to note is that the printed sheets were
+                  distributed to Japan<br>
+                  as loose sheets, where mounters kept the title slips attached
+                  when<br>
+                  mounting the maps (see entry 3). As demonstrated above, the
+                  production<br>
+                  of the blue maps and charts are unusual in historical
+                  (Chinese, East<br>
+                  Asian and World) mapmaking through using a low-grade Xuan
+                  paper and<br>
+                  unique in three ways, rubbing printing method, title slips,
+                  and in use<br>
+                  of Prussian blue.
+                </p>
+                <h2>Makers</h2>
+                <p>
+                  Suzhou, one of the economic and intellectual centers of the
+                  Qing empire<br>
+                  at the time of the blue maps and charts production and
+                  throughout much<br>
+                  of China’s imperial history, appears on all signed editions,
+                  of thus far<br>
+                  unidentified persons and or their studios, of the terrestrial
+                  map as a<br>
+                  place of production. Only the last edition of the blue
+                  celestial chart<br>
+                  dated to the fifth month of 1826 is signed by a known
+                  personage, Qian<br>
+                  Yong (1759–1844). Qian Yong was a poet and author as well as
+                  an<br>
+                  accomplished calligrapher of the so-called stone stele (<em>bei</em>
+                  碑) school<br>
+                  of calligraphy, traveling extensively throughout China
+                  collecting<br>
+                  samples of rubbings from stone stele. That a calligrapher was
+                  part of<br>
+                  the design of the blue celestial maps should come as no
+                  surprise. All<br>
+                  celestial editions can be divided by calligraphic types into
+                  three<br>
+                  different styles, unusual for a single object. The first
+                  section is<br>
+                  dedicated to the large eight-character title in seal script
+                  (<em>zhuanshu</em><br>
+                  篆書), while the last section contains an inscription in
+                  clerical script<br>
+                  (<em>lishu</em> 隸書), giving some general information about
+                  the chart, which<br>
+                  differs between the 1822 and the 1826 editions. The main text
+                  written in<br>
+                  standard script (<em>kaishu</em> 楷書) on six sheets, is
+                  structured along<br>
+                  sixteen section heads demarcated by white boxes with blue
+                  character<br>
+                  titles. That the celestial map was designed with multiple
+                  styles of<br>
+                  calligraphy suggests a calligrapher, like Qian Yong, designed
+                  the text<br>
+                  layout and that he participated in the creation of all four
+                  editions.
+                </p>
+                <p>
+                  In late imperial China, the collecting, making of rubbings and
+                  copying<br>
+                  of calligraphy found on ancient stone stele (<em>bei</em>),
+                  and the rubbings of<br>
+                  calligraphy on ancient bronze vessels or from copy books of
+                  calligraphy<br>
+                  (<em>tie</em> 帖) schools of calligraphy were both popular.
+                  These two schools<br>
+                  of collecting and related collecting practices originated in
+                  the<br>
+                  seventeenth century amongst groups of scholars, artists,
+                  collectors, and<br>
+                  calligraphers that formed social groups around literary,
+                  collecting, and<br>
+                  artistic practices of common interest, often sharing and
+                  collaborating<br>
+                  with each other.<sup class="footnote-ref"><a href="#page-essay-fn7" id="page-essay-fnref7" class="footnote-ref-anchor">7</a></sup>
+                  These types of scholarly groups were in a period of<br>
+                  revival in the early nineteenth century with well-known<br>
+                  scholar/painter/calligrapher/rubbings collectors including Yi
+                  Bingshou<br>
+                  伊秉綬 (1755–1815) who wrote sixteen quatrain poems on famous
+                  model<br>
+                  rubbings. Qian Yong was likely active in similar groups and
+                  discussions<br>
+                  among such groups which probably contributed to the creation
+                  of the blue<br>
+                  maps and charts. No doubt the proximity to the two 1247 map
+                  steles, the<br>
+                  <em>Dili tu</em> and <em>tianwen tu</em> (see entries 1 and
+                  2), themselves in the<br>
+                  Confucian temple in Suzhou also helps explain Qian Yong’s
+                  interest in<br>
+                  the blue map and chart project, as he was an avid stele-school
+                  follower<br>
+                  himself.
+                </p>
+                <h2>Models</h2>
+                <p>
+                  This exhibition especially emphasizes three different
+                  historical models<br>
+                  for the blue maps and charts; a particular typology (unique to
+                  East<br>
+                  Asia) of administrative mapping, the Huang family legacy and
+                  the<br>
+                  cosmological/astrological pairing of a terrestrial map and
+                  celestial<br>
+                  chart.
+                </p>
+                <h2>Administrative Mapping</h2>
+                <p>
+                  Luo Hongxian’s (1504-64)
+                  <em>Enlarged Territorial Atlas</em> (<em>Guangyu tu</em>,
+                  see<br>
+                  catalogue entry 5) dated 1566, includes maps of the eighteen
+                  provinces<br>
+                  of late Ming dynasty (1368-1644) China. Luo created
+                  twenty-four<br>
+                  standardized symbols, found in a key, associated with census
+                  figures,<br>
+                  military information and tributary reports and placed them
+                  next to place<br>
+                  names, in the earliest use in China of an “encoded toponym.”
+                  The use of<br>
+                  geometric shapes in association with toponyms and
+                  administration is a<br>
+                  characteristic of a typology of Chinese mapmaking that
+                  visually links<br>
+                  places with the people of those places beginning in the late
+                  Ming<br>
+                  dynasty. The blue terrestrial maps use a key and a
+                  conceptually similar<br>
+                  system, except the toponyms were placed inside the encoded
+                  shapes.
+                </p>
+                <p>
+                  By encoding administrative units with a geographic shape and
+                  thus<br>
+                  visually prioritizing administration over geography, the
+                  people living<br>
+                  in each administrative unit become important, as does the
+                  relationship<br>
+                  of each toponym with the surrounding ones in an administrative
+                  hierarchy<br>
+                  of the entire empire (by mapping placenames that are
+                  presented<br>
+                  relationally as opposed to geometrically/to scale to each
+                  other). Each<br>
+                  toponym is encoded through a shape that ties it immediately to
+                  the<br>
+                  administration and a social structure. If we consider these
+                  encoded<br>
+                  toponyms as presenting a specifically Chinese paradigm of a<br>
+                  socio-political order that has a familial framework, then the
+                  entire<br>
+                  terrestrial blue map can be understood as presenting the
+                  paradigm of an<br>
+                  idealized order that is the Qing empire. Within a specifically
+                  Chinese<br>
+                  context this type of socio-political order with a familial
+                  framework was<br>
+                  proposed and implemented by Confucius (551-479 BCE) and his
+                  followers as<br>
+                  a method to promote peace and stability on micro and macro
+                  scales. That<br>
+                  is not to say that these maps are explicitly Confucian in any
+                  way but<br>
+                  that the blue terrestrial maps present similar paradigms.
+                  These maps<br>
+                  visualize the correlative relationships of a Chinese
+                  cosmological order<br>
+                  found between the toponyms, geography, social structures, and
+                  the people<br>
+                  that inhabit those spaces. The micro-scale familial
+                  relationships and<br>
+                  social structure essential in understanding the macro-scale
+                  frameworks<br>
+                  of the Qing realm and its mapping are valued and these maps
+                  precisely<br>
+                  present the hierarchy visually.
+                </p>
+                <h2>Huang family legacy</h2>
+                <p>
+                  In the preface of the blue terrestrial map the authors credit
+                  as their<br>
+                  principal source Huang Qianren’s (黃千人 1694–1771)), a
+                  student at the<br>
+                  National University and later a low-ranking official, 1767 map
+                  titled<br>
+                  <em>Complete map of the everlasting Great Qing unified all
+                    under heaven</em><br>
+                  (<em>Da Qing wannian yitong tianxia quantu)</em>. Huang in
+                  turn, on his 1767<br>
+                  map, credits his grandfather’s, Huang Zongxi 黃宗羲
+                  (1610–1695), map of<br>
+                  the early Qing empire (<em>Yudi quantu)</em> dated to 1673.
+                  The general layout<br>
+                  and administrative emphasis, in particular the use of encoded
+                  toponyms,<br>
+                  of the blue terrestrial maps thus lay in the legacy of the
+                  Huang<br>
+                  family’s map making.
+                </p>
+                <p>
+                  Two other maps in the exhibition claim the same lineage to the
+                  Huang<br>
+                  family. The large lower map of Ma Junliang’s (jinshi 1761)
+                  <em>Capital<br>
+                    Edition of the complete map (based on) astronomy</em>
+                  (<em>Jingban tianwen<br>
+                    quantu</em>
+                  京板天文全圖), from circa 1795, also claims to be based on
+                  Huang<br>
+                  Qianren’s 1767 map (see catalogue entry 6). And Zhu Xiling’s
+                  <em>Complete<br>
+                    all under heaven map of the everlasting unified Qing
+                    empire</em>
+                  (<em>Daqing<br>
+                    yitong tianxia quantu</em>
+                  大清一統天下全圖), dated to 1818, follows the<br>
+                  same lineage (see catalogue entry 7).
+                </p>
+                <h2>Cosmological/astrological Pairing</h2>
+                <p>
+                  The terrestrial maps conceptually and visually prioritize
+                  multiple<br>
+                  “inner” and “outer” historical administrative frameworks
+                  that<br>
+                  participate in Chinese familial practices set within a
+                  standardized<br>
+                  infrastructure of geophysical and manmade attributes (see
+                  entry 3). The<br>
+                  celestial charts present a planisphere of stars and
+                  constellations in<br>
+                  conjunction with geographic and planetary correlations while
+                  surrounding<br>
+                  texts present important celestial mechanics (see entry 4).
+                </p>
+                <p>
+                  Although the two maps can function separately, and each emerge
+                  from<br>
+                  their own unique historical trajectories they should be
+                  understood<br>
+                  conceptually as part of a larger cosmological framework.
+                  Modern analytic<br>
+                  examinations typically ignore the combination of celestial
+                  and<br>
+                  terrestrial mapping, preferring to polarize and separate the
+                  two map<br>
+                  types (the terrestrial is considered geographic and historical
+                  while the<br>
+                  celestial is scientific). This exhibition and related
+                  catalogue<br>
+                  rectifies this trend. These maps were meant to be considered
+                  together in<br>
+                  relationships and correlations participating in a long
+                  historical<br>
+                  tradition established since at least the stone steles
+                  <em>Dili tu</em><br>
+                  (<em>Geographical Map</em>) and the <em>Tianwen tu</em>
+                  <em>(Celestial Chart</em>) carved in<br>
+                  1247 (See catalogue entries 1 and 2). This is confirmed in the
+                  epilogue<br>
+                  of the 1822 edition of the celestial chart where both of the
+                  1247 map<br>
+                  and chart are specifically cited. The titles of the blue map
+                  and chart<br>
+                  provide further confirmation. First, the terrestrial map
+                  specifically<br>
+                  used the term <em>dili</em> (terrestrial) in the title at a
+                  time when the<br>
+                  preference was to use the term <em>tianxia</em> (all under
+                  heaven, see entry<br>
+                  7).<sup class="footnote-ref"><a href="#page-essay-fn8" id="page-essay-fnref8" class="footnote-ref-anchor">8</a></sup>
+                  And second, both titles use the binomial terms <em>yitong</em><br>
+                  (unified) and <em>quantu</em> (complete map or chart) as a
+                  connecting linkage.<br>
+                  While the use of these binomial terms is not unusual for the
+                  terrestrial<br>
+                  map they are highly unusual for a celestial chart confirming
+                  the two<br>
+                  terms are meant to connect and couple the blue map and chart
+                  and thus to<br>
+                  function in the same manner as the 1247 map and chart.
+                  Conceptually<br>
+                  functioning like the thirteenth century steles, the blue maps
+                  (although<br>
+                  greatly expanded, updated, and differing completely in
+                  their<br>
+                  materiality) show the territory and administrative structure
+                  of Qing<br>
+                  China with some surrounding regions as combined with a
+                  planisphere of<br>
+                  all the known stars. As a result, the subtle and covert
+                  political<br>
+                  implications (see entry 1) found on the combined 1247 map and
+                  chart<br>
+                  presented by ethnically Han officials longing for an earlier
+                  (and thus<br>
+                  idealized) Han Chinese based political structure are
+                  reactivated (in a<br>
+                  <em>gujin</em> paradigm, see entry 6), in an equally subtle
+                  and covert manner,<br>
+                  through the blue maps and charts during the early nineteenth
+                  century by<br>
+                  ethnically Han scholars in Suzhou (not the capital of Beijing)
+                  longing<br>
+                  for a time and political structure from before Manchu rule.
+                </p>
+                <h2>Notes</h2>
+                <section class="footnotes">
+                  <ol class="footnotes-list">
+                    <li id="page-essay-fn1" class="footnote-item">
+                      <p>
+                        The author has based considerations of the production
+                        and<br>
+                        consumption models using the larger data sets of extent
+                        examples of<br>
+                        both the maps and charts.
+                        <a href="#page-essay-fnref1" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn2" class="footnote-item">
+                      <p>
+                        The printing process was first confirmed through
+                        microscopic<br>
+                        examination at the Weissman Preservation Center at
+                        Harvard<br>
+                        University, and has subsequently been confirmed on
+                        numerous examples<br>
+                        of both terrestrial and celestial blue maps. Pegg and
+                        Papelitzky<br>
+                        2023, pp
+                        <a href="#page-essay-fnref2" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn3" class="footnote-item">
+                      <p>
+                        Using data sets as of October 2023.
+                        <a href="#page-essay-fnref3" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn4" class="footnote-item">
+                      <p>
+                        This is confirmed by one set in the Harvard-Yenching
+                        Library that<br>
+                        was purchased in Japan and is still unbound. Pegg and
+                        Papelitzky<br>
+                        2023, pp.
+                        <a href="#page-essay-fnref4" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn5" class="footnote-item">
+                      <p>
+                        Another example found at Waseda University mounted the
+                        title<br>
+                        slips, instead of on the outside of the rolled scroll,
+                        on the inside<br>
+                        face as part of the mount, centered above the map proper
+                        and inset<br>
+                        as part of the mounting, making for a unique display.
+                        Pegg and<br>
+                        Papelitzky 2023, pp.
+                        <a href="#page-essay-fnref5" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn6" class="footnote-item">
+                      <p>
+                        That these title slips were meant to be cut off is made
+                        especially<br>
+                        evident in the case of the editions with the title slips
+                        placed on<br>
+                        the eighth scroll, as they would have been displayed in
+                        the middle<br>
+                        of the map if not cut off and not on the outer edge as
+                        in all other<br>
+                        cases. Pegg and Papelitzky, pp
+                        <a href="#page-essay-fnref6" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn7" class="footnote-item">
+                      <p>
+                        Perhaps the best-known founders were calligraphers like
+                        Wang Duo<br>
+                        王鐸 (1592–1652), Ni Yuanlu 倪元璐 (1593–1641) and Fu
+                        Shan 傅山<br>
+                        (1607–1685).
+                        <a href="#page-essay-fnref7" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                    <li id="page-essay-fn8" class="footnote-item">
+                      <p>
+                        Papelitzky, forthcoming.
+                        <a href="#page-essay-fnref8" class="footnote-backref">↩︎</a>
+                      </p>
+                    </li>
+                  </ol>
+                </section>
+              </div>
+              
+            </div>
+          </section>
+        </section><section class="quire-page quire-contents" data-footer-page-title="Learn About the Maps" id="page-learn">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="learn-about-the-maps">
+                Learn About the Maps
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container is-fullhd">
+              <div class="quire-contents-list grid">
+                
+                
+                <nav class="table-of-contents menu-list" data-outputs-include="pdf">
+                  <ol class="table-of-contents-list">
+                    <li class="level-1 page-item">
+                      <a href="#page-learn-rubbings">
+                        <div class="card no-image">
+                          <div class="card-content">
+                            Rubbings
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-learn-collecting-rubbings">
+                        <div class="card no-image">
+                          <div class="card-content">
+                            Collecting Rubbings
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-learn-prussian-blue">
+                        <div class="card no-image">
+                          <div class="card-content">
+                            Prussian Blue
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-learn-calligraphy">
+                        <div class="card no-image">
+                          <div class="card-content">
+                            Calligraphy
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-learn-huang-family">
+                        <div class="card no-image">
+                          <div class="card-content">
+                            Huang Family
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-learn-encoded-toponyms">
+                        <div class="card no-image">
+                          <div class="card-content">
+                            Encoded Toponyms
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-learn-gujin-paradigm">
+                        <div class="card no-image">
+                          <div class="card-content">
+                            <em>Gujin</em> Paradigm
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-learn-planishphere">
+                        <div class="card no-image">
+                          <div class="card-content">
+                            Planisphere
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-learn-combining-heaven-and-earth">
+                        <div class="card no-image">
+                          <div class="card-content">
+                            Combining Heaven and Earth
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                  </ol>
+                </nav>
+                <div class="content"></div>
+              </div>
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Rubbings" data-footer-section-title="Learn About the Maps" id="page-learn-rubbings">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="rubbings">Rubbings</h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  The blue maps and charts follow closely the aesthetics of a
+                  print production method known as a rubbing. To make a rubbing
+                  from an engraved stone stele, slightly moistened paper would
+                  be fixed on a prepared, flattened smooth then carved, stone.
+                  The moist paper would be manipulated using brushes and pointed
+                  sticks, pressing the paper into the recessed areas of the
+                  carved stone. An inked (typically in black) dauber (fabric
+                  over cotton wadding) would be tamped down onto the
+                  paper-covered stone. The ink would adhere to the “raised”
+                  paper making the areas of carved away stone appear in white.
+                  In this process a positive image is carved on the stone, and a
+                  positive image is created on the inked paper. The “rubbings”
+                  that are the blue maps and charts were however made using
+                  woodblocks. They contrast to the typical manner of woodblock
+                  printing where a negative image is carved into the block, the
+                  block is then inked and the paper pressed onto the inked block
+                  with the ink transferring to the paper, making for a positive
+                  image on the paper. Printing using the rubbing method is
+                  comparatively very labor intensive and time consuming,
+                  creating essentially a unique print each time. Historically in
+                  China, it is highly unusual to print a rubbing from
+                  woodblocks, creating a positive image from a positive block,
+                  especially at the scale of the blue maps and charts.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Collecting Rubbings" data-footer-section-title="Learn About the Maps" id="page-learn-collecting-rubbings">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="collecting-rubbings">
+                Collecting Rubbings
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  Two schools of collecting and related collecting practices
+                  originated in seventeenth century China amongst groups of
+                  scholars, artists, collectors, and calligraphers that formed
+                  specialized social groups. The first group collected, made
+                  rubbings and copied calligraphy found on ancient stone stele
+                  (bei 碑), while the second group did the same for calligraphy
+                  found on ancient bronze vessels or from copy books of
+                  calligraphy (tie 帖). Both types of scholarly groups were in a
+                  period of revival in the early nineteenth century and Qian
+                  Yong (one confirmed author of the blue charts) was likely
+                  active in such groups which contributed to using the rubbing
+                  production method for the blue maps and charts.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Prussian Blue" data-footer-section-title="Learn About the Maps" id="page-learn-prussian-blue">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="prussian-blue">
+                Prussian Blue
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  The most striking, and unusual, feature of the maps and charts
+                  is the blue color. It sets them apart from other Chinese maps,
+                  and indeed maps from any other part of the world, produced at
+                  the time. Scientific spectral analysis, first done at the
+                  Weissman Preservation Center at Harvard University, has
+                  confirmed the pigment to be Prussian Blue.
+                </p>
+                <p>
+                  Prussian blue, a ferric (iron) hexacyanoferrate, was first
+                  synthesized accidentally in Berlin by Johann Jacob Diesbach, a
+                  Swiss painter and colormaker, in 1706. Its production is a
+                  complex and time-consuming process of acidic additives into a
+                  crystalline distillation with resulting varying sized crystals
+                  that can be filtered to create different tones of blue (note
+                  the two tones of blue used on the terrestrial map).
+                </p>
+                <p>
+                  The blue maps and charts were produced around the time when
+                  Chinese manufacturers learned to make the pigment locally and
+                  were less dependent on European imports. The discovery of the
+                  use of Prussian blue in the case of the blue maps and charts
+                  is historically significant as it demonstrates the first
+                  large-scale use of Prussian blue for printing in China, and
+                  East Asia, in the first decades of the nineteenth century.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Calligraphy" data-footer-section-title="Learn About the Maps" id="page-learn-calligraphy">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="calligraphy">
+                Calligraphy
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  The blue star chart presents three different types of
+                  calligraphy. The first (far right) sheet presents the
+                  eight-character title in seal script (zhuanshu 篆書), the last
+                  (far left) sheet presents an epilogue, a date and a signature
+                  of the maker in clerical script (lishu 隸書), while the
+                  remaining six sheets present celestial information using
+                  standard script (kaishu 楷書). That a single object presents
+                  three distinctive styles of calligraphy is highly unusual in
+                  Chinese visual arts.
+                </p>
+                <p>
+                  The final sheet of the 1826 star chart is signed by Qian Yong
+                  (1759–1844), a poet and author. Qian was as an accomplished
+                  calligrapher and collector of rubbing of the so-called stone
+                  stele (bei 碑) school of calligraphy, traveling extensively
+                  around China collecting samples of rubbings from stele. That
+                  the celestial chart was designed with multiple styles of
+                  calligraphy suggests a calligrapher, like Qian Yong, designed
+                  the text layout. Also, that the production of all the maps and
+                  charts are done in the manner of rubbings suggests a collector
+                  of rubbings. And finally, that the two stele that the blue map
+                  and chart are modeled after were, and still are, found in the
+                  city of Suzhou and the blue maps and charts were all produced
+                  in the city of Suzhou suggests that Qian Yong participated in
+                  all phases of production.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Huang Family" data-footer-section-title="Learn About the Maps" id="page-learn-huang-family">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="huang-family">
+                Huang Family
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  The blue terrestrial map and two other maps in this exhibition
+                  specifically cite the work of the Huang family of Qing court
+                  cartographers as models for their maps. The Huang family
+                  lineage began with Huang Zongxi (1610-95) and his 1673
+                  Complete Map of China (Yudi quantu), a map modeled from Luo
+                  Hongxian’s 1555 Complete Terrestrial Map (Yudi zongtu).
+                  Huang’s map was amended and updated by his grandson Huang
+                  Qianren (1694–1771) as a multi-colored woodblock-printed map
+                  in 1767 with the title All under heaven map of the everlasting
+                  unified Qing empire (Daqing wannian yitong tianxia quantu). It
+                  is the 1767 map that is referenced for all three maps.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Encoded Toponyms" data-footer-section-title="Learn About the Maps" id="page-learn-encoded-toponyms">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="encoded-toponyms">
+                Encoded Toponyms
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  A particular characteristic of the Chinese typology of
+                  administrative map first introduced by Luo Hongxian’s
+                  (1504-64) in his Enlarged Territorial Atlas (Guangyu tu) of
+                  the mid sixteenth century, was toponyms that were encoded to
+                  reflect the humanity (administrative bodies like prefectures,
+                  sub-prefectures, counties, and so forth) of all places in the
+                  empire operating within a Chinese familial framework.
+                </p>
+                <p>
+                  Administrative unit types, identified in a key, linked
+                  geometric shapes to toponyms, visually linking places with the
+                  people of those places. This encoding visually prioritizes
+                  administration over territory, the people living in each
+                  administrative unit become more important than scale or
+                  geometry, as does the relational spacing of each toponym with
+                  the surrounding ones in an administrative hierarchy of the
+                  entire empire.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="<em>Gujin</em> Paradigm" data-footer-section-title="Learn About the Maps" id="page-learn-gujin-paradigm">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="gujin-paradigm">
+                <em>Gujin</em> Paradigm
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  Ma Junliang’s Capital Edition of the complete map (based on)
+                  astronomy, of circa 1795, presents visually the Chinese
+                  concept of gujin 古今. Gujin means something like “past and
+                  present.” The character gu means an unspecified there-then and
+                  jin means the here-now. The two terms knit
+                  together—gujin—suggest a conversation between temporalities,
+                  whereby Chinese scholars actively joined historical events of
+                  the past to help define the present moment through a process
+                  of deliberate recovery and application. Conceptually the gujin
+                  paradigm is also found in the blue maps and charts that
+                  specifically model and reference the 1247 map and chart to
+                  define the moment of their creation.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Planisphere" data-footer-section-title="Learn About the Maps" id="page-learn-planishphere">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="planisphere">
+                Planisphere
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  Correlative properties on the blue chart and the tianwen tu
+                  can be found on the outer ring (horizon). It is read
+                  counterclockwise and indicates numerous directional signifiers
+                  such as the widths of the twenty-eight lunar mansions (the
+                  constellations that the moon “appears in” over the course of
+                  its cycle), the twelve terrestrial branches (chen 辰), twelve
+                  Jupiter stations or zodiacal positions (muxingci 木星次),
+                  names of the ancient states (fen 分) and ancient divisions (ye
+                  野) of China “governed” by that group of stars. For example,
+                  the “first” section reads “zi (at the bottom of the blue
+                  chart, offset right and the top of the tianwen tu, offset
+                  left) is in the yuanxiao position (ci), ancient state (fen) of
+                  Qi, Qingzhou division (ye, today’s Shandong province).”
+                </p>
+                <p>
+                  There is an accepted and understood relational co-existence
+                  and correlation between events observed in the sky and events
+                  on earth, a type of astrological consideration found in many
+                  cultures from ancient times until today. The example above
+                  confirms that conceptually there is a direct correlation
+                  between the celestial and terrestrial realms with spatial
+                  coordinates for both presented side by side in the same
+                  pie-section division.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Combining Heaven and Earth" data-footer-section-title="Learn About the Maps" id="page-learn-combining-heaven-and-earth">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="combining-heaven-and-earth">
+                Combining Heaven and Earth
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  The epilogue of the 1822 edition of the blue celestial chart
+                  specifically references Huang Shang’s dili tu and tianwen tu.
+                  Huang’s two maps were meant to be combined to present ideal
+                  models for the young Prince Jia, the future Ningzong Emperor
+                  (r. 1194-1224) on good governance. The map displays a unified
+                  China before the creation of the Southern Song dynasty
+                  (1127-1279), a period before the Song imperial family lost
+                  north China to the Jurchen-led Jin Dynasty (1115-1234), as an
+                  aspiration to return to the earlier idealized time of the
+                  Northern Song dynasty. When combined with the star chart, the
+                  viewer was meant to visualize that good governance through the
+                  correlative properties between heaven and earth found on the
+                  micro scale within both the map and chart and on the macro
+                  scale in consideration of the entire empire. Huang’s map and
+                  chart were a deliberate piece of statecraft meant to serve as
+                  a moralistic exemplar for the young Ningzong emperor.
+                </p>
+                <p>
+                  Over 500 years after the creation of Huang’s map and chart,
+                  Chinese scholars in the city of Suzhou decided to create their
+                  own, albeit in blue, updated images of heaven and earth. As a
+                  result, the subtle and covert political implications found in
+                  the combined 1190s map and chart presented by ethnically Han
+                  officials longing for an earlier (and thus idealized) Han
+                  Chinese based political structure are reactivated (in a gujin
+                  paradigm), in an equally subtle and covert manner, through the
+                  blue maps and charts during the early nineteenth century by
+                  ethnically Han scholars in Suzhou (not the capital of Beijing)
+                  longing for a time and political structure from before Manchu
+                  rule.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page quire-contents" data-footer-page-title="Catalogue" id="page-catalogue">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="catalogue">
+                Catalogue
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container is-fullhd">
+              <div class="quire-contents-list grid">
+                
+                
+                <nav class="table-of-contents menu-list" data-outputs-include="pdf">
+                  <ol class="table-of-contents-list">
+                    <li class="level-1 page-item">
+                      <a href="#page-catalogue-1">
+                        <div class="card image">
+                          <div class="card-image">
+                            <figure class="image">
+                              <img src="_assets/images/figures/dili-tu-temp.jpg" alt="">
+                            </figure>
+                          </div>
+
+                          <div class="card-content">
+                            Cat.1. Geographical Map, Rubbing from Stone
+                            Carving
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-catalogue-2">
+                        <div class="card image">
+                          <div class="card-content">
+                            Cat.2. Celestial Chart, Rubbing from Stone
+                            Carving
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-catalogue-3">
+                        <div class="card image">
+                          <div class="card-content">
+                            Cat.3. Complete Geographical Map of the Everlasting
+                            Unified Qing Empire
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-catalogue-4">
+                        <div class="card image">
+                          <div class="card-image">
+                            <figure class="image">
+                              <img src="_assets/images/figures/celestial.jpg" alt="">
+                            </figure>
+                          </div>
+
+                          <div class="card-content">
+                            Cat.4. Complete Map of Unified Star Configurations
+                            in the Heavens
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-catalogue-5">
+                        <div class="card image">
+                          <div class="card-content">
+                            Cat.5. Complete Terrestrial Map and Map of Zhejiang
+                            Province, in Enlarged Territorial Atlas
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-catalogue-6">
+                        <div class="card image">
+                          <div class="card-content">
+                            Cat.6. Capital Edition of the Complete Map (Based
+                            on) Astronomy
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="level-1 page-item">
+                      <a href="#page-catalogue-7">
+                        <div class="card image">
+                          <div class="card-content">
+                            Cat.7. Complete all under heaven map of the
+                            everlasting unified Qing empire
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                  </ol>
+                </nav>
+                <div class="content"></div>
+              </div>
+              
+            </div>
+          </section>
+        </section><section class="quire-page quire-entry" data-footer-page-title="Cat.1. Geographical Map, Rubbing from Ston" data-footer-section-title="Catalogue" id="page-catalogue-1">
+          <div class="side-by-side">
+            
+
+            <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+              <figure id="dili-tu" class="q-figure q-figure--image">
+                
+                
+                <img alt="" class="q-figure__image" src="_assets/images/figures/dili-tu-temp.jpg" data-outputs-include="epub,pdf">
+                <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                  <span class="q-figure__caption-content"></span>
+                  <span class="q-figure__credit"></span>
+                </figcaption>
+              </figure>
+            </div>
+
+            <div class="quire-entry__content">
+              <header class="quire-entry__header">
+                <div class="container">
+                  <h1 class="quire-page__header__title" id="page-header-catalogue-1">
+                    Cat.1. Geographical Map, Rubbing from Stone Carving
+                  </h1>
+                  <div class="quire-page__header__contributor"></div>
+                </div>
+              </header>
+
+              <section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr>
+                        <td>Title</td>
+                        <td>地理圖 [=Dili tu; Geographical map]</td>
+                      </tr>
+                      <tr>
+                        <td>Artist</td>
+                        <td>
+                          Huang Sheng 黃裳 (1146-94, maker) and Wang Zhiyuan
+                          王致远 (1193-1257, stone carver)
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Year</td>
+                        <td>
+                          Southern Song dynasty, Lizong period (1224-64), dated
+                          1247
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Dimensions</td>
+                        <td>TKTK</td>
+                      </tr>
+                      <tr>
+                        <td>Medium</td>
+                        <td>
+                          Rubbing from stone stele, ink on paper; modern
+                          reproduction
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Location</td>
+                        <td>Private Collection</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  <div class="content">
+                    <p>
+                      The blue maps and charts reference and were inspired by a
+                      pair of maps engraved on steles located, then and still
+                      today, in the Confucian Temple (Wenmiao 文廟) in the city
+                      of Suzhou as confirmed in the epilogue of the 1822 blue
+                      celestial chart. One of them is a terrestrial map titled
+                      Dili tu 墬理圖 (Geographical map) and the other a
+                      celestial chart titled Tianwen tu 天文圖. The scholar
+                      Huang Shang 黃裳 (1146–1194), active in the Southern Song
+                      (1126–1279) court, created both these maps in the 1190s,
+                      and subsequently Wang Zhiyuan 王致远 (1193–1257) had them
+                      engraved on stone in 1247 and since that time rubbings on
+                      paper have been made of these maps. Huang’s two maps were
+                      first meant to be combined to present ideal cosmological
+                      models for the young Prince Jia, the future Ningzong 寧宗
+                      Emperor (r. 1194-1224) on good governance. The viewer was
+                      meant to visualize that good governance through the
+                      correlative properties between heaven and earth found on
+                      the micro scale within each of the two maps and on the
+                      macro scale in consideration of the entire empire with the
+                      two maps combined. Over 600 years after the creation of
+                      the steles, Chinese scholars in the city of Suzhou decided
+                      to create their own, albeit in blue, updated images of
+                      heaven and earth so closely linked to their own city.
+                    </p>
+                    <p>
+                      The dili tu illustrates 368 prefectures, 623 military
+                      bases, 73 rivers, 27 lakes, 180 mountains and 24 passes.
+                      The year that Huang Shang presented this map to the court,
+                      the Guangzong Emperor (r. 1190-94) abdicated the throne to
+                      his younger brother the Ningzong Emperor (r. 1194-1224).
+                      The map displays a unified China before the creation of
+                      the Southern Song dynasty (1127-1279), a period before the
+                      Song imperial family lost north China to the Jurchen-led
+                      Jin Dynasty, as an aspiration to a return to the earlier
+                      idealized time of the Northern Song dynasty. The dili tu
+                      was a deliberate piece of statecraft meant to serve as a
+                      moralistic exemplar of the hoped for outcome of good
+                      government for the young Ningzong emperor.
+                    </p>
+                    <div class="backmatter"></div>
+                  </div>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  
+                </div>
+              </section>
+            </div>
+          </div>
+        </section><section class="quire-page quire-entry" data-footer-page-title="Cat.2. Celestial Chart, Rubbing from Stone" data-footer-section-title="Catalogue" id="page-catalogue-2">
+          <div class="side-by-side">
+            
+
+            <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+              <figure id="w290684-urn-3-fhcl-10873007" class="q-figure q-figure--image">
+                
+                
+              </figure>
+            </div>
+
+            <div class="quire-entry__content">
+              <header class="quire-entry__header">
+                <div class="container">
+                  <h1 class="quire-page__header__title" id="page-header-catalogue-2">
+                    Cat.2. Celestial Chart, Rubbing from Stone Carving
+                  </h1>
+                  <div class="quire-page__header__contributor"></div>
+                </div>
+              </header>
+
+              <section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr>
+                        <td>Title</td>
+                        <td>天文圖 [=Tianwen tu; Celestial chart]</td>
+                      </tr>
+                      <tr>
+                        <td>Artist</td>
+                        <td>
+                          Huang Sheng 黃裳 (1146-94, maker) and Wang Zhiyuan
+                          王致远 (1193-1257, stone carver)
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Year</td>
+                        <td>
+                          Southern Song dynasty, Lizong period (1224-64), dated
+                          1247
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Dimensions</td>
+                        <td>182 x 98 cm</td>
+                      </tr>
+                      <tr>
+                        <td>Medium</td>
+                        <td>Rubbing from stone stele, ink on paper</td>
+                      </tr>
+                      <tr>
+                        <td>Location</td>
+                        <td>Harvard-Yenching Library, Harvard University</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <a class="button" href="#page-https-id-lib-harvard-edu-digital-collections-w290684-urn-3-fhcl-10873007" target="_blank">
+                    View in Collection
+                    
+                  </a>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  <div class="content">
+                    <p>
+                      The epilogue of the 1822 edition of the blue celestial
+                      chart specifically references the 1247
+                      <em>dili tu</em> and <em>tianwen tu</em> as models of
+                      emulation for the blue maps and charts confirming the
+                      source. The main text body of the
+                      <em>tianwen tu</em> discusses all important celestial
+                      bodies and their configurations (dimensions and shapes),
+                      relative movements, cycles and durations, relationships to
+                      terrestrial phenomenon (like the four seasons), irregular
+                      occurrences (eclipses or supernovas), and how the fortunes
+                      of any terrestrial place can be understood by observing
+                      its corresponding celestial manifestations.
+                    </p>
+                    <p>
+                      In the planispere of the <em>tianwen tu</em>, each
+                      constellation is named, the curved course of the Milky Way
+                      is clearly demarcated and although the text states there
+                      are 1565 stars only 1440 stars are shown (fig. ).<sup class="footnote-ref"><a href="#page-catalogue-2-fn1" id="page-catalogue-2-fnref1" class="footnote-ref-anchor">1</a></sup>
+                      There are three “circles” or “rings” (<em>dai</em> 带)
+                      required to plot the relative positions of celestial
+                      bodies, the horizon, the (celestial) equator and the
+                      ecliptic (apparent path of the sun against the stars). The
+                      <em>tianwen tu</em> uses a traditional Chinese
+                      equatorial-polar projection, the inner circle is the line
+                      of constant visibility, the equator (<em>chidao</em> 赤道,
+                      literally “red road”) is shown as an offset circle within
+                      the planisphere while the ecliptic (<em>huangdao</em>
+                      黃道) is the other offset circle intersecting it also
+                      within the planisphere, both are labeled as such. The
+                      radial lines from the center demarcate the twenty-eight
+                      lunar mansions (<em>xiu</em> 宿), each labeled by a
+                      character with a ring around it.<sup class="footnote-ref"><a href="#page-catalogue-2-fn2" id="page-catalogue-2-fnref2" class="footnote-ref-anchor">2</a></sup>
+                      And the hour circles of the determinative star of each
+                      lunar mansion radiates here as straight lines.
+                    </p>
+                    <p>
+                      Correlative properties, like those found on the blue chart
+                      and astral allocation (<em>fenye</em>) charts in general,
+                      can be found on the outer ring of the <em>tianwen tu</em>.
+                      The outer ring (horizon) of the <em>tianwen tu</em> is
+                      read counterclockwise and indicates numerous directional
+                      signifiers such as the widths of the twenty-eight lunar
+                      mansions, the twelve terrestrial branches (<em>chen</em>
+                      辰), twelve Jupiter stations or zodiacal positions (<em>muxingci</em>
+                      木星次), names of the ancient states (<em>fen</em> 分) and
+                      ancient divisions (<em>ye</em> 野) of China, the later as
+                      determined by Yu the Great, that was “governed” by that
+                      group of stars. For example, as also found on the blue
+                      charts, the section with the “first” branch
+                      (<em>chen</em>) <em>zi</em> (at the top of the chart,
+                      offset left), is “in the <em>yuanxiao</em> position
+                      (<em>ci</em>), ancient state (<em>fen</em>) of Qi,
+                      <em>Qingzhou</em> division (<em>ye</em>, today’s Shandong
+                      province, fig. ).”<sup class="footnote-ref"><a href="#page-catalogue-2-fn3" id="page-catalogue-2-fnref3" class="footnote-ref-anchor">3</a></sup>
+                    </p>
+                    <p>
+                      This type of astrological consideration is found in many
+                      cultures from ancient times until today. The example from
+                      the <em>tianwen tu</em> confirms that conceptually there
+                      is understood to be a direct correlation between the
+                      celestial and terrestrial with, localized or grouped
+                      according to each lunar mansion as found on the outer
+                      ring, spatial coordinates for both presented side by side
+                      in the same pie-section division. There is an accepted and
+                      understood relational co-existence and correlation between
+                      events observed in the sky and events on earth.
+                    </p>
+                    <div class="backmatter"></div>
+                    <section class="footnotes">
+                      <ol class="footnotes-list">
+                        <li id="page-catalogue-2-fn1" class="footnote-item">
+                          <p>
+                            Yee, 546-7.
+                            <a href="#page-catalogue-2-fnref1" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                        <li id="page-catalogue-2-fn2" class="footnote-item">
+                          <p>
+                            The lunar mansions represent the stars in front of
+                            which the moon appears to rest in during its roughly
+                            twenty-eight-day cycle (sidereal month). Needham
+                            239.
+                            <a href="#page-catalogue-2-fnref2" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                        <li id="page-catalogue-2-fn3" class="footnote-item">
+                          <p>
+                            Technically <em>yuandian</em> 元默 should read
+                            <em>xuandian</em> 玄默, the first of the Jupiter
+                            stations. <em>Xuan</em> was a taboo character at the
+                            time and its use was forbidden. It therefore was
+                            commonly replaced by the character <em>yuan</em> 元.
+                            On taboo characters, see Wilkinson,
+                            <em>Chinese History</em>, 20. For all Jupiter
+                            stations see Needham, 403.
+                            <a href="#page-catalogue-2-fnref3" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                      </ol>
+                    </section>
+                  </div>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  
+                </div>
+              </section>
+            </div>
+          </div>
+        </section><section class="quire-page quire-entry" data-footer-page-title="Cat.3. Complete Geographical Map of the Ev" data-footer-section-title="Catalogue" id="page-catalogue-3">
+          <div class="side-by-side">
+            
+
+            <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+              <figure id="commonwealth-wh24b054q" class="q-figure q-figure--image">
+                
+                
+              </figure>
+            </div>
+
+            <div class="quire-entry__content">
+              <header class="quire-entry__header">
+                <div class="container">
+                  <h1 class="quire-page__header__title" id="page-header-catalogue-3">
+                    Cat.3. Complete Geographical Map of the Everlasting Unified
+                    Qing Empire
+                  </h1>
+                  <div class="quire-page__header__contributor"></div>
+                </div>
+              </header>
+
+              <section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr>
+                        <td>Title</td>
+                        <td>
+                          大清萬年一統地理全圖 [=Daqing wannian yitong dili
+                          quantu; Complete map of the geography of the
+                          everlasting, unified Great Qing]
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Year</td>
+                        <td>ca. 1820</td>
+                      </tr>
+                      <tr>
+                        <td>Dimensions</td>
+                        <td>112 x 249 cm</td>
+                      </tr>
+                      <tr>
+                        <td>Medium</td>
+                        <td>
+                          Prussian blue ink on xuan paper mounted as folding
+                          screen
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Location</td>
+                        <td>MacLean Collection</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <a class="button" href="#page-https-collections-leventhalmap-org-search-commonwealth-wh24b054q" target="_blank">
+                    View in Collection
+                    
+                  </a>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  <div class="content">
+                    <p>
+                      Several Geophysical attributes can be easily distinguished
+                      in the overall visual presentation of this map of the Qing
+                      empire; such as the two vivid white lines of the Yellow
+                      River (north) and the Yangzi River (south) which divide
+                      the empire east and west. Just north of the Yellow River
+                      is the band of white “desert dots” of the Gobi and
+                      Taklamakan Deserts running from the third to the eighth
+                      panel. Surrounding much of the empire is the wave
+                      patterned oceans from the Atlantic (top left) to the
+                      Pacific (half of panel two on the right) and seas. There
+                      are two prominent man-made structures as well. The Great
+                      Wall, with its distinctive crenelated wall pattern, which
+                      runs between the Yellow River and the Gobi Desert. The
+                      other manmade structure shown is the lesser-known Willow
+                      Palisade (<em>liutiaobian</em> 柳條邊), which emerges
+                      close to where the Great Wall ends and enters the sea and
+                      is demarcated by cross-hatched lines. The Willow Palisade
+                      is the symbolic barrier protecting the Manchu homeland
+                      within which are located the Manchu imperial tombs, the
+                      “eastern capital” 東京 or “secondary capital,” Shengjing
+                      盛京 (m. Mukden) and the Imperial hunting grounds.
+                    </p>
+                    <p>
+                      The typology of this map is administrative using
+                      specifically the device of an encoded toponym first used
+                      in Luo Hongxian’s <em>Guang yutu</em> (see entry 5) for a
+                      type of map unique to East Asia. The majority of the eight
+                      sheets is taken up by displaying the administrative
+                      structure of the Qing empire into an inner and an outer
+                      sphere, although the exact boundaries between these two
+                      spheres are intentionally ambiguous.
+                    </p>
+                    <p>
+                      The inner sphere is made up of the eighteen provinces of
+                      “China proper” and is populated with encoded toponyms
+                      (fig.) linking placenames to administrative unit types
+                      (prefectures, sub-prefectures, counties, and so forth)
+                      that are identified in the key found in the preface at the
+                      bottom right (fig.). The use of geometric shapes in
+                      association with toponyms and administration visually
+                      links places with the people of those places. By encoding
+                      administrative units with a geographic shape and thus
+                      visually prioritizing administration over territory, the
+                      people living in each administrative unit become
+                      important, as does the relation of each toponym with the
+                      surrounding ones in an administrative hierarchy of the
+                      entire empire. The administrative coding visually and
+                      easily enables a snapshot of the entire administrative,
+                      communications, and tax systems.
+                    </p>
+                    <p>
+                      While the inner portion of the maps focuses on the
+                      administrative framework of the Qing empire by presenting
+                      encoded toponyms, the outer sphere is made up of a
+                      surrounding ring of text blocks (labeled fig.), with no
+                      borders of any kind, associated with states that have
+                      official relations, and geographic proximity, with the
+                      Qing empire and are described on the map as places that
+                      “bring tribute” (<em>chaogong</em>).<sup class="footnote-ref"><a href="#page-catalogue-3-fn1" id="page-catalogue-3-fnref1" class="footnote-ref-anchor">1</a></sup>
+                      These include a range of non-Qing entities, including
+                      Russia, India, Thailand, Vietnam, Japan, and Korea, as
+                      visually unbounded spaces. These outer entities, as text
+                      blocks, also require administrative attention, albeit from
+                      separate governmental agencies. The outer sphere entities
+                      were generally governed by ranked local administrators in
+                      specific cities that reported to the Ministry of Rites and
+                      included Annam (today’s Vietnam), Burma (today’s Myanmar),
+                      the Ryukyu (Okinawa) Islands, and Siam (today’s Thailand).
+                      Russia (fig.), also presented as part of this outer
+                      sphere, was administered by the Board for Governing Outer
+                      Territories (ch. Lifanyuan 理藩院; manch.
+                      <em>Tulergi golo be darasa jurgan</em>). Only Joseon Korea
+                      (fig.) was given special privilege, communicating with no
+                      intermediary body but directly with the Ministry of Rites
+                      in Beijing.
+                    </p>
+                    <p>
+                      The maps also present an ambiguous third sphere, between
+                      the inner and outer. This in-between sphere is made up of
+                      the regions conquered and integrated into the Qing empire
+                      in the seventeenth and eighteenth centuries: Mongolia,
+                      Tibet, Xinjiang, and Taiwan. On the blue maps, these
+                      regions include both administrative units encoded by shape
+                      as well as short annotations similar to those for the
+                      non-Qing regions, taking on elements from both the inner
+                      and outer spheres.
+                    </p>
+                    <p>
+                      Geographical and topographical elements like oceans,
+                      mountains and rivers are embedded throughout the entire
+                      map, linking the inner, outer, and in-between spheres in a
+                      grand vision of Qing space. Frontiers were not sites of
+                      separation but sites of relationality acting as bridges
+                      connecting people, things and ideas. By using toponyms
+                      that were encoded to reflect the humanity (administrative
+                      bodies) of all places in the empire operating within a
+                      Chinese familial framework, this type of map presents,
+                      visually, systems for maintaining all the empire’s
+                      relationships, internal and external or inner and outer.
+                      It can be understood to conceptually manifest an idealized
+                      and harmonious empire that emphasized an historically
+                      stable core of eighteen ethnically Han provinces
+                      surrounded by other related non-Han entities. The
+                      celestial blue maps will introduce another component of an
+                      intended larger cosmological order that ultimately unites
+                      heaven and earth.
+                    </p>
+                    <div class="backmatter"></div>
+                    <section class="footnotes">
+                      <ol class="footnotes-list">
+                        <li id="page-catalogue-3-fn1" class="footnote-item">
+                          <p>
+                            Tribute footnote. As the Qing state preferred to
+                            segment and localize its external relations through
+                            ranked local administrators to monitor foreign
+                            entities and provide a direct and trusted conduit
+                            for intelligence to Beijing from the frontier, the
+                            Ministry of Rites regulated that officials from each
+                            country had to use a specific city to enter the Qing
+                            empire.
+                            <a href="#page-catalogue-3-fnref1" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                      </ol>
+                    </section>
+                  </div>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  
+                </div>
+              </section>
+            </div>
+          </div>
+        </section><section class="quire-page quire-entry" data-footer-page-title="Cat.4. Complete Map of Unified Star Config" data-footer-section-title="Catalogue" id="page-catalogue-4">
+          <div class="side-by-side">
+            
+
+            <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+              <figure id="adler-star-sm" class="q-figure q-figure--image">
+                
+                
+                <img alt="" class="q-figure__image" src="_assets/images/figures/celestial.jpg" data-outputs-include="epub,pdf">
+                <figcaption class="q-figure__caption" data-outputs-include="epub,pdf">
+                  <span class="q-figure__caption-content"></span>
+                  <span class="q-figure__credit"></span>
+                </figcaption>
+              </figure>
+            </div>
+
+            <div class="quire-entry__content">
+              <header class="quire-entry__header">
+                <div class="container">
+                  <h1 class="quire-page__header__title" id="page-header-catalogue-4">
+                    Cat.4. Complete Map of Unified Star Configurations in the
+                    Heavens
+                  </h1>
+                  <div class="quire-page__header__contributor"></div>
+                </div>
+              </header>
+
+              <section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr>
+                        <td>Title</td>
+                        <td>
+                          渾天壹統星象全圖 [=Huntian yitong xingxiang quantu;
+                          Complete map of unified star configurations in the
+                          heavens]
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Year</td>
+                        <td>
+                          Qing dynasty, Daoguang period (1820-50), dated 1826
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Dimensions</td>
+                        <td>TKTK</td>
+                      </tr>
+                      <tr>
+                        <td>Medium</td>
+                        <td>
+                          Seven-sheet framed, wood-block printed in blue ink on
+                          paper
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Location</td>
+                        <td>Adler Planetarium</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  <div class="content">
+                    <p>
+                      The blue
+                      <em>Huntian yitong xingxiang quantu</em> (Complete chart
+                      of unified star configurations in the heavens) are star
+                      charts with related celestial information. The first (far
+                      right) sheet presents the title in seal script while the
+                      last (far left) sheet presents an epilogue, a date and a
+                      signature of the maker in clerical script. The remaining
+                      six sheets present a planisphere and related celestial
+                      information using standard script.
+                    </p>
+                    <p>
+                      The main text body on the 1826 editions of the blue charts
+                      essentially copies the text of the 1247
+                      <em>Tianwen tu</em> stele (see entry 2). The sections are
+                      clearly indicated by headings, presenting the Chinese
+                      characters in blue on white, while the primary text is
+                      white on a blue field; the same aesthetic found on the
+                      terrestrial maps.
+                    </p>
+                    <p>
+                      The central and most eye-catching part of this chart is
+                      the planisphere. On it, each constellation is named and
+                      the curved course of the Milky Way (labeled as Tianhe
+                      天河, “heavenly river”) is clearly demarcated.<sup class="footnote-ref"><a href="#page-catalogue-4-fn1" id="page-catalogue-4-fnref1" class="footnote-ref-anchor">1</a></sup>
+                      The outer ring (horizon) of the blue charts provides
+                      pointers to understanding the night sky and even more
+                      directly connects the celestial realm with the terrestrial
+                      one. It reads counterclockwise (in the manner of the
+                      rotation of the night sky to an observer on earth) and
+                      indicates numerous directional signifiers, as also found
+                      on the 1247 <em>Tianwen tu</em>. The chart is printed in
+                      such a way that the characters always face outward. When
+                      the planisphere is “rotated” (conceptually as the physical
+                      object is too large) to the time of observation the
+                      characters at the “bottom” are always right side up and in
+                      a position to be easily read. They are rather technical
+                      and require an astronomical and astrological knowledge
+                      base. The directional signifiers include the relative
+                      widths of the twenty-eight lunar mansions, the twelve
+                      terrestrial branches (<em>chen</em> 辰), twelve Jupiter
+                      positions or zodiacal positions (<em>ci</em> 次), and the
+                      corresponding states and provinces under the astral
+                      allocation system (<em>fenye</em> 分野, also known as
+                      field-allocation). This division into twelve parts under
+                      the astral allocation system had been in astrological use
+                      since the late fifth century BCE and correlates celestial
+                      and terrestrial space.
+                    </p>
+                    <p>
+                      For example, the section at the bottom of the chart with
+                      the “first” branch <em>zi</em> 子 (north), is in the
+                      <em>yuanxiao</em> 元枵 position, corresponding to the
+                      ancient state of Qi 齊 and Qingzhou province 青州 (today’s
+                      Shandong province, see entry 2). This horizon band of the
+                      blue charts provides astrological cues and emphasizes the
+                      intended functionality of correlations and correspondences
+                      between heaven and earth that are to be interpreted by
+                      man. The blue charts, like the <em>Tianwen tu</em>,
+                      clearly indicate that specific sets of constellations are
+                      tied to the ancient twelve provinces of China. A direct
+                      correlation between heaven and earth is thus embedded into
+                      the chart itself. This conceptual consideration can be
+                      further applied to the overall framing of the combined two
+                      blue map and chart, which are created as a pair,
+                      terrestrial and celestial, and modeled on the 1247
+                      <em>dili tu</em> and <em>tianwen tu</em>, maintaining the
+                      correlative properties between heaven and earth, within a
+                      Chinese cultural sphere.
+                    </p>
+                    <p>
+                      The final sheet (missing on the Adler copy) has an
+                      epilogue that simply states the purpose of the map: To
+                      explain heavenly bodies. It is dated May 1826 (sixth year
+                      of Daoguang reign, fourth month 道光六年歲在丙戊孟夏之月)
+                      and signed by Qian Yong from Jingui&nbsp;金匱梅溪钱泳書. Of all
+                      the ten editions of the terrestrial map and the four
+                      editions of the celestial map this is the final and only
+                      edition that has a signature of a known maker for the blue
+                      maps and charts. Qian Yong was a poet and author as well
+                      as an accomplished calligrapher of the so-called stone
+                      stele (<em>bei</em> 碑) school of calligraphy, traveling
+                      extensively around China collecting samples of rubbings
+                      from stele. That the celestial chart was designed with
+                      multiple styles of calligraphy suggests a calligrapher,
+                      like Qian Yong, designed the text layout and that he
+                      participated in the creation of all four editions.&nbsp;That
+                      the production of all the maps and charts are done in the
+                      manner of rubbings suggests a collector of rubbings
+                      suggested this method. And that the two stele that the
+                      blue map and chart are modeled after were, and still are,
+                      found in the city of Suzhou and the blue maps and charts
+                      were all produced in the city of Suzhou suggests that Qian
+                      Yong participated in all phases of production.
+                    </p>
+                    <div class="backmatter"></div>
+                    <section class="footnotes">
+                      <ol class="footnotes-list">
+                        <li id="page-catalogue-4-fn1" class="footnote-item">
+                          <p>
+                            In many cases the constellations are updated on the
+                            blue charts in comparison to the 1247 chart with
+                            additional stars discovered by Europeans (since the
+                            discovery of the telescope) and introduced into
+                            Chinese star charts by Europeans working in the
+                            Chinese court from the seventeenth century onwards.
+                            <a href="#page-catalogue-4-fnref1" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                      </ol>
+                    </section>
+                  </div>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  
+                </div>
+              </section>
+            </div>
+          </div>
+        </section><section class="quire-page quire-entry" data-footer-page-title="Cat.5. Complete Terrestrial Map and Map of" data-footer-section-title="Catalogue" id="page-catalogue-5">
+          <div class="side-by-side">
+            
+
+            <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+              <figure id="990086249620203941-1" class="q-figure q-figure--image">
+                
+                
+              </figure>
+            </div>
+
+            <div class="quire-entry__content">
+              <header class="quire-entry__header">
+                <div class="container">
+                  <h1 class="quire-page__header__title" id="page-header-catalogue-5">
+                    Cat.5. Complete Terrestrial Map and Map of Zhejiang
+                    Province, in Enlarged Territorial Atlas
+                  </h1>
+                  <div class="quire-page__header__contributor"></div>
+                </div>
+              </header>
+
+              <section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr>
+                        <td>Title</td>
+                        <td>
+                          廣與圖 [=Guangyu tu; Enlarged territorial atlas]
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Artist</td>
+                        <td>Luo Hongxian 羅洪先 (1504-64)</td>
+                      </tr>
+                      <tr>
+                        <td>Year</td>
+                        <td>
+                          Ming dynasty, Jiajing period (1521-67), dated 1566
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Medium</td>
+                        <td>Woodblock printed book (4 vol), ink on paper</td>
+                      </tr>
+                      <tr>
+                        <td>Location</td>
+                        <td>Harvard-Yenching Library, Harvard University</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <a class="button" href="#page-https-digitalcollections-library-harvard-edu-catalog-990086249620203941" target="_blank">
+                    View in Collection
+                    
+                  </a>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  <div class="content">
+                    <p>
+                      Part of the methodology and visual presentation of mapping
+                      Qing dynasty (1644-1910) China was formulated in the late
+                      Ming dynasty (1368-1644) during the mid-sixteenth century.
+                      Luo Hongxian (羅洪先 1504-64) in his well-known
+                      <em>Guang yutu</em> 廣與圖 (<em>Expansive terrestrial atlas</em>) created the earliest atlas in China that was first
+                      printed in circa 1555.<sup class="footnote-ref"><a href="#page-catalogue-5-fn1" id="page-catalogue-5-fnref1" class="footnote-ref-anchor">1</a></sup>
+                      This slightly later edition, dated to 1566, has forty-six
+                      maps within the atlas, each with a grid called a
+                      <em>jili huafeng</em> 計里畫方, its own scale and a
+                      descriptive preface. The first map, the
+                      <em>Complete terrestrial map</em> (<em>Yudi zongtu</em>),
+                      became a model for Qing map makers and was the foundation
+                      for the Huang family maps (see essay, entries 3, 6 and 7)
+                      and eventually the blue terrestrial map, although it does
+                      not include, notably, the great wall.
+                    </p>
+                    <p>
+                      In the Ming and Qing dynasties, administrators were
+                      responsible for supplying statistics about their
+                      administrative bodies. Based on census figures, military
+                      information and tributary reports Luo Hongxian created his
+                      atlas. That information, in Luo’s atlas, was converted
+                      into twenty-four standardized symbols that are found in a
+                      key, the earliest use of an “encoded toponym.” Luo used
+                      different geometric shapes in combination with
+                      accompanying text to provide information that included
+                      administrative systems, residences and land taxes,
+                      garrisons and troop numbers, and roads.
+                    </p>
+                    <p>
+                      While the grid is absent from the blue maps and only
+                      alluded to in the introduction, keying administrative
+                      units to specific shapes can be found both on the
+                      <em>Guang yutu</em> and the blue maps. Luo Hongxian’s
+                      prototype presented the shapes and toponyms differently
+                      than on the blue maps: Instead of encircling the toponyms
+                      with the shape, the <em>Guang yutu</em> shows the symbols
+                      next to the names as can be seen in the
+                      <em>Map of Zhejiang Province</em> (<em>Zhejiang yutu</em>,
+                      fig.).
+                    </p>
+                    <p>
+                      The encoded toponyms present the micro-scale Ming or Qing
+                      Chinese familial relationships and social structure
+                      essential in understanding the macro-scale frameworks of
+                      the Ming or Qing Chinese realm and its mapping as valued
+                      by the state, presenting the hierarchy visually. The atlas
+                      visually presented the tax base and therefore income of
+                      the state and enabled an easy understanding of
+                      administrative and military divisions along with avenues
+                      of communication. The integration of text and image as
+                      seen here, where a shape was correlated with a place name
+                      that was only generally in a relational location is a
+                      cartographic typology that is unique to East Asian
+                      maps.<sup class="footnote-ref"><a href="#page-catalogue-5-fn2" id="page-catalogue-5-fnref2" class="footnote-ref-anchor">2</a></sup>
+                    </p>
+                    <div class="backmatter"></div>
+                    <section class="footnotes">
+                      <ol class="footnotes-list">
+                        <li id="page-catalogue-5-fn1" class="footnote-item">
+                          <p>
+                            Cao, 1995, 36-7.
+                            <a href="#page-catalogue-5-fnref1" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                        <li id="page-catalogue-5-fn2" class="footnote-item">
+                          <p>
+                            In European-style maps, a place name and any
+                            administrative indicator are typically next to each
+                            other and separated. The distinction where European
+                            cartography tended to polarize subjectivity and
+                            objectivity while East Asian cartography united it,
+                            is well demonstrated in this map. In addition,
+                            scientific and geometric “accuracy” was not an
+                            important factor in the making of these maps. And
+                            the administrative accuracy is higher than anything
+                            achieved in European maps of the period.
+                            <a href="#page-catalogue-5-fnref2" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                      </ol>
+                    </section>
+                  </div>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  
+                </div>
+              </section>
+            </div>
+          </div>
+        </section><section class="quire-page quire-entry" data-footer-page-title="Cat.6. Capital Edition of the Complete Map" data-footer-section-title="Catalogue" id="page-catalogue-6">
+          <div class="side-by-side">
+            
+
+            <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+              <figure id="commonwealth-x633f9803" class="q-figure q-figure--image">
+                
+                
+              </figure>
+            </div>
+
+            <div class="quire-entry__content">
+              <header class="quire-entry__header">
+                <div class="container">
+                  <h1 class="quire-page__header__title" id="page-header-catalogue-6">
+                    Cat.6. Capital Edition of the Complete Map (Based on)
+                    Astronomy
+                  </h1>
+                  <div class="quire-page__header__contributor"></div>
+                </div>
+              </header>
+
+              <section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr>
+                        <td>Title</td>
+                        <td>
+                          京板天文全圖 [=Jingban tianwen quantu; Capital Edition
+                          of the complete map (based on) astronomy]
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Artist</td>
+                        <td>Ma Junliang (jinshi 1761)</td>
+                      </tr>
+                      <tr>
+                        <td>Year</td>
+                        <td>
+                          Qing dynasty, Qianlong period (1735-96), ca. 1795
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Dimensions</td>
+                        <td>132 x 71 cm</td>
+                      </tr>
+                      <tr>
+                        <td>Medium</td>
+                        <td>
+                          Hanging scroll, woodblock-printed and hand colored,
+                          ink and color on paper
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Location</td>
+                        <td>
+                          Norman B. Leventhal Map &amp; Education Center at the
+                          Boston Public Library
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <a class="button" href="#page-https-collections-leventhalmap-org-search-commonwealth-x633f9803" target="_blank">
+                    View in Collection
+                    
+                  </a>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  <div class="content">
+                    <p>
+                      Ma Junliang (imperial graduate degree [<em>jinshi</em>]
+                      1761) was an official cartographer working for the
+                      imperial court in Beijing in the late eighteenth century.
+                      Ma created the woodblock printed
+                      <em>Capital edition of the complete map [based on]
+                        astronomy</em>
+                      (<em>Jingban tianwen quantu</em>) during the mid-1790s.
+                      This colored copy is unusual in that most extant copies
+                      are simply black ink on paper.<sup class="footnote-ref"><a href="#page-catalogue-6-fn1" id="page-catalogue-6-fnref1" class="footnote-ref-anchor">1</a></sup>
+                      This map was created at a time when cartographers in
+                      China, like Ma and Zhuang Tingfu (1728-1800), were
+                      reexamining historical mapping practices.<sup class="footnote-ref"><a href="#page-catalogue-6-fn2" id="page-catalogue-6-fnref2" class="footnote-ref-anchor">2</a></sup>
+                      They both participate in a type of mapmaking that involves
+                      using the <em>gujin</em> paradigm. The binomial term,
+                      <em>gujin</em> 古今 means something like “past and
+                      present” and is made up of the character
+                      <em>gu</em> meaning an unspecified there-then and
+                      <em>jin</em> meaning the here-now. The two terms knit
+                      together—<em>gujin</em>—suggest a conversation between
+                      temporalities, whereby Chinese scholars actively joined
+                      historical events of the past to help define the present
+                      through a process of deliberate recovery and
+                      application.<sup class="footnote-ref"><a href="#page-catalogue-6-fn3" id="page-catalogue-6-fnref3" class="footnote-ref-anchor">3</a></sup>
+                      Conceptually this paradigm is also found in the blue maps
+                      and charts that specifically model and reference the 1247
+                      map and chart.
+                    </p>
+                    <p>
+                      Here, Ma Junliang juxtaposes three different maps created
+                      during two different historical periods. The small map at
+                      the top right is the
+                      <em>Complete geographic map of mountains and streams</em>
+                      <em>(Shanhai yudi quantu</em>), from Wang Qi’s
+                      (1529-1612), illustrated
+                      <em>Sancai tuhui</em> encyclopedia of 1609. The map in the
+                      top left is the “eastern hemisphere” map from Chen
+                      Lunjiong’s (fl. 1703-1730)&nbsp;<em>Record of things heard and seen in the maritime
+                        countries</em>
+                      (<em>Haiguo wenjian lu</em>), completed in 1730 and first
+                      printed in 1744.<sup class="footnote-ref"><a href="#page-catalogue-6-fn4" id="page-catalogue-6-fnref4" class="footnote-ref-anchor">4</a></sup>
+                      Chen’s simple schematic terraqueous map is however a
+                      direct descendent, albeit only showing the eastern
+                      hemisphere, of Zhang Hong’s (1527-1608)
+                      <em>Complete geographical map of mountains and streams</em>
+                      (<em>Yudi shanhai quantu</em>) published in his
+                      <em>Compilation of illustrations and writings</em> (<em>Tushu bian)</em>
+                      encyclopedia of 1613. The two small maps at the top (the
+                      past <em>gu</em> of the <em>gujin</em> paradigm) represent
+                      late Ming period mapmaking presentation practices created
+                      when European notions of world geography were first
+                      introduced.
+                    </p>
+                    <p>
+                      The <em>jin</em> of the paradigm is represented by the
+                      large map below. It belongs to the Huang family lineage of
+                      Qing court map makers and derives from Huang Zongxi’s
+                      (1610-95) 1673 <em>Map of China</em> (<em>Yudi quantu</em>), amended by his grandson Huang Qianren (1694–1771) in
+                      1767 (see entries essay, entries 3 and 7).
+                      <sup class="footnote-ref"><a href="#page-catalogue-6-fn5" id="page-catalogue-6-fnref5" class="footnote-ref-anchor">5</a></sup>
+                      The date is important, for just a few years before, in
+                      1759, Manchuria, Mongolia, Tibet, and Chinese Turkistan
+                      were finally brought under Qing rule. Emperor Qianlong (r.
+                      1736-96) appointed officials from the Manchu
+                      administrative units called banners, as well as local
+                      political figures, to supply statistics about their
+                      administrative districts.<sup class="footnote-ref"><a href="#page-catalogue-6-fn6" id="page-catalogue-6-fnref6" class="footnote-ref-anchor">6</a></sup>
+                      That information was compiled by Huang Qianren and
+                      published as a multi-colored woodblock-printed map in 1767
+                      with the title
+                      <em>All under heaven map of the everlasting unified Qing
+                        empire</em>
+                      (<em>Daqing wannian yitong tianxia quantu</em>), the same
+                      map that was a source for the blue terrestrial map. Ma
+                      presents his version of the Huang family map on the
+                      <em>Jingban tianwen quantu</em> as a contemporary Chinese
+                      map of the Qing empire. Ma’s map connected the “then and
+                      now” visually, looking to the past to find accessible
+                      historical maps that matched and helped explain the
+                      changed circumstances of the present. European mapping
+                      practices introduced in the early seventeenth century,
+                      were again in the 1790s being introduced when a European
+                      presence was pressing again in the Chinese court. The
+                      three maps together, two from the late Ming that were
+                      being revisited, are juxtaposed with an indigenous Chinese
+                      map at a time when Qing China was coming to terms with a
+                      largely unknown and potentially threatening world.
+                    </p>
+                    <div class="backmatter"></div>
+                    <section class="footnotes">
+                      <ol class="footnotes-list">
+                        <li id="page-catalogue-6-fn1" class="footnote-item">
+                          <p>
+                            Copies can be found in Rice University, Fondrian
+                            Library (G7821.A5 1761 M3), Library of Congress
+                            (G7820 1790.M3), and a private New York collection
+                            that came out of Sotheby’s London. Auction L16409,
+                            lot 213, 07 Nov 2016.
+                            <a href="#page-catalogue-6-fnref1" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                        <li id="page-catalogue-6-fn2" class="footnote-item">
+                          <p>
+                            Pegg, 2021.
+                            <a href="#page-catalogue-6-fnref2" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                        <li id="page-catalogue-6-fn3" class="footnote-item">
+                          <p>
+                            Pegg, 2020.
+                            <a href="#page-catalogue-6-fnref3" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                        <li id="page-catalogue-6-fn4" class="footnote-item">
+                          <p>
+                            Ma Junliang along with Lin Binglu later reprinted
+                            Chen Lunjiong’s&nbsp;<em>Haiguo wenjian lu</em>&nbsp;(Record
+                            of Things Heard and Seen in the Maritime Countries)
+                            in 1793.
+                            <a href="#page-catalogue-6-fnref4" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                        <li id="page-catalogue-6-fn5" class="footnote-item">
+                          <p>
+                            Bao, 2008.
+                            <a href="#page-catalogue-6-fnref5" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                        <li id="page-catalogue-6-fn6" class="footnote-item">
+                          <p>
+                            In addition, since the late seventeenth century the
+                            Jesuits had been involved in various court sponsored
+                            map surveys of these areas. See Cams, 2017.
+                            <a href="#page-catalogue-6-fnref6" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                      </ol>
+                    </section>
+                  </div>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  
+                </div>
+              </section>
+            </div>
+          </div>
+        </section><section class="quire-page quire-entry" data-footer-page-title="Cat.7. Complete all under heaven map of th" data-footer-section-title="Catalogue" id="page-catalogue-7">
+          <div class="side-by-side">
+            
+
+            <div class="quire-entry__image-wrap" data-outputs-include="epub,pdf">
+              <figure id="990150296880203941" class="q-figure q-figure--image">
+                
+                
+              </figure>
+            </div>
+
+            <div class="quire-entry__content">
+              <header class="quire-entry__header">
+                <div class="container">
+                  <h1 class="quire-page__header__title" id="page-header-catalogue-7">
+                    Cat.7. Complete all under heaven map of the everlasting
+                    unified Qing empire
+                  </h1>
+                  <div class="quire-page__header__contributor"></div>
+                </div>
+              </header>
+
+              <section class="quire-entry__tombstone">
+                <div class="container">
+                  <table class="table is-fullwidth">
+                    <tbody>
+                      <tr>
+                        <td>Title</td>
+                        <td>
+                          大清一統天下全圖 [=Daqing yitong tianxia quantu;
+                          Complete all under heaven map of the everlasting
+                          unified Qing empire]
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Artist</td>
+                        <td>Zhu Xiling 朱錫齡</td>
+                      </tr>
+                      <tr>
+                        <td>Year</td>
+                        <td>
+                          Qing dynasty, Jiaqing period (1798-1820), dated 1818
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Medium</td>
+                        <td>
+                          Hanging scroll, wood-block printed and hand colored,
+                          ink and color on paper
+                        </td>
+                      </tr>
+                      <tr>
+                        <td>Location</td>
+                        <td>Harvard Map Collection, Harvard University</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <a class="button" href="#page-https-id-lib-harvard-edu-alma-990150296880203941-catalog" target="_blank">
+                    View in Collection
+                    
+                  </a>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  <div class="content">
+                    <p>
+                      Zhu Xiling (act. early 19^th^ c.) printed at least three
+                      editions of his
+                      <em>All under heaven complete map of the unified Great Qing
+                        (Da Qing yitong tianxia quantu)</em>.<sup class="footnote-ref"><a href="#page-catalogue-7-fn1" id="page-catalogue-7-fnref1" class="footnote-ref-anchor">1</a></sup>
+                      They are all multi-colored woodblock printed maps dated to
+                      1818. Like the blue terrestrial map, this map is based
+                      Huang Qianren’s
+                      <em>All under heaven complete map of the everlasting
+                        unified Great Qing</em>
+                      (<em>Daqing wannian yitong tianxia quantu</em>) of 1767
+                      crediting Huang Zongxi, Qianren’s grandfather, as his
+                      ultimate source.
+                    </p>
+                    <p>
+                      In comparison to the blue terrestrial map Zhu’s map
+                      differs in several interesting points. The most obvious is
+                      the scale. Zhu Xiling compresses vertically the same
+                      “space” into a tall thin map while the blue maps expand
+                      the width to almost three times that of the 1818 map. The
+                      next obvious difference is in coloration. All extent
+                      prints of Zhu’s map use multiple colors, primarily in the
+                      18 provinces of “China proper” and the region surrounded
+                      by the Willow Palisade. Natural elements like the oceans,
+                      deserts, and mountains are colored as well. The use of
+                      multiple colors, like printing a map all in blue, makes
+                      for a striking presentation visually enhancing each map.
+                    </p>
+                    <p>
+                      Below the title, are lists of distances from each province
+                      to the capital (absent on the blue terrestrial maps).
+                      Furthermore, the 1818 map presents the capital, Beijing as
+                      much larger and more detailed, including a depiction of
+                      the forbidden city, with all gates labeled on the inner
+                      and outer sections of the capital (fig. ).
+                    </p>
+                    <p>
+                      This map, like the blue terrestrial map, emphasized the
+                      administration of the Qing empire. There is a key, as also
+                      found on the blue terrestrial maps, in the bottom right
+                      corner, that provided the shapes associated with each
+                      administrative unit (encoded toponyms). This map
+                      demonstrates that during the early nineteenth century the
+                      contents as shown on the blue terrestrial maps were not
+                      unusual but part of a popular view of the Qing empire.
+                      However, although conceptually and visually similar to the
+                      blue maps, none of the 1818 maps survives in as great
+                      numbers as the blue maps. The impressive presentation of
+                      the blue maps likely made them the most popular of this
+                      type at the time.
+                    </p>
+                    <div class="backmatter"></div>
+                    <section class="footnotes">
+                      <ol class="footnotes-list">
+                        <li id="page-catalogue-7-fn1" class="footnote-item">
+                          <p>
+                            See other copies in American Geographical Society
+                            Library. Bibliothèque nationale de France, the Royal
+                            Geographical Society and the British Library.
+                            <a href="#page-catalogue-7-fnref1" class="footnote-backref">↩︎</a>
+                          </p>
+                        </li>
+                      </ol>
+                    </section>
+                  </div>
+                </div>
+              </section>
+
+              <section class="section quire-page__content">
+                <div class="container">
+                  
+                </div>
+              </section>
+            </div>
+          </div>
+        </section><section class="quire-page" data-footer-page-title="Bibliography" id="page-bibliography">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="bibliography">
+                Bibliography
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <p>
+                  Bao Guochiang. 2008. “Qing Qianlong ‘Daqing wannian yitong
+                  tianxia quantu’ bianxi” (Study of Qing dynasty Qianlong’s All
+                  under Heaven Map of the Everlasting Unified Qing Empire),
+                  wenxian yanjiu (Archival Studies), no. 2: 40-44.
+                </p>
+                <p>
+                  Bao, Guoqiang. 2015. “Qing Jiaqing taben Da Qing wannian
+                  yitong dili quantu banben kaoshu
+                  清嘉慶拓本《大清萬年一統地理全圖》版本考述.” Wenjin xuezhi
+                  文津学志 8:245-254.
+                </p>
+                <p>
+                  Cams, Mario. 2017. Companions in Geography. East-West
+                  Collaboration in the Mapping of Qing China (c.1685–1735).
+                  Leiden: Brill.<br>
+                  Cao, Wanru 曹婉如 et al. 1994. Zhongguo gudai ditu ji: Mingdai
+                  中國古代地圖集: 明代. Beijing: Wenwu chubanshe.
+                </p>
+                <p>
+                  Needham, Joseph, and Wang Ling. 1959. Science and Civilization
+                  in China. Vol. 3, Mathematics and the Sciences of the Heavens
+                  and the Earth. Cambridge: Cambridge University Press.
+                </p>
+                <p>
+                  Papelitzky, Elke. Forthcoming. “Mapping Tianxia and Mapping
+                  the World: Cosmopolitan Ideas in Geographic Sources of
+                  Fifteenth- to Eighteenth-Century China.” Modern Asian Studies
+                </p>
+                <p>
+                  Pegg, Richard A. 2014. Cartographic Traditions in East Asian
+                  Maps, MacLean Collection, 2014
+                </p>
+                <p>
+                  Pegg, Richard A. 2020. “Jesuit Maps in China and Korea:
+                  Connecting the Past to the Present,” in Time in Space:
+                  Representing the Past in Maps, David Rumsey Center, Stanford
+                  University and University of Chicago Press, 2020, ch. 3, 63-76
+                </p>
+                <p>
+                  Pegg, Richard A. 2021. “Zhuang Tingfu: Cartographic Encounters
+                  and Echoes,” MacLean Collection Map Chat, posted July 2021,
+                  <a href="#page-https-www-leventhalmap-org-articles-zhuang-tingfu" target="_blank">https://www.leventhalmap.org/articles/zhuang-tingfu/</a>
+                </p>
+                <p>
+                  Pegg, Richard A. 2023. “The Blue Terrestrial Map of China in
+                  the WereldMuseum, Leiden.” Provenance, WereldMuseum, Leiden
+                </p>
+                <p>
+                  Pegg, Richard A. and Papelitzky, Elke. 2023.“The Blue Maps of
+                  China: Considerations of Materiality and Function in China and
+                  Japan,” in Maps and Colours, Federal Ministry of Education and
+                  Research, Germany, Brill, ch. 14, pp.
+                </p>
+                <p>
+                  Pegg, Richard A. and Papelitzky, Elke. Forthcoming.
+                  Correlating Heaven and Earth: The Blue Maps of China,
+                  University of Chicago Press and MacLean Collection
+                </p>
+                <p>
+                  Yee, Cordell D. 1994. “Taking the World’s Measure: Chinese
+                  Maps between Observation and Text.” In The History of
+                  Cartography. Vol. 2, book 2. Cartography in the Traditional
+                  East and Southeast Asian Societies, 96-127. Chicago: Chicago
+                  University Press.
+                </p>
+
+                <div class="quire-page__content__references"></div>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section><section class="quire-page" data-footer-page-title="Contributors" id="page-contributors">
+          <section class="quire-page__header hero">
+            <div class="hero-body">
+              <h1 class="quire-page__header__title" id="contributors">
+                Contributors
+              </h1>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              <div class="content">
+                <ul class="quire-contributors-list bio align-left">
+                  <li class="quire-contributor" id="garrett-nelson">
+                    <div class="title is-5">
+                      <span class="quire-contributor__name">Garrett Nelson</span>
+                      <a href="#page-https-www-leventhalmap-org-about-people-garrett-nelson" class="quire-contributor__url" target="_blank">
+                        
+                      </a>
+                    </div>
+                    <div class="media">
+                      <div class="quire-contributor__details media-content">
+                        <ul>
+                          <li>
+                            <a href="#page-intro" class="quire-contributor__page-link" target="_blank">
+                              Introduction: Cosmographic Spaces
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="quire-contributor" id="richard-pegg">
+                    <div class="title is-5">
+                      <span class="quire-contributor__name">Richard Pegg</span>
+                      <a href="#page-https-www-macleancollection-com-contact" class="quire-contributor__url" target="_blank">
+                        
+                      </a>
+                    </div>
+                    <div class="media">
+                      <div class="quire-contributor__details media-content">
+                        <div class="quire-contributor__bio">
+                          TKTK Richard bio
+                        </div>
+                        <ul>
+                          <li>
+                            <a href="#page-essay" class="quire-contributor__page-link" target="_blank">
+                              Essay. Heaven and Earth: The Blue Maps of China
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <section class="section quire-page__content">
+            <div class="container">
+              
+            </div>
+          </section>
+        </section></body></html>
