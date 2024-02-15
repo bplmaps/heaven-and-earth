@@ -1,0 +1,31 @@
+.crosslink-box {
+  padding: 24px;
+  border: 2px solid blue;
+  border-radius: 3px;
+
+  h3 {
+    color: blue;
+  }
+
+  a {
+    margin-left: 2em;
+    margin-top: 1.5em;
+    background-color: #ffffff;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    border: 1px solid #cf4747;
+  }
+
+  a.button {
+    -webkit-transition: all 0.25s ease;
+    transition: all 0.25s ease;
+    color: #cf4747;
+  }
+
+  a.button:hover {
+    background-color: #a02a2a;
+    border-color: #a02a2a;
+    color: #fff;
+  }
+}

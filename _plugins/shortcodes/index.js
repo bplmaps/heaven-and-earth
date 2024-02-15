@@ -10,6 +10,7 @@ const ref = require('./ref')
 const shortcodeFactory = require('../components/shortcodeFactory')
 const title = require('./title')
 const tombstone = require('./tombstone')
+const crosslink = require('./crosslink')
 
 module.exports = function(eleventyConfig, collections, options) {
   const { addShortcode, addPairedShortcode } = shortcodeFactory(eleventyConfig, collections)
@@ -24,4 +25,5 @@ module.exports = function(eleventyConfig, collections, options) {
   addShortcode('figuregroup', figureGroup)
   addShortcode('title', title)
   addShortcode('tombstone', tombstone)
+  addPairedShortcode('crosslink', crosslink)
 }

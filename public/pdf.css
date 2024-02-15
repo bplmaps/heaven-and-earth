@@ -13492,6 +13492,34 @@ body > div.mfp-bg.mfp-ready {
   fill: #fff;
 }
 
+.crosslink-box {
+  padding: 24px;
+  border: 2px solid blue;
+  border-radius: 3px;
+}
+.crosslink-box h3 {
+  color: blue;
+}
+.crosslink-box a {
+  margin-left: 2em;
+  margin-top: 1.5em;
+  background-color: #ffffff;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  border: 1px solid #cf4747;
+}
+.crosslink-box a.button {
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  color: #cf4747;
+}
+.crosslink-box a.button:hover {
+  background-color: #a02a2a;
+  border-color: #a02a2a;
+  color: #fff;
+}
+
 @media print {
   @page {
     size: 8.5in 11in;
