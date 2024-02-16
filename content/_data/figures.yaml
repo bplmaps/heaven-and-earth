@@ -9,7 +9,7 @@ figure_list:
     canvasId: https://iiif.lib.harvard.edu/manifests/ids:46431380/canvas/canvas-46431380.json
     caption: "test test"
   - id: "dili-tu"
-    src: "figures/dili-tu-temp.jpg"
+    src: "figures/dili-tu.jpg"
   - id: "adler-star-sm"
     src: "figures/celestial.jpg"
   - id: "990086249620203941--1"
