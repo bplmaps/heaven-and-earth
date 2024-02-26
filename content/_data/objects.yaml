@@ -8,8 +8,10 @@ object_display_order:
 
 object_list:
   - id: "dili-tu"
-    title: 地理圖 [=Dili tu; Geographical map]
-    artist: "Huang Sheng 黃裳 (1146-94, maker) and Wang Zhiyuan 王致远 (1193-1257, stone carver)"
+    title-chinese: 地理圖
+    title-pinyin: Dili tu
+    title-english: Geographical Map
+    artist: "Huang Sheng 黃裳 (1146--94, maker) and Wang Zhiyuan 王致远 (1193--1257, stone carver)"
     year: "Southern Song dynasty, Lizong period (1224-64), dated 1247"
     medium: Rubbing from stone stele, ink on paper; modern reproduction
     dimensions: "TKTK"
@@ -17,8 +19,10 @@ object_list:
     figure:
       - id: "dili-tu"
   - id: "W290684_URN-3:FHCL:10873007"
-    title: 天文圖 [=Tianwen tu; Celestial chart]
-    artist: "Huang Sheng 黃裳 (1146-94, maker) and Wang Zhiyuan 王致远 (1193-1257, stone carver)"
+    title-chinese: 天文圖
+    title-pinyin: Tianwen tu
+    title-english: Celestial Chart
+    artist: "Huang Sheng 黃裳 (1146--94, maker) and Wang Zhiyuan 王致远 (1193--1257, stone carver)"
     year: "Southern Song dynasty, Lizong period (1224-64), dated 1247"
     medium: Rubbing from stone stele, ink on paper
     dimensions: "182 x 98 cm"
@@ -27,36 +31,44 @@ object_list:
     figure:
       - id: "W290684_URN-3:FHCL:10873007"
   - id: "commonwealth:wh24b054q"
-    title: 大清萬年一統地理全圖 [=Daqing wannian yitong dili quantu; Complete map of the geography of the everlasting, unified Great Qing]
-    year: "ca. 1820"
-    medium: Prussian blue ink on xuan paper mounted as folding screen
+    title-chinese: 大清萬年一統地理全圖
+    title-pinyin: Daqing wannian yitong dili quantu
+    title-english: Complete Geographical Map of the Everlasting Unified Qing empire
+    year: "Qing dynasty, Jiaqing period (1796--1820), ca. 1818"
+    medium: Eight sheets mounted as folding screen, woodblock printed, Prussian blue ink on *xuan* paper
     dimensions: 112 x 249 cm
     location: MacLean Collection
     link:  https://collections.leventhalmap.org/search/commonwealth:wh24b054q
     figure:
       - id: "commonwealth:wh24b054q"
   - id: "adler-star"
-    title: 渾天壹統星象全圖 [=Huntian yitong xingxiang quantu; Complete map of unified star configurations in the heavens]
-    year: "Qing dynasty, Daoguang period (1820-50), dated 1826"
-    medium: Seven-sheet framed, wood-block printed in blue ink on paper
+    title-chinese: 渾天壹統星象全圖
+    title-pinyin: Huntian yitong xingxiang quantu
+    title-english: Complete Map of the Unified Star Configurations in the Heavens
+    year: Qing dynasty, Daoguang period (1820--50), dated 1826
+    medium: Seven sheets framed, woodblock printed, Prussian blue ink on *xuan* paper
     dimensions: TKTK
     location: Adler Planetarium
     figure:
       - id: "adler-star-sm"
   - id: "990086249620203941"
-    title: 廣與圖 [=Guangyu tu; Enlarged territorial atlas]
-    year: Ming dynasty, Jiajing period (1521-67), dated 1566
-    artist: Luo Hongxian 羅洪先 (1504-64)
-    medium: Woodblock printed book (4 vol), ink on paper
+    title-chinese: 輿地總圖 浙江輿圖 廣與圖
+    title-pinyin: Yudi zongtu; Zhejiang yutu [in] Guangyu tu
+    title-english: Complete Terrestrial Map and Map of Zhejiang Province in Enlarged Territorial Atlas
+    year: Ming dynasty, Jiajing period (1521--67), dated 1566
+    artist: Luo Hongxian 羅洪先 (1504--64)
+    medium: Woodblock printed book (4 vol.), ink on paper
     location: Harvard-Yenching Library, Harvard University
     link: https://digitalcollections.library.harvard.edu/catalog/990086249620203941
     figure:
       - id: "990086249620203941--1"
   - id: "commonwealth:x633f9803"
-    title: 京板天文全圖 [=Jingban tianwen quantu; Capital Edition of the complete map (based on) astronomy]
+    title-chinese: 京板天文全圖
+    title-pinyin: Jingban tianwen quantu
+    title-english: Capital Edition of the Complete Map Based on Astronomy
     link: https://collections.leventhalmap.org/search/commonwealth:x633f9803
-    year: Qing dynasty, Qianlong period (1735-96), ca. 1795
-    artist: Ma Junliang (jinshi 1761)
+    year: Qing dynasty, Qianlong period (1735--96), ca. 1795
+    artist: Ma Junliang 馬俊良 (*jinshi* 1761)
     medium: Hanging scroll, woodblock-printed and hand colored, ink and color on paper
     dimensions: 132 x 71 cm
     location: Norman B. Leventhal Map & Education Center at the Boston Public Library
@@ -64,8 +76,10 @@ object_list:
       - id: "commonwealth:x633f9803"
   - id: "990150296880203941"
     link: https://id.lib.harvard.edu/alma/990150296880203941/catalog
-    title: 大清一統天下全圖 [=Daqing yitong tianxia quantu; Complete all under heaven map of the everlasting unified Qing empire]
-    year: Qing dynasty, Jiaqing period (1798-1820), dated 1818
+    title-chinese: 大清一統天下全圖
+    title-pinyin: Daqing yitong tianxia quantu
+    title-english: Complete Map of the Unified All Under Heaven Qing Empire
+    year: Qing dynasty, Jiaqing period (1798-  -1820), dated 1818
     artist: Zhu Xiling 朱錫齡
     medium: Hanging scroll, wood-block printed and hand colored, ink and color on paper
     location: Harvard Map Collection, Harvard University
