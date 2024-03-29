@@ -1,31 +1,16 @@
 .crosslink-box {
   padding: 24px;
-  border: 2px solid blue;
-  border-radius: 3px;
+  background-color: $prussian-blue;
+  margin-bottom: 12px;
 
   h3 {
-    color: blue;
+    color: white;
+    font-style: normal;
+    font-weight: 700;
+    font-family: $area-normal;
   }
 
-  a {
-    margin-left: 2em;
-    margin-top: 1.5em;
-    background-color: #ffffff;
-    -moz-border-radius: 2px;
-    -webkit-border-radius: 2px;
-    border-radius: 2px;
-    border: 1px solid #cf4747;
-  }
+  p { color: white; }
 
-  a.button {
-    -webkit-transition: all 0.25s ease;
-    transition: all 0.25s ease;
-    color: #cf4747;
-  }
 
-  a.button:hover {
-    background-color: #a02a2a;
-    border-color: #a02a2a;
-    color: #fff;
-  }
 }

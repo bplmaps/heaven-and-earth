@@ -27,6 +27,9 @@ $noto-sans: 'Noto Sans', sans-serif;
 $noto-serif: 'Noto Serif', serif;
 $times-serif: Times, serif;
 
+$loretta-display: 'loretta-display', serif;
+$area-normal: 'area-normal', sans-serif;
+
 // Page typography
 // -----------------------------------------------------------------------------
 $quire-base-font-size: 16px;
@@ -94,10 +97,10 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $secondary-background-color: $content-background-color;
 } @else {
   // Modern Theme (default)
-  $quire-primary-font: $noto-sans !default;
-  $quire-headings-font: $ibm-sans !default;
-  $quire-footnotes-font: $noto-serif !default;
-  $quire-navigation-font: $noto-sans !default;
+  $quire-primary-font: $area-normal !default;
+  $quire-headings-font: $loretta-display !default;
+  $quire-footnotes-font: $area-normal !default;
+  $quire-navigation-font: $area-normal !default;
   $accent-color: $red !default;
   $content-background-color: $white !default;
   $secondary-background-color: $off-white !default;

@@ -3,11 +3,9 @@ figure_list:
   - id: "commonwealth:wh24b054q"
     manifestId: https://ark.digitalcommonwealth.org/ark:/50959/wh24b054q/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/wh24b054q/canvas/hx121n456
-    caption: "test test"
   - id: "W290684_URN-3:FHCL:10873007"
     manifestId: https://iiif.lib.harvard.edu/manifests/ids:46431380
     canvasId: https://iiif.lib.harvard.edu/manifests/ids:46431380/canvas/canvas-46431380.json
-    caption: "test test"
   - id: "dili-tu"
     src: "figures/dili-tu.jpg"
   - id: "adler-star-sm"

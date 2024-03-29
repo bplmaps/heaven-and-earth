@@ -4,7 +4,12 @@ layout: cover
 order: 1
 menu: false
 toc: false
-image: spiral-overlay.png
+image: H&E_Logo_Final_Outline_2400px.png
 ---
 
-In the early decades of nineteenth-century China, two series of large-format maps, one terrestrial and one celestial, were printed in the city of Suzhou. They were printed as eight loose sheets using Prussian blue, the first large scale use of this pigment in East Asia, in the unusual manner of a rubbing from a stone-stele, resulting in most of the paper appearing in bright blue. The terrestrial maps present the realm of the Qing Empire (1644–1911) and selected surrounding regions. The four extant editions of the celestial maps, dated to 1822 and 1826, present a planisphere of all the known stars and extensive descriptions of known celestial bodies and their related celestial mechanics. This exhibition considers these two maps in the contexts of their production, consumption, and functions revealing them as unique in the global history of mapmaking. 
+During the first decades of the nineteenth century, China was in a moment of transition, grappling with its geopolitical status as both an ancient and modern nation-state. The power of the Qing dynasty had just reached its zenith, establishing a vast territory of political and cultural influence over a multiethnic, geographically dispersed population. Chinese scholars and artists were reconsidering the ideological and practical significance of the imperial realm. Meanwhile, European ideas and goods were arriving in China, bringing both new opportunities and challenges.
+
+
+It was in this moment that two series of large-format maps, one terrestrial and one celestial, were printed in the city of Suzhou. These maps were presented in an extraordinary format, on eight vertical sheets printed in the style of rubbings. Even more strikingly, they were rendered in a rich blue coloring. The pigment Prussian blue had recently begun to be produced in China, and these maps were amongst the first printed objects in East Asia to make use of the colorant—predating the famous use of Prussian blue by Japanese print artists soon after.
+
+The blue maps were more than just visually astonishing. They also captured Chinese ideas about the relationship between terrestrial and celestial space, and still provide insight today into how Chinese scholars and artists conceptualized the world around them. Beautiful and powerful in equal measure, these blue maps capture details of a transitional moment in the history of China—and the wider world. This exhibition considers these two maps in the context of their production, consumption, and functionality, revealing them as unique objects in the global history of mapmaking.

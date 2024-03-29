@@ -17,24 +17,7 @@ layout: base.11ty.js
     <img class="visually-hidden" src="{{ imagePath }}" />
   </div>
   <div class="quire-cover__hero-body hero-body">
-    <div class="container is-fluid">
-      <h1 class="title" id="page-header-{{ page.filePathStem }}">
-        {{ publication.title | markdownify }}
-        {% if publication.subtitle %}
-          <span class="visually-hidden">: </span>
-          <span class="subtitle">{{ publication.subtitle | markdownify }}</span>
-        {% endif %}
-      </h1>
-      <p class="reading-line">{{ publication.reading_line | markdownify }}</p>
-      <div class="contributor">
-        <span class="visually-hidden">Contributors: </span>
-        {% if publication.contributor_as_it_appears %}
-          <em>{{ publication.contributor_as_it_appears }}</em>
-        {% else %}
-          <em>{% contributors context=publicationContributors, format='string', type='primary' %}</em>
-        {% endif %}
-      </div>
-    </div>
+
   </div>
 </section>
 

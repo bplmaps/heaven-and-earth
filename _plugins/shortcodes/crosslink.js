@@ -8,7 +8,6 @@ const logger = chalkFactory('shortcodes: crosslink')
  *
  * @param      {String}  content  content to render in the crosslink body
  * @param      {String}  heading  content to render in the crosslink heading
- * @param      {String}  url      where the link button goes
  *
  * @return     {String}  An HTML <details> element with <summary> and <section>
  */
@@ -35,9 +34,6 @@ module.exports = function (eleventyConfig, { page }) {
           ${markdownify(heading, { inline: false })}
         </h3>
         <div class="crosslink-body">${markdownify(content, { inline: false })}</div>
-        <div>
-          <a class="button" href="${encodeURIComponent(url)}">Learn more &rarr;</a>
-        </div>
       </aside>
     ` 
 
