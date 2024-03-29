@@ -6,10 +6,10 @@ order: 500
 
 Bao Guochiang. 2008. “Qing Qianlong ‘Daqing wannian yitong tianxia quantu’ bianxi” (Study of Qing dynasty Qianlong’s All under Heaven Map of the Everlasting Unified Qing Empire), wenxian yanjiu (Archival Studies), no. 2: 40-44.
 
-Bao, Guoqiang. 2015. “Qing Jiaqing taben Da Qing wannian yitong dili quantu banben kaoshu 清嘉慶拓本《大清萬年一統地理全圖》版本考述.” Wenjin xuezhi 文津学志 8:245-254.
+Bao, Guoqiang. 2015. “Qing Jiaqing taben Da Qing wannian yitong dili quantu banben kaoshu <span class="inline-characters chinese-characters">清嘉慶拓本</span>《<span class="inline-characters chinese-characters">大清萬年一統地理全圖</span>》<span class="inline-characters chinese-characters">版本考述</span>.” Wenjin xuezhi <span class="inline-characters chinese-characters">文津学志</span> 8:245-254.
 
 Cams, Mario. 2017. Companions in Geography. East-West Collaboration in the Mapping of Qing China (c.1685–1735). Leiden: Brill.
-Cao, Wanru 曹婉如 et al. 1994. Zhongguo gudai ditu ji: Mingdai 中國古代地圖集: 明代. Beijing: Wenwu chubanshe.
+Cao, Wanru <span class="inline-characters chinese-characters">曹婉如</span> et al. 1994. Zhongguo gudai ditu ji: Mingdai <span class="inline-characters chinese-characters">中國古代地圖集</span>: <span class="inline-characters chinese-characters">明代</span>. Beijing: Wenwu chubanshe.
 
 Needham, Joseph, and Wang Ling. 1959. Science and Civilization in China. Vol. 3, Mathematics and the Sciences of the Heavens and the Earth. Cambridge: Cambridge University Press.
 

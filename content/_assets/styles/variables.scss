@@ -7,8 +7,8 @@
 // sure to leave the colons (:) and semi-colons (;) in place.
 
 $accent-color: null;
-$content-background-color: null; // main text area background color
-$secondary-background-color: null; // only for modern theme
+$content-background-color: $wall; // main text area background color
+$secondary-background-color: $wall; // only for modern theme
 
 // Declare the theme: modern/classic
 $theme: modern;
@@ -93,7 +93,7 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-footnotes-font: $noto-sans !default;
   $quire-navigation-font: $noto-sans !default;
   $accent-color: $blue !default;
-  $content-background-color: $white !default;
+  $content-background-color: $wall !default;
   $secondary-background-color: $content-background-color;
 } @else {
   // Modern Theme (default)
@@ -102,8 +102,12 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   $quire-footnotes-font: $area-normal !default;
   $quire-navigation-font: $area-normal !default;
   $accent-color: $red !default;
-  $content-background-color: $white !default;
+  $content-background-color: $wall !default;
   $secondary-background-color: $off-white !default;
+}
+
+.chinese-characters {
+  color: $dark-jade;
 }
 
 // Navbar

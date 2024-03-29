@@ -19,10 +19,10 @@ intellectual centers of the Chinese empire at the time and throughout
 much of China's imperial history. The terrestrial maps, of which most of
 the ten editions are entitled *Geographical* *Complete Map of the
 Everlasting Unified Qing Empire* (*Daqing wannian yitong dili quantu*
-大清萬年一統地理全圖), present the realm of the Qing Empire (1644--1911)
+<span class="inline-characters chinese-characters">大清萬年一統地理全圖</span>), present the realm of the Qing Empire (1644--1911)
 and selected surrounding regions. The four extant editions of the
 celestial maps entitled *Complete Map of Unified Star Configurations in
-the Heavens* (*Huntian yitong xingxiang quantu* 渾天壹統星象全圖), dated
+the Heavens* (*Huntian yitong xingxiang quantu* <span class="inline-characters chinese-characters">渾天壹統星象全圖</span>), dated
 to 1822 and 1826, present a planisphere of all the known stars and
 extensive descriptions of known celestial bodies and their related
 celestial mechanics. This catalogue essay considers these two maps in
@@ -36,13 +36,13 @@ the exhibition.
 The methods and materials for the production and consumption of the blue
 maps and charts are unique in cartographic history, not only locally in
 East Asia but within the larger world.[^1] Both maps and charts were
-produced on eight sheets of Chinese *xuan* 宣 paper in three unique
+produced on eight sheets of Chinese *xuan* <span class="inline-characters chinese-characters">宣</span> paper in three unique
 manners; the paper, the printing method and the blue colorant. While the
 associated mounting and consumption practices are also unique.
 
 Xuan paper, made primarily in Anhui and Zhejiang provinces, was
 principally blue sandalwood (Tara Wingceltis, L. *Ulmus Cavaleriei*, C.
-*qingdan* 青檀), a deciduous tree found throughout China, mixed with
+*qingdan* <span class="inline-characters chinese-characters">青檀</span>), a deciduous tree found throughout China, mixed with
 differing degrees of rice plant fibers. In the case of the blue maps and
 charts, a low grade *xuan* type paper was used, one with less blue
 sandalwood fibers and more rice plant fiber fill. The paper used was
@@ -120,8 +120,8 @@ consumption and display techniques of the blue maps and charts hint to
 their popularity in Japan. The maps and charts were intended to be
 mounted as sets of multiple (eight) hanging scrolls arranged as a
 continuous image in a Chinese style known as the panoramic screen
-(*tongjing ping* 通景屏), with no borders or gaps in between the
-scrolls, and a one-color border (*yise biao* 一色裱) in minimal
+(*tongjing ping* <span class="inline-characters chinese-characters">通景屏</span>), with no borders or gaps in between the
+scrolls, and a one-color border (*yise biao* <span class="inline-characters chinese-characters">一色裱</span>) in minimal
 proportions done in paper or brocade below and at the top of each
 scroll. And, in general, when the printed sheets were mounted in China
 this was the presentation style. The sheets however were also sold and
@@ -129,12 +129,12 @@ distributed as unmounted sheets.[^4] The maps and charts were soon
 popular in Japan and arrived as eight unmounted sheets. This is
 evidenced by the numerous mounting styles fabricated in Japan. The maps
 and charts can still be found mounted as hanging scrolls, folded screens
-(*byōbu* 屏風, see entry 3), sliding doors (*fusuma* 襖), and folded
+(*byōbu* <span class="inline-characters chinese-characters">屏風</span>, see entry 3), sliding doors (*fusuma* <span class="inline-characters chinese-characters">襖</span>), and folded
 sheet maps. The Japanese style mounting of the folded sheet map has two
 covers, mounted on the back of the map in opposite corners of the map
 proper, that protect the map when folded. In the case of the hanging
 scroll style (original Chinese style) in Japan, a two-color mount style
-(*erse biao* 二色裱, and different from the Chinese style) using two
+(*erse biao* <span class="inline-characters chinese-characters">二色裱</span>, and different from the Chinese style) using two
 separate border colors was used, the preferred style in Japan.[^5] The
 number of still extent blue maps and charts mounted in Japanese styles
 attests to their popularity in Japan.
@@ -183,17 +183,17 @@ unidentified persons and or their studios, of the terrestrial map as a
 place of production. Only the last edition of the blue celestial chart
 dated to the fifth month of 1826 is signed by a known personage, Qian
 Yong (1759--1844). Qian Yong was a poet and author as well as an
-accomplished calligrapher of the so-called stone stele (*bei* 碑) school
+accomplished calligrapher of the so-called stone stele (*bei* <span class="inline-characters chinese-characters">碑</span>) school
 of calligraphy, traveling extensively throughout China collecting
 samples of rubbings from stone stele. That a calligrapher was part of
 the design of the blue celestial maps should come as no surprise. All
 celestial editions can be divided by calligraphic types into three
 different styles, unusual for a single object. The first section is
 dedicated to the large eight-character title in seal script (*zhuanshu*
-篆書), while the last section contains an inscription in clerical script
-(*lishu* 隸書), giving some general information about the chart, which
+<span class="inline-characters chinese-characters">篆書</span>), while the last section contains an inscription in clerical script
+(*lishu* <span class="inline-characters chinese-characters">隸書</span>), giving some general information about the chart, which
 differs between the 1822 and the 1826 editions. The main text written in
-standard script (*kaishu* 楷書) on six sheets, is structured along
+standard script (*kaishu* <span class="inline-characters chinese-characters">楷書</span>) on six sheets, is structured along
 sixteen section heads demarcated by white boxes with blue character
 titles. That the celestial map was designed with multiple styles of
 calligraphy suggests a calligrapher, like Qian Yong, designed the text
@@ -202,7 +202,7 @@ layout and that he participated in the creation of all four editions. 
 In late imperial China, the collecting, making of rubbings and copying
 of calligraphy found on ancient stone stele (*bei*), and the rubbings of
 calligraphy on ancient bronze vessels or from copy books of calligraphy
-(*tie* 帖) schools of calligraphy were both popular. These two schools
+(*tie* <span class="inline-characters chinese-characters">帖</span>) schools of calligraphy were both popular. These two schools
 of collecting and related collecting practices originated in the
 seventeenth century amongst groups of scholars, artists, collectors, and
 calligraphers that formed social groups around literary, collecting, and
@@ -210,7 +210,7 @@ artistic practices of common interest, often sharing and collaborating
 with each other.[^7] These types of scholarly groups were in a period of
 revival in the early nineteenth century with well-known
 scholar/painter/calligrapher/rubbings collectors including Yi Bingshou
-伊秉綬 (1755--1815) who wrote sixteen quatrain poems on famous model
+<span class="inline-characters chinese-characters">伊秉綬</span> (1755--1815) who wrote sixteen quatrain poems on famous model
 rubbings. Qian Yong was likely active in similar groups and discussions
 among such groups which probably contributed to the creation of the blue
 maps and charts. No doubt the proximity to the two 1247 map steles, the
@@ -268,11 +268,11 @@ present the hierarchy visually.
 ## Huang family legacy
 
 In the preface of the blue terrestrial map the authors credit as their
-principal source Huang Qianren's (黃千人 1694--1771)), a student at the
+principal source Huang Qianren's (<span class="inline-characters chinese-characters">黃千人</span> 1694--1771)), a student at the
 National University and later a low-ranking official, 1767 map titled
 *Complete map of the everlasting Great Qing unified all under heaven*
 (*Da Qing wannian yitong tianxia quantu)*. Huang in turn, on his 1767
-map, credits his grandfather's, Huang Zongxi 黃宗羲 (1610--1695), map of
+map, credits his grandfather's, Huang Zongxi <span class="inline-characters chinese-characters">黃宗羲</span> (1610--1695), map of
 the early Qing empire (*Yudi quantu)* dated to 1673. The general layout
 and administrative emphasis, in particular the use of encoded toponyms,
 of the blue terrestrial maps thus lay in the legacy of the Huang
@@ -281,10 +281,10 @@ family's map making.
 Two other maps in the exhibition claim the same lineage to the Huang
 family. The large lower map of Ma Junliang's (jinshi 1761) *Capital
 Edition of the complete map (based on) astronomy* (*Jingban tianwen
-quantu* 京板天文全圖), from circa 1795, also claims to be based on Huang
+quantu* <span class="inline-characters chinese-characters">京板天文全圖</span>), from circa 1795, also claims to be based on Huang
 Qianren's 1767 map (see catalogue entry 6). And Zhu Xiling's *Complete
 all under heaven map of the everlasting unified Qing empire* (*Daqing
-yitong tianxia quantu* 大清一統天下全圖), dated to 1818, follows the
+yitong tianxia quantu* <span class="inline-characters chinese-characters">大清一統天下全圖</span>), dated to 1818, follows the
 same lineage (see catalogue entry 7).
 
 ## Cosmological/astrological Pairing
@@ -364,7 +364,7 @@ for a time and political structure from before Manchu rule.
     cases. Pegg and Papelitzky, pp
 
 [^7]: Perhaps the best-known founders were calligraphers like Wang Duo
-    王鐸 (1592--1652), Ni Yuanlu 倪元璐 (1593--1641) and Fu Shan 傅山
+    <span class="inline-characters chinese-characters">王鐸</span> (1592--1652), Ni Yuanlu <span class="inline-characters chinese-characters">倪元璐</span> (1593--1641) and Fu Shan <span class="inline-characters chinese-characters">傅山</span>
     (1607--1685).
 
 [^8]: Papelitzky, forthcoming.

@@ -412,10 +412,10 @@ $image-divider-height: 16px;
         border-bottom: 1px dotted $accent-color;
       }
 
-      &:hover {
-        color: link-hover-color($content-background-color);
-        border-bottom: 1px solid link-hover-color($content-background-color);
-      }
+      // &:hover {
+      //   color: link-hover-color($content-background-color);
+      //   border-bottom: 1px solid link-hover-color($content-background-color);
+      // }
 
       @media print {
         color: $print-text-color;
@@ -524,10 +524,10 @@ $image-divider-height: 16px;
         }
       }
 
-      &:hover {
-        background-color: $quire-hover-color;
-        color: background-color-text($quire-hover-color);
-      }
+      // &:hover {
+      //   background-color: $quire-hover-color;
+      //   color: background-color-text($quire-hover-color);
+      // }
     }
   }
 

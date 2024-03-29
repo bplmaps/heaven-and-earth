@@ -12,7 +12,7 @@ figure_list:
     src: "figures/celestial.jpg"
   - id: "990086249620203941--1"
     manifestId: https://iiif.lib.harvard.edu/manifests/drs:23517991 
-    canvasId: https://iiif.lib.harvard.edu/manifests/drs:23517991/canvas/canvas-23518472.json
+    canvasId: https://iiif.lib.harvard.edu/manifests/drs:23517991/canvas/canvas-23518486.json
   - id: "commonwealth:x633f9803"
     manifestId: https://ark.digitalcommonwealth.org/ark:/50959/x633f9803/manifest
     canvasId: https://ark.digitalcommonwealth.org/ark:/50959/x633f9803/canvas/qb98n8079

@@ -91,7 +91,8 @@ html {
   }
 
   h2 {
-    text-transform: uppercase;
+    // text-transform: uppercase;
+    font-weight: 300;
     font-size: $heading-2-font-size;
     line-height: $heading-2-line-height;
   }

@@ -41,7 +41,7 @@
 
     &__title {
       font-size: 1.375em;
-      font-weight: 700;
+      font-weight: 300;
       line-height: 1.2em;
       color: $white;
       font-family: $quire-headings-font;
@@ -143,7 +143,7 @@
       &.active {
         margin-left: -1.25em;
         border-left: 4px solid $accent-color;
-        color: $accent-color !important;
+        color: $jade !important;
         text-decoration: none;
         padding-left: calc(.75em + 4px);
         &:hover {
