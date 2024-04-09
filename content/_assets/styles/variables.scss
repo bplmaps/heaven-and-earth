@@ -110,6 +110,22 @@ $quire-navigation-font: null; // navbar and next/prev buttons
   color: $dark-jade;
 }
 
+.romanization-characters {
+  color: $dark-olive;
+}
+
+.crosslink-box {
+  .chinese-characters {
+    color: $jade;
+  }
+  
+  .romanization-characters {
+    color: $pale-olive;
+  }
+}
+
+
+
 // Navbar
 // -----------------------------------------------------------------------------
 $navbar-height: 3rem;
