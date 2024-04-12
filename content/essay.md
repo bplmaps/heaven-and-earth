@@ -12,361 +12,66 @@ abstract: |
   TKTK Abstract
 ---
 
-In China, during the early decades of the nineteenth century, two series
-of large format maps, one terrestrial and one celestial, were printed
-between 1812 and 1826 in the city of Suzhou, one of the economic and
-intellectual centers of the Chinese empire at the time and throughout
-much of China's imperial history. The terrestrial maps, of which most of
-the ten editions are entitled *Geographical* *Complete Map of the
-Everlasting Unified Qing Empire* (*Daqing wannian yitong dili quantu*
-<span class="inline-characters chinese-characters">大清萬年一統地理全圖</span>), present the realm of the Qing Empire (1644--1911)
-and selected surrounding regions. The four extant editions of the
-celestial maps entitled *Complete Map of Unified Star Configurations in
-the Heavens* (*Huntian yitong xingxiang quantu* <span class="inline-characters chinese-characters">渾天壹統星象全圖</span>), dated
-to 1822 and 1826, present a planisphere of all the known stars and
-extensive descriptions of known celestial bodies and their related
-celestial mechanics. This catalogue essay considers these two maps in
-the contexts of their interconnected "4 M's;" that is methods,
-materials, makers and models; while the catalogue entries provide
-information about the content of each of the maps and charts included in
-the exhibition.
+In China, during the early decades of the nineteenth century, two series of large format maps, one terrestrial and one celestial, were printed between 1812 and 1826 in the city of Suzhou, one of the economic and intellectual centers of the Chinese empire at the time and throughout much of China's imperial history. The terrestrial maps, of which most of the ten editions are entitled *Geographical* *Complete Map of the Everlasting Unified Qing Empire* (*Daqing wannian yitong dili quantu* [大清萬年一統地理全圖]{.inline-characters .chinese-characters}), present the realm of the Qing Empire (1644--1911) and selected surrounding regions. The four extant editions of the celestial maps entitled *Complete Map of Unified Star Configurations in the Heavens* (*Huntian yitong xingxiang quantu* [渾天壹統星象全圖]{.inline-characters .chinese-characters}), dated to 1822 and 1826, present a planisphere of all the known stars and extensive descriptions of known celestial bodies and their related celestial mechanics. This catalogue essay considers these two maps in the contexts of their interconnected "4 M's;" that is methods, materials, makers and models; while the catalogue entries provide information about the content of each of the maps and charts included in the exhibition.
 
 ## Methods and Materials
 
-The methods and materials for the production and consumption of the blue
-maps and charts are unique in cartographic history, not only locally in
-East Asia but within the larger world.[^1] Both maps and charts were
-produced on eight sheets of Chinese *xuan* <span class="inline-characters chinese-characters">宣</span> paper in three unique
-manners; the paper, the printing method and the blue colorant. While the
-associated mounting and consumption practices are also unique.
+The methods and materials for the production and consumption of the blue maps and charts are unique in cartographic history, not only locally in East Asia but within the larger world.[^1] Both maps and charts were produced on eight sheets of Chinese *xuan* [宣]{.inline-characters .chinese-characters} paper in three unique manners; the paper, the printing method and the blue colorant. While the associated mounting and consumption practices are also unique.
 
-Xuan paper, made primarily in Anhui and Zhejiang provinces, was
-principally blue sandalwood (Tara Wingceltis, L. *Ulmus Cavaleriei*, C.
-*qingdan* <span class="inline-characters chinese-characters">青檀</span>), a deciduous tree found throughout China, mixed with
-differing degrees of rice plant fibers. In the case of the blue maps and
-charts, a low grade *xuan* type paper was used, one with less blue
-sandalwood fibers and more rice plant fiber fill. The paper used was
-unusual, between a low-cost bamboo paper typical of rubbings (a printing
-technique) and a high-cost sandalwood paper typical of painting and
-calligraphy.
+Xuan paper, made primarily in Anhui and Zhejiang provinces, was principally blue sandalwood (Tara Wingceltis, L. *Ulmus Cavaleriei*, C. *qingdan* [青檀]{.inline-characters .chinese-characters}), a deciduous tree found throughout China, mixed with differing degrees of rice plant fibers. In the case of the blue maps and charts, a low grade *xuan* type paper was used, one with less blue sandalwood fibers and more rice plant fiber fill. The paper used was unusual, between a low-cost bamboo paper typical of rubbings (a printing technique) and a high-cost sandalwood paper typical of painting and calligraphy.
 
-The blue maps follow closely the aesthetics of a print production known
-as a rubbing. This printing production methodology began in the Tang
-dynasty (618-907 CE). The manner of presentation of white characters on
-a solid color, here blue, should be understood within the context of
-historical Chinese practices associated with making rubbings from stone
-stele and ancient bronzes. In China, rubbings were an essential
-component of long-established epigraphic study and associated collecting
-practices, as well as specific calligraphic practices. To make a rubbing
-from an engraved stone stele, slightly moistened paper would be fixed on
-a prepared, flattened smooth then carved, stone. The moist paper would
-be manipulated using brushes and pointed sticks, pressing the paper into
-the recessed areas of the carved stone. An inked (typically in black)
-dauber (fabric over cotton wadding) would be tamped down onto the
-paper-covered stone. The ink would adhere to the "raised" paper making
-the areas of carved away stone appear in white. In this process a
-positive image is carved on the stone, and a positive image is created
-on the inked paper. This contrasts to the typical manner of woodblock
-printing where a negative image is carved into the block, the block is
-then inked and the paper pressed onto the inked block with the ink
-transferring to the paper, making for a positive image on the paper. In
-other words, typical woodblock printing creates a positive image from a
-negative block. 
+The blue maps follow closely the aesthetics of a print production known as a rubbing. This printing production methodology began in the Tang dynasty (618-907 CE). The manner of presentation of white characters on a solid color, here blue, should be understood within the context of historical Chinese practices associated with making rubbings from stone stele and ancient bronzes. In China, rubbings were an essential component of long-established epigraphic study and associated collecting practices, as well as specific calligraphic practices. To make a rubbing from an engraved stone stele, slightly moistened paper would be fixed on a prepared, flattened smooth then carved, stone. The moist paper would be manipulated using brushes and pointed sticks, pressing the paper into the recessed areas of the carved stone. An inked (typically in black) dauber (fabric over cotton wadding) would be tamped down onto the paper-covered stone. The ink would adhere to the "raised" paper making the areas of carved away stone appear in white. In this process a positive image is carved on the stone, and a positive image is created on the inked paper. This contrasts to the typical manner of woodblock printing where a negative image is carved into the block, the block is then inked and the paper pressed onto the inked block with the ink transferring to the paper, making for a positive image on the paper. In other words, typical woodblock printing creates a positive image from a negative block. 
 
-The blue maps and charts production adhere this process of making
-rubbings from stone steles, but through printing from woodblocks instead
-of stone. Like a stone stele, a positive image would be carved into a
-wooden block that was then used to print in the manner of a rubbing.
-Historically in China, it is highly unusual to print from woodblocks a
-positive image from a positive block, especially at this scale.
-Woodblock printing typically was used to create more easily and quickly
-multiple similar copies of any given work. Printing in the manner of a
-rubbing is comparatively very labor intensive and time consuming,
-creating essentially a unique print each time. Through close visual
-analysis of the printed paper, the rubbing method of production using
-woodblocks can easily be seen on the blue maps and charts. As already
-noted, during the printing process the moistened paper was pressed and
-stretched into the negative space of the carved woodblock, furthest for
-the large characters of the title. After printing, when the finished
-print was to be mounted, the paper was pressed flat and glued to an
-additional paper backing. The resulting "stretch marks," formed during
-the printing process, became folds and creases that can be easily seen
-when looked for closely on any copy of the blue maps or charts.[^2]
+The blue maps and charts production adhere this process of making rubbings from stone steles, but through printing from woodblocks instead of stone. Like a stone stele, a positive image would be carved into a wooden block that was then used to print in the manner of a rubbing. Historically in China, it is highly unusual to print from woodblocks a positive image from a positive block, especially at this scale. Woodblock printing typically was used to create more easily and quickly multiple similar copies of any given work. Printing in the manner of a rubbing is comparatively very labor intensive and time consuming, creating essentially a unique print each time. Through close visual analysis of the printed paper, the rubbing method of production using woodblocks can easily be seen on the blue maps and charts. As already noted, during the printing process the moistened paper was pressed and stretched into the negative space of the carved woodblock, furthest for the large characters of the title. After printing, when the finished print was to be mounted, the paper was pressed flat and glued to an additional paper backing. The resulting "stretch marks," formed during the printing process, became folds and creases that can be easily seen when looked for closely on any copy of the blue maps or charts.[^2]
 
-The most striking, and unusual, feature of these maps is of course the
-blue color that sets them apart from other Chinese maps, and indeed maps
-from any other part of the world, produced at the time. Scientific
-spectral analysis of three copies of the terrestrial maps and one copy
-of a celestial blue map by the Weissman Preservation Center at Harvard
-University and Microtrace in Elgin Illinois, have confirmed the pigment
-to be Prussian Blue. Prussian blue, a ferric (iron) hexacyanoferrate,
-was first synthesized accidentally in Berlin by Johann Jacob Diesbach, a
-Swiss painter and colormaker, in 1706. Its production is a complex and
-time-consuming process of acidic additives into a crystalline
-distillation with resulting varying sized crystals that can be filtered
-to create different tones of blue (note the two tones of blue used on
-the terrestrial map, see entry 3). The blue maps and charts were
-produced around the time when Chinese manufacturers learned to make the
-pigment locally and were less dependent on imports. The discovery of the
-use of Prussian blue in the case of the blue maps and charts is
-historically significant as it demonstrates the first large-scale use of
-Prussian blue for printing in China, and East Asia, in the first decades
-of the nineteenth century.
+The most striking, and unusual, feature of these maps is of course the blue color that sets them apart from other Chinese maps, and indeed maps from any other part of the world, produced at the time. Scientific spectral analysis of three copies of the terrestrial maps and one copy of a celestial blue map by the Weissman Preservation Center at Harvard University and Microtrace in Elgin Illinois, have confirmed the pigment to be Prussian Blue. Prussian blue, a ferric (iron) hexacyanoferrate, was first synthesized accidentally in Berlin by Johann Jacob Diesbach, a Swiss painter and colormaker, in 1706. Its production is a complex and time-consuming process of acidic additives into a crystalline distillation with resulting varying sized crystals that can be filtered to create different tones of blue (note the two tones of blue used on the terrestrial map, see entry 3). The blue maps and charts were produced around the time when Chinese manufacturers learned to make the pigment locally and were less dependent on imports. The discovery of the use of Prussian blue in the case of the blue maps and charts is historically significant as it demonstrates the first large-scale use of Prussian blue for printing in China, and East Asia, in the first decades of the nineteenth century.
 
-The blue maps and charts were popular, with ten editions (from forty-six
-extant copies) for the terrestrial map and four editions (from thirteen
-extent copies) of the celestial chart identified thus far.[^3] The
-consumption and display techniques of the blue maps and charts hint to
-their popularity in Japan. The maps and charts were intended to be
-mounted as sets of multiple (eight) hanging scrolls arranged as a
-continuous image in a Chinese style known as the panoramic screen
-(*tongjing ping* <span class="inline-characters chinese-characters">通景屏</span>), with no borders or gaps in between the
-scrolls, and a one-color border (*yise biao* <span class="inline-characters chinese-characters">一色裱</span>) in minimal
-proportions done in paper or brocade below and at the top of each
-scroll. And, in general, when the printed sheets were mounted in China
-this was the presentation style. The sheets however were also sold and
-distributed as unmounted sheets.[^4] The maps and charts were soon
-popular in Japan and arrived as eight unmounted sheets. This is
-evidenced by the numerous mounting styles fabricated in Japan. The maps
-and charts can still be found mounted as hanging scrolls, folded screens
-(*byōbu* <span class="inline-characters chinese-characters">屏風</span>, see entry 3), sliding doors (*fusuma* <span class="inline-characters chinese-characters">襖</span>), and folded
-sheet maps. The Japanese style mounting of the folded sheet map has two
-covers, mounted on the back of the map in opposite corners of the map
-proper, that protect the map when folded. In the case of the hanging
-scroll style (original Chinese style) in Japan, a two-color mount style
-(*erse biao* <span class="inline-characters chinese-characters">二色裱</span>, and different from the Chinese style) using two
-separate border colors was used, the preferred style in Japan.[^5] The
-number of still extent blue maps and charts mounted in Japanese styles
-attests to their popularity in Japan.
+The blue maps and charts were popular, with ten editions (from forty-six extant copies) for the terrestrial map and four editions (from thirteen extent copies) of the celestial chart identified thus far.[^3] The consumption and display techniques of the blue maps and charts hint to their popularity in Japan. The maps and charts were intended to be mounted as sets of multiple (eight) hanging scrolls arranged as a continuous image in a Chinese style known as the panoramic screen (*tongjing ping* [通景屏]{.inline-characters .chinese-characters}), with no borders or gaps in between the scrolls, and a one-color border (*yise biao* [一色裱]{.inline-characters .chinese-characters}) in minimal proportions done in paper or brocade below and at the top of each scroll. And, in general, when the printed sheets were mounted in China this was the presentation style. The sheets however were also sold and distributed as unmounted sheets.[^4] The maps and charts were soon popular in Japan and arrived as eight unmounted sheets. This is evidenced by the numerous mounting styles fabricated in Japan. The maps and charts can still be found mounted as hanging scrolls, folded screens (*byōbu* [屏風]{.inline-characters .chinese-characters}, see entry 3), sliding doors (*fusuma* [襖]{.inline-characters .chinese-characters}), and folded sheet maps. The Japanese style mounting of the folded sheet map has two covers, mounted on the back of the map in opposite corners of the map proper, that protect the map when folded. In the case of the hanging scroll style (original Chinese style) in Japan, a two-color mount style (*erse biao* [二色裱]{.inline-characters .chinese-characters}, and different from the Chinese style) using two separate border colors was used, the preferred style in Japan.[^5] The number of still extent blue maps and charts mounted in Japanese styles attests to their popularity in Japan.
 
-Confirmation that the maps were intended to be mounted as hanging
-scrolls, can be found in the title slips extant on many prints of the
-terrestrial maps (see entry 3). These title slips were printed
-vertically and stacked on the far-right exterior edge of the first sheet
-for most editions.[^6] The map's title, in an abbreviated form (*Da Qing
-yitong dili quantu*), is repeated eight times in individual rectangular
-framed boxes. In addition, these eight title slips are numbered in the
-bottom right corner of each slip, from top to bottom, one to eight.
-Typically, title slips were a small blank sheet of paper added during
-the mounting process to the exterior of the rolled hanging scroll
-(hanging scrolls are rolled when stored). After application to the
-scroll by the mount maker a title would be written on the slip. In other
-words, the title slips were typically produced by the mount maker,
-entirely separately from the printing process, and attached to the
-scroll when the work was mounted onto the backing paper that helps
-protect the original work. On the blue maps, however, these title slips
-were incorporated into the original printing process, even though they
-were not, technically, part of the map proper. It is quite unusual that
-title slips were part of the original printed work, to be removed by the
-mount maker. Mount makers would typically never alter the original work
-in any way. The title slips imply that the printer and mount maker,
-typically unrelated craftsmen, collaborated, or at least that the
-production team seriously considered the mount maker as part of the
-project. The intentional inclusion of these eight slips indicates that
-the maps were to be mounted as hanging scrolls, with the title slips cut
-off, separated and placed outside the mount as labels on the exterior of
-the rolled scrolls; again a highly unusual production model. What is
-interesting to note is that the printed sheets were distributed to Japan
-as loose sheets, where mounters kept the title slips attached when
-mounting the maps (see entry 3). As demonstrated above, the production
-of the blue maps and charts are unusual in historical (Chinese, East
-Asian and World) mapmaking through using a low-grade Xuan paper and
-unique in three ways, rubbing printing method, title slips, and in use
-of Prussian blue.
+Confirmation that the maps were intended to be mounted as hanging scrolls, can be found in the title slips extant on many prints of the terrestrial maps (see entry 3). These title slips were printed vertically and stacked on the far-right exterior edge of the first sheet for most editions.[^6] The map's title, in an abbreviated form (*Da Qing yitong dili quantu*), is repeated eight times in individual rectangular framed boxes. In addition, these eight title slips are numbered in the bottom right corner of each slip, from top to bottom, one to eight. Typically, title slips were a small blank sheet of paper added during the mounting process to the exterior of the rolled hanging scroll (hanging scrolls are rolled when stored). After application to the scroll by the mount maker a title would be written on the slip. In other words, the title slips were typically produced by the mount maker, entirely separately from the printing process, and attached to the scroll when the work was mounted onto the backing paper that helps protect the original work. On the blue maps, however, these title slips were incorporated into the original printing process, even though they were not, technically, part of the map proper. It is quite unusual that title slips were part of the original printed work, to be removed by the mount maker. Mount makers would typically never alter the original work in any way. The title slips imply that the printer and mount maker, typically unrelated craftsmen, collaborated, or at least that the production team seriously considered the mount maker as part of the project. The intentional inclusion of these eight slips indicates that the maps were to be mounted as hanging scrolls, with the title slips cut off, separated and placed outside the mount as labels on the exterior of the rolled scrolls; again a highly unusual production model. What is interesting to note is that the printed sheets were distributed to Japan as loose sheets, where mounters kept the title slips attached when mounting the maps (see entry 3). As demonstrated above, the production of the blue maps and charts are unusual in historical (Chinese, East Asian and World) mapmaking through using a low-grade Xuan paper and unique in three ways, rubbing printing method, title slips, and in use of Prussian blue.
 
 ## Makers
 
-Suzhou, one of the economic and intellectual centers of the Qing empire
-at the time of the blue maps and charts production and throughout much
-of China's imperial history, appears on all signed editions, of thus far
-unidentified persons and or their studios, of the terrestrial map as a
-place of production. Only the last edition of the blue celestial chart
-dated to the fifth month of 1826 is signed by a known personage, Qian
-Yong (1759--1844). Qian Yong was a poet and author as well as an
-accomplished calligrapher of the so-called stone stele (*bei* <span class="inline-characters chinese-characters">碑</span>) school
-of calligraphy, traveling extensively throughout China collecting
-samples of rubbings from stone stele. That a calligrapher was part of
-the design of the blue celestial maps should come as no surprise. All
-celestial editions can be divided by calligraphic types into three
-different styles, unusual for a single object. The first section is
-dedicated to the large eight-character title in seal script (*zhuanshu*
-<span class="inline-characters chinese-characters">篆書</span>), while the last section contains an inscription in clerical script
-(*lishu* <span class="inline-characters chinese-characters">隸書</span>), giving some general information about the chart, which
-differs between the 1822 and the 1826 editions. The main text written in
-standard script (*kaishu* <span class="inline-characters chinese-characters">楷書</span>) on six sheets, is structured along
-sixteen section heads demarcated by white boxes with blue character
-titles. That the celestial map was designed with multiple styles of
-calligraphy suggests a calligrapher, like Qian Yong, designed the text
-layout and that he participated in the creation of all four editions. 
+Suzhou, one of the economic and intellectual centers of the Qing empire at the time of the blue maps and charts production and throughout much of China's imperial history, appears on all signed editions, of thus far unidentified persons and or their studios, of the terrestrial map as a place of production. Only the last edition of the blue celestial chart dated to the fifth month of 1826 is signed by a known personage, Qian Yong (1759--1844). Qian Yong was a poet and author as well as an accomplished calligrapher of the so-called stone stele (*bei* [碑]{.inline-characters .chinese-characters}) school of calligraphy, traveling extensively throughout China collecting samples of rubbings from stone stele. That a calligrapher was part of the design of the blue celestial maps should come as no surprise. All celestial editions can be divided by calligraphic types into three different styles, unusual for a single object. The first section is dedicated to the large eight-character title in seal script (*zhuanshu* [篆書]{.inline-characters .chinese-characters}), while the last section contains an inscription in clerical script (*lishu* [隸書]{.inline-characters .chinese-characters}), giving some general information about the chart, which differs between the 1822 and the 1826 editions. The main text written in standard script (*kaishu* [楷書]{.inline-characters .chinese-characters}) on six sheets, is structured along sixteen section heads demarcated by white boxes with blue character titles. That the celestial map was designed with multiple styles of calligraphy suggests a calligrapher, like Qian Yong, designed the text layout and that he participated in the creation of all four editions. 
 
-In late imperial China, the collecting, making of rubbings and copying
-of calligraphy found on ancient stone stele (*bei*), and the rubbings of
-calligraphy on ancient bronze vessels or from copy books of calligraphy
-(*tie* <span class="inline-characters chinese-characters">帖</span>) schools of calligraphy were both popular. These two schools
-of collecting and related collecting practices originated in the
-seventeenth century amongst groups of scholars, artists, collectors, and
-calligraphers that formed social groups around literary, collecting, and
-artistic practices of common interest, often sharing and collaborating
-with each other.[^7] These types of scholarly groups were in a period of
-revival in the early nineteenth century with well-known
-scholar/painter/calligrapher/rubbings collectors including Yi Bingshou
-<span class="inline-characters chinese-characters">伊秉綬</span> (1755--1815) who wrote sixteen quatrain poems on famous model
-rubbings. Qian Yong was likely active in similar groups and discussions
-among such groups which probably contributed to the creation of the blue
-maps and charts. No doubt the proximity to the two 1247 map steles, the
-*Dili tu* and *tianwen tu* (see entries 1 and 2), themselves in the
-Confucian temple in Suzhou also helps explain Qian Yong's interest in
-the blue map and chart project, as he was an avid stele-school follower
-himself.
+In late imperial China, the collecting, making of rubbings and copying of calligraphy found on ancient stone stele (*bei*), and the rubbings of calligraphy on ancient bronze vessels or from copy books of calligraphy (*tie* [帖]{.inline-characters .chinese-characters}) schools of calligraphy were both popular. These two schools of collecting and related collecting practices originated in the seventeenth century amongst groups of scholars, artists, collectors, and calligraphers that formed social groups around literary, collecting, and artistic practices of common interest, often sharing and collaborating with each other.[^7] These types of scholarly groups were in a period of revival in the early nineteenth century with well-known scholar/painter/calligrapher/rubbings collectors including Yi Bingshou [伊秉綬]{.inline-characters .chinese-characters} (1755--1815) who wrote sixteen quatrain poems on famous model rubbings. Qian Yong was likely active in similar groups and discussions among such groups which probably contributed to the creation of the blue maps and charts. No doubt the proximity to the two 1247 map steles, the *Dili tu* and *tianwen tu* (see entries 1 and 2), themselves in the Confucian temple in Suzhou also helps explain Qian Yong's interest in the blue map and chart project, as he was an avid stele-school follower himself.
 
 ## Models
 
-This exhibition especially emphasizes three different historical models
-for the blue maps and charts; a particular typology (unique to East
-Asia) of administrative mapping, the Huang family legacy and the
-cosmological/astrological pairing of a terrestrial map and celestial
-chart.
+This exhibition especially emphasizes three different historical models for the blue maps and charts; a particular typology (unique to East Asia) of administrative mapping, the Huang family legacy and the cosmological/astrological pairing of a terrestrial map and celestial chart.
 
 ## Administrative Mapping
 
-Luo Hongxian's (1504-64) *Enlarged Territorial Atlas* (*Guangyu tu*, see
-catalogue entry 5) dated 1566, includes maps of the eighteen provinces
-of late Ming dynasty (1368-1644) China. Luo created twenty-four
-standardized symbols, found in a key, associated with census figures,
-military information and tributary reports and placed them next to place
-names, in the earliest use in China of an "encoded toponym." The use of
-geometric shapes in association with toponyms and administration is a
-characteristic of a typology of Chinese mapmaking that visually links
-places with the people of those places beginning in the late Ming
-dynasty. The blue terrestrial maps use a key and a conceptually similar
-system, except the toponyms were placed inside the encoded shapes.
+Luo Hongxian's (1504-64) *Enlarged Territorial Atlas* (*Guangyu tu*, see catalogue entry 5) dated 1566, includes maps of the eighteen provinces of late Ming dynasty (1368-1644) China. Luo created twenty-four standardized symbols, found in a key, associated with census figures, military information and tributary reports and placed them next to place names, in the earliest use in China of an "encoded toponym." The use of geometric shapes in association with toponyms and administration is a characteristic of a typology of Chinese mapmaking that visually links places with the people of those places beginning in the late Ming dynasty. The blue terrestrial maps use a key and a conceptually similar system, except the toponyms were placed inside the encoded shapes.
 
-By encoding administrative units with a geographic shape and thus
-visually prioritizing administration over geography, the people living
-in each administrative unit become important, as does the relationship
-of each toponym with the surrounding ones in an administrative hierarchy
-of the entire empire (by mapping placenames that are presented
-relationally as opposed to geometrically/to scale to each other). Each
-toponym is encoded through a shape that ties it immediately to the
-administration and a social structure. If we consider these encoded
-toponyms as presenting a specifically Chinese paradigm of a
-socio-political order that has a familial framework, then the entire
-terrestrial blue map can be understood as presenting the paradigm of an
-idealized order that is the Qing empire. Within a specifically Chinese
-context this type of socio-political order with a familial framework was
-proposed and implemented by Confucius (551-479 BCE) and his followers as
-a method to promote peace and stability on micro and macro scales. That
-is not to say that these maps are explicitly Confucian in any way but
-that the blue terrestrial maps present similar paradigms. These maps
-visualize the correlative relationships of a Chinese cosmological order
-found between the toponyms, geography, social structures, and the people
-that inhabit those spaces. The micro-scale familial relationships and
-social structure essential in understanding the macro-scale frameworks
-of the Qing realm and its mapping are valued and these maps precisely
-present the hierarchy visually.
+By encoding administrative units with a geometric shape and thus visually prioritizing administration over geography, the people living in each administrative unit become important, as does the relationship of each toponym with the surrounding ones in an administrative hierarchy of the entire empire (by mapping placenames that are presented relationally as opposed to geometrically/to scale to each other). Each toponym is encoded through a shape that ties it immediately to the administration and a social structure. If we consider these encoded toponyms as presenting a specifically Chinese paradigm of a socio-political order that has a familial framework, then the entire terrestrial blue map can be understood as presenting the paradigm of an idealized order that is the Qing empire. Within a specifically Chinese context this type of socio-political order with a familial framework was proposed and implemented by Confucius (551-479 BCE) and his followers as a method to promote peace and stability on micro and macro scales. That is not to say that these maps are explicitly Confucian in any way but that the blue terrestrial maps present similar paradigms. These maps visualize the correlative relationships of a Chinese cosmological order found between the toponyms, geography, social structures, and the people that inhabit those spaces. The micro-scale familial relationships and social structure essential in understanding the macro-scale frameworks of the Qing realm and its mapping are valued and these maps precisely present the hierarchy visually.
 
 ## Huang family legacy
 
-In the preface of the blue terrestrial map the authors credit as their
-principal source Huang Qianren's (<span class="inline-characters chinese-characters">黃千人</span> 1694--1771)), a student at the
-National University and later a low-ranking official, 1767 map titled
-*Complete map of the everlasting Great Qing unified all under heaven*
-(*Da Qing wannian yitong tianxia quantu)*. Huang in turn, on his 1767
-map, credits his grandfather's, Huang Zongxi <span class="inline-characters chinese-characters">黃宗羲</span> (1610--1695), map of
-the early Qing empire (*Yudi quantu)* dated to 1673. The general layout
-and administrative emphasis, in particular the use of encoded toponyms,
-of the blue terrestrial maps thus lay in the legacy of the Huang
-family's map making.
+In the preface of the blue terrestrial map the authors credit as their principal source Huang Qianren's ([黃千人]{.inline-characters .chinese-characters} 1694--1771)), a student at the National University and later a low-ranking official, 1767 map titled *Complete map of the everlasting Great Qing unified all under heaven* (*Da Qing wannian yitong tianxia quantu)*. Huang in turn, on his 1767 map, credits his grandfather's, Huang Zongxi [黃宗羲]{.inline-characters .chinese-characters} (1610--1695), map of the early Qing empire (*Yudi quantu)* dated to 1673. The general layout and administrative emphasis, in particular the use of encoded toponyms, of the blue terrestrial maps thus lay in the legacy of the Huang family's map making.
 
-Two other maps in the exhibition claim the same lineage to the Huang
-family. The large lower map of Ma Junliang's (jinshi 1761) *Capital
-Edition of the complete map (based on) astronomy* (*Jingban tianwen
-quantu* <span class="inline-characters chinese-characters">京板天文全圖</span>), from circa 1795, also claims to be based on Huang
-Qianren's 1767 map (see catalogue entry 6). And Zhu Xiling's *Complete
-all under heaven map of the everlasting unified Qing empire* (*Daqing
-yitong tianxia quantu* <span class="inline-characters chinese-characters">大清一統天下全圖</span>), dated to 1818, follows the
-same lineage (see catalogue entry 7).
+Two other maps in the exhibition claim the same lineage to the Huang family. The large lower map of Ma Junliang's (jinshi 1761) *Capital Edition of the complete map (based on) astronomy* (*Jingban tianwen quantu* [京板天文全圖]{.inline-characters .chinese-characters}), from circa 1795, also claims to be based on Huang Qianren's 1767 map (see catalogue entry 6). And Zhu Xiling's *Complete all under heaven map of the everlasting unified Qing empire* (*Daqing yitong tianxia quantu* [大清一統天下全圖]{.inline-characters .chinese-characters}), dated to 1818, follows the same lineage (see catalogue entry 7).
 
 ## Cosmological/astrological Pairing
 
-The terrestrial maps conceptually and visually prioritize multiple
-"inner" and "outer" historical administrative frameworks that
-participate in Chinese familial practices set within a standardized
-infrastructure of geophysical and manmade attributes (see entry 3). The
-celestial charts present a planisphere of stars and constellations in
-conjunction with geographic and planetary correlations while surrounding
-texts present important celestial mechanics (see entry 4).
+The terrestrial maps conceptually and visually prioritize multiple "inner" and "outer" historical administrative frameworks that participate in Chinese familial practices set within a standardized infrastructure of geophysical and manmade attributes (see entry 3). The celestial charts present a planisphere of stars and constellations in conjunction with geographic and planetary correlations while surrounding texts present important celestial mechanics (see entry 4).
 
-Although the two maps can function separately, and each emerge from
-their own unique historical trajectories they should be understood
-conceptually as part of a larger cosmological framework. Modern analytic
-examinations typically ignore the combination of celestial and
-terrestrial mapping, preferring to polarize and separate the two map
-types (the terrestrial is considered geographic and historical while the
-celestial is scientific). This exhibition and related catalogue
-rectifies this trend. These maps were meant to be considered together in
-relationships and correlations participating in a long historical
-tradition established since at least the stone steles *Dili tu*
-(*Geographical Map*) and the *Tianwen tu* *(Celestial Chart*) carved in
-1247 (See catalogue entries 1 and 2). This is confirmed in the epilogue
-of the 1822 edition of the celestial chart where both of the 1247 map
-and chart are specifically cited. The titles of the blue map and chart
-provide further confirmation. First, the terrestrial map specifically
-used the term *dili* (terrestrial) in the title at a time when the
-preference was to use the term *tianxia* (all under heaven, see entry
-7).[^8] And second, both titles use the binomial terms *yitong*
-(unified) and *quantu* (complete map or chart) as a connecting linkage.
-While the use of these binomial terms is not unusual for the terrestrial
-map they are highly unusual for a celestial chart confirming the two
-terms are meant to connect and couple the blue map and chart and thus to
-function in the same manner as the 1247 map and chart. Conceptually
-functioning like the thirteenth century steles, the blue maps (although
-greatly expanded, updated, and differing completely in their
-materiality) show the territory and administrative structure of Qing
-China with some surrounding regions as combined with a planisphere of
-all the known stars. As a result, the subtle and covert political
-implications (see entry 1) found on the combined 1247 map and chart
-presented by ethnically Han officials longing for an earlier (and thus
-idealized) Han Chinese based political structure are reactivated (in a
-*gujin* paradigm, see entry 6), in an equally subtle and covert manner,
-through the blue maps and charts during the early nineteenth century by
-ethnically Han scholars in Suzhou (not the capital of Beijing) longing
-for a time and political structure from before Manchu rule.
+Although the two maps can function separately, and each emerge from their own unique historical trajectories they should be understood conceptually as part of a larger cosmological framework. Modern analytic examinations typically ignore the combination of celestial and terrestrial mapping, preferring to polarize and separate the two map types (the terrestrial is considered geographic and historical while the celestial is scientific). This exhibition and related catalogue rectifies this trend. These maps were meant to be considered together in relationships and correlations participating in a long historical tradition established since at least the stone steles *Dili tu* (*Geographical Map*) and the *Tianwen tu* *(Celestial Chart*) carved in 1247 (See catalogue entries 1 and 2). This is confirmed in the epilogue of the 1822 edition of the celestial chart where both of the 1247 map and chart are specifically cited. The titles of the blue map and chart provide further confirmation. First, the terrestrial map specifically used the term *dili* (terrestrial) in the title at a time when the preference was to use the term *tianxia* (all under heaven, see entry 7).\[\^8\] And second, both titles use the binomial terms *yitong* (unified) and *quantu* (complete map or chart) as a connecting linkage. While the use of these binomial terms is not unusual for the terrestrial map they are highly unusual for a celestial chart confirming the two terms are meant to connect and couple the blue map and chart and thus to function in the same manner as the 1247 map and chart. Conceptually functioning like the thirteenth century steles, the blue maps (although greatly expanded, updated, and differing completely in their materiality) show the territory and administrative structure of Qing China with some surrounding regions as combined with a planisphere of all the known stars. As a result, the subtle and covert political implications (see entry 1) found on the combined 1247 map and chart presented by ethnically Han officials longing for an earlier (and thus idealized) Han Chinese based political structure are reactivated (in a *gujin* paradigm, see entry 6), in an equally subtle and covert manner, through the blue maps and charts during the early nineteenth century by ethnically Han scholars in Suzhou (not the capital of Beijing) longing for a time and political structure from before Manchu rule.
 
 ## Notes
 
-[^1]: The author has based considerations of the production and
-    consumption models using the larger data sets of extent examples of
-    both the maps and charts.
+[^1]: The author has based considerations of the production and consumption models using the larger data sets of extent examples of both the maps and charts.
 
-[^2]: The printing process was first confirmed through microscopic
-    examination at the Weissman Preservation Center at Harvard
-    University, and has subsequently been confirmed on numerous examples
-    of both terrestrial and celestial blue maps. Pegg and Papelitzky
-    2023, pp
+[^2]: The printing process was first confirmed through microscopic examination at the Weissman Preservation Center at Harvard University, and has subsequently been confirmed on numerous examples of both terrestrial and celestial blue maps. Pegg and Papelitzky 2024, pp. 202
 
 [^3]: Using data sets as of October 2023.
 
-[^4]: This is confirmed by one set in the Harvard-Yenching Library that
-    was purchased in Japan and is still unbound. Pegg and Papelitzky
-    2023, pp.
+[^4]: This is confirmed by one set in the Harvard-Yenching Library that was purchased in Japan and is still unbound. Pegg and Papelitzky 2024, pp. 199
 
-[^5]: Another example found at Waseda University mounted the title
-    slips, instead of on the outside of the rolled scroll, on the inside
-    face as part of the mount, centered above the map proper and inset
-    as part of the mounting, making for a unique display. Pegg and
-    Papelitzky 2023, pp.
+[^5]: Another example found at Waseda University mounted the title slips, instead of on the outside of the rolled scroll, on the inside face as part of the mount, centered above the map proper and inset as part of the mounting, making for a unique display. Pegg and Papelitzky 2024, pp. 200
 
-[^6]: That these title slips were meant to be cut off is made especially
-    evident in the case of the editions with the title slips placed on
-    the eighth scroll, as they would have been displayed in the middle
-    of the map if not cut off and not on the outer edge as in all other
-    cases. Pegg and Papelitzky, pp
+[^6]: That these title slips were meant to be cut off is made especially evident in the case of the editions with the title slips placed on the eighth scroll, as they would have been displayed in the middle of the map if not cut off and not on the outer edge as in all other cases. Pegg and Papelitzky forthcoming
 
-[^7]: Perhaps the best-known founders were calligraphers like Wang Duo
-    <span class="inline-characters chinese-characters">王鐸</span> (1592--1652), Ni Yuanlu <span class="inline-characters chinese-characters">倪元璐</span> (1593--1641) and Fu Shan <span class="inline-characters chinese-characters">傅山</span>
-    (1607--1685).
-
-[^8]: Papelitzky, forthcoming.
+[^7]: Perhaps the best-known founders were calligraphers like Wang Duo [王鐸]{.inline-characters .chinese-characters} (1592--1652), Ni Yuanlu [倪元璐]{.inline-characters .chinese-characters} (1593--1641) and Fu Shan [傅山]{.inline-characters .chinese-characters} (1607--1685).
 
 
