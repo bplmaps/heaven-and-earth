@@ -15,11 +15,11 @@ url: 'http://localhost:8080'
 # Title & Description
 title: Heaven and Earth
 subtitle: The Blue Maps of China
-reading_line:
+reading_line: 
 short_title:
 
 description:
-  one_line:
+  one_line: "An exhibition at the Leventhal Map & Education Center at the Boston Public Library"
   full: "In the early decades of nineteenth-century China, two series of large-format maps, one terrestrial and one celestial, were printed in the city of Suzhou. They were printed as eight loose sheets using Prussian blue, the first large scale use of this pigment in East Asia, in the unusual manner of a rubbing from a stone-stele, resulting in most of the paper appearing in bright blue. The terrestrial maps present the realm of the Qing Empire (1644–1911) and selected surrounding regions. The four extant editions of the celestial maps, dated to 1822 and 1826, present a planisphere of all the known stars and extensive descriptions of known celestial bodies and their related celestial mechanics. This exhibition considers these two maps in the contexts of their production, consumption, and functions revealing them as unique in the global history of mapmaking. "
 
 # ------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ publisher:
 # Contributors
 # ------------------------------------------------------------------------------
 
-contributor_as_it_appears:
+contributor_as_it_appears: "Leventhal Map & Education Center at the Boston Public Library"
 
 contributor:
   - id: rpegg
@@ -92,15 +92,16 @@ resource_link:
   - type: footer-link
     name: About
     link_relation: about
-    url: /about/
+    url: https://www.leventhalmap.org/exhibitions
+  - type: footer-link
+    name: Visit in Person
+    link_relation: 
+    url: https://www.leventhalmap.org/visit
   - type: footer-link
     name: Privacy Policy
     link_relation: privacy-policy
-    url:
-  - type: footer-link
-    name: Terms of Use
-    link_relation: terms-of-service
-    url:
+    url: https://www.leventhalmap.org/privacy/
+
 
 # ------------------------------------------------------------------------------
 # Subjects

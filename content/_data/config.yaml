@@ -3,7 +3,7 @@ accordion:
   copyButton:
     ariaLabel: Copy page section link to clipboard
     successText: Copied page section link to clipboard
-    symbol: §
+    symbol: '#'
   globalControls:
     collapseText: Collapse All
     expandText: Expand All

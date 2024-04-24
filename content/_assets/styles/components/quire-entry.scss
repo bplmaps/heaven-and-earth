@@ -400,6 +400,7 @@ $image-divider-height: 16px;
     //   border: 1px solid Lime;
     // }
     font-family: $quire-primary-font;
+    color: $jade;
 
     a {
       @if $theme == classic {
@@ -471,10 +472,10 @@ $image-divider-height: 16px;
         width: 100%;
       }
       padding-bottom: 1em;
-      border-top: 1px solid background-color-text($content-background-color);
-      border-bottom: 1px solid background-color-text($content-background-color);
+      border-top: 1px solid $dark-olive;
+      border-bottom: 1px solid $dark-olive;
       background-color: $content-background-color;
-      color: background-color-text($content-background-color);
+      color: $dark-jade;
       @media print {
         color: $print-text-color;
         border-color: $print-text-color;

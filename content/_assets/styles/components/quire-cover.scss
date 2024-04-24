@@ -195,6 +195,12 @@
             font-size: 1.2em;
           }
         }
+
+        .visit-splash {
+          margin-top: 12px;
+          border: 2px solid $prussian-blue;
+          padding: 24px;
+        }
       }
       @media screen and (min-width: 1028px) {
         max-width: 900px;
