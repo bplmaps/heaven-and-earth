@@ -19,3 +19,7 @@ figure_list:
   - id: "990150296880203941"
     manifestId: https://iiif.lib.harvard.edu/manifests/ids:494666053
     canvasId: "https://iiif.lib.harvard.edu/manifests/ids:494666053/canvas/canvas-494666053.json"
+  - id: "zhejiang-2"
+    src: "figures/zhejiang.jpg"
+    alt: "Map of Zhejiang Province"
+    caption: "Map of Zhejiang Province"
