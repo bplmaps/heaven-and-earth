@@ -8,8 +8,6 @@ classes:
   - page-one
 contributor:
   - id: rpegg
-abstract: |
-  TKTK Abstract
 ---
 
 In China, during the early decades of the nineteenth century, two series of large format maps, one terrestrial and one celestial, were printed between 1812 and 1826 in the city of Suzhou, one of the economic and intellectual centers of the Chinese empire at the time and throughout much of China's imperial history. The terrestrial maps, of which most of the ten editions are entitled *Geographical* *Complete Map of the Everlasting Unified Qing Empire* (*Daqing wannian yitong dili quantu* [大清萬年一統地理全圖]{.inline-characters .chinese-characters}), present the realm of the Qing Empire (1644--1911) and selected surrounding regions. The four extant editions of the celestial maps entitled *Complete Map of Unified Star Configurations in the Heavens* (*Huntian yitong xingxiang quantu* [渾天壹統星象全圖]{.inline-characters .chinese-characters}), dated to 1822 and 1826, present a planisphere of all the known stars and extensive descriptions of known celestial bodies and their related celestial mechanics. This catalogue essay considers these two maps in the contexts of their interconnected "4 M's;" that is methods, materials, makers and models; while the catalogue entries provide information about the content of each of the maps and charts included in the exhibition.

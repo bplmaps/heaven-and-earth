@@ -16,7 +16,6 @@ object_list:
     creator: "Huang Sheng 黃裳 (1146--94, maker) and Wang Zhiyuan 王致远 (1193--1257, stone carver)"
     date: "Southern Song dynasty, Lizong period (1224-64), dated 1247"
     medium: Rubbing from stone stele, ink on paper; modern reproduction
-    dimensions: "TKTK"
     location: Private Collection
     figure:
       - id: "dili-tu"
@@ -27,7 +26,7 @@ object_list:
     creator: "Huang Sheng 黃裳 (1146--94, maker) and Wang Zhiyuan 王致远 (1193--1257, stone carver)"
     date: "Southern Song dynasty, Lizong period (1224-64), dated 1247"
     medium: Rubbing from stone stele, ink on paper
-    dimensions: "182 x 98 cm"
+    dimensions: "182 × 98 cm"
     location: "Harvard-Yenching Library, Harvard University"
     link: https://id.lib.harvard.edu/digital_collections/W290684_URN-3:FHCL:10873007
     figure:
@@ -38,7 +37,7 @@ object_list:
     "English Title": Complete Geographical Map of the Everlasting Unified Qing Empire
     date: "Qing dynasty, Jiaqing period (1796--1820), ca. 1818"
     medium: Eight sheets mounted as folding screen, woodblock printed, Prussian blue ink on *xuan* paper
-    dimensions: 112 x 249 cm
+    dimensions: 112 × 249 cm
     location: MacLean Collection
     link:  https://collections.leventhalmap.org/search/commonwealth:wh24b054q
     figure:
@@ -49,7 +48,6 @@ object_list:
     "English Title": Complete Map of the Unified Star Configurations in the Heavens
     date: Qing dynasty, Daoguang period (1820--50), dated 1826
     medium: Seven sheets framed, woodblock printed, Prussian blue ink on *xuan* paper
-    dimensions: TKTK
     location: Adler Planetarium
     link: https://adler-ais.axiellhosting.com/Details/collect/2397
     figure:
@@ -73,7 +71,7 @@ object_list:
     date: Qing dynasty, Qianlong period (1735--96), ca. 1795
     creator: Ma Junliang 馬俊良 (*jinshi* 1761)
     medium: Hanging scroll, woodblock-printed and hand colored, ink and color on paper
-    dimensions: 132 x 71 cm
+    dimensions: 132 × 71 cm
     location: Norman B. Leventhal Map & Education Center at the Boston Public Library
     figure:
       - id: "commonwealth:x633f9803"

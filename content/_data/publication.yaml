@@ -9,7 +9,7 @@
 
 # ------------------------------------------------------------------------------
 # The publication's base URL, i.e. 'https://www.my-publication.org'
-url: 'http://localhost:8080'
+url: 'https://www.leventhalmap.org/digital-exhibitions/heaven-and-earth'
 
 # ------------------------------------------------------------------------------
 # Title & Description
@@ -26,7 +26,7 @@ description:
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2024-05-01 # YYYY-MM-DD
+pub_date: 2024-05-10 # YYYY-MM-DD
 language: en
 pub_type: book # book | journal-periodical | other
 
@@ -52,7 +52,6 @@ contributor:
     last_name: Pegg
     title: Director and Curator of Asian Art
     affiliation: MacLean Collection
-    bio: "TKTK Richard bio"
     url: https://www.macleancollection.com/contact
   - id: gnelson
     type: secondary
@@ -72,23 +71,23 @@ license:
   name: Creative Commons Attribution 4.0 International License
   abbreviation: CC BY
   url: https://creativecommons.org/licenses/by/4.0/
-  scope: full # full | text-only | some-exceptions
+  scope: text-only # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
 # Formats, Resources & Links
 # ------------------------------------------------------------------------------
 
 resource_link:
-  - type: other-format
-    name: PDF
-    media_type: application/pdf
-    link_relation: alternate
-    url: /downloads/output.pdf
-  - type: other-format
-    name: EPUB
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/output.epub
+  # - type: other-format
+  #   name: PDF
+  #   media_type: application/pdf
+  #   link_relation: alternate
+  #   url: /downloads/output.pdf
+  # - type: other-format
+  #   name: EPUB
+  #   media_type: application/epub+zip
+  #   link_relation: alternate
+  #   url: /downloads/output.epub
   - type: footer-link
     name: About
     link_relation: about
@@ -108,11 +107,8 @@ resource_link:
 # ------------------------------------------------------------------------------
 
 subject:
-  - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
   - type: keywords
-    name: photography, black-and-white, great despression
+    name: maps, cartogaphy, China, art history, Qing Dynasty, Prussian blue
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -122,10 +118,10 @@ revision_history:
   - date:
     summary:
 
-repository_url:
+repository_url: 
 
 # ------------------------------------------------------------------------------
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: static-cover.jpg
+promo_image: H&E_Logo_Final_Outline_2400px.png
