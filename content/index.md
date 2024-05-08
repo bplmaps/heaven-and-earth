@@ -16,6 +16,6 @@ The blue maps were more than just visually astonishing. They also captured Chine
 
 <div class="visit-splash">
 
-_Heaven and Earth_ is on display at the Leventhal Map & Education Center at the Boston Public Library from May 11 through August 31, 2024. Admission is free. [Plan your visit](https://www.leventhalmap.org/visit/) or [explore the digital catalog](./contents/).
+_Heaven & Earth_ is on display at the Leventhal Map & Education Center at the Boston Public Library from May 11 through August 31, 2024. Admission is free. [Plan your visit](https://www.leventhalmap.org/visit/) or [explore the digital catalog](./contents/).
 
 </div>
