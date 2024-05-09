@@ -1,6 +1,6 @@
 ---
 label: Essay
-title: Heaven and Earth
+title: Heaven & Earth
 subtitle: The Blue Maps of China
 layout: essay
 order: 30

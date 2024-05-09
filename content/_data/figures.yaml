@@ -23,3 +23,7 @@ figure_list:
     src: "figures/zhejiang.jpg"
     alt: "Map of Zhejiang Province"
     caption: "Map of Zhejiang Province"
+  - id: "constellation-zoom"
+    src: "banners/celestial_zoom.jpg"
+    alt: "Zoomed in view of star chart"
+    caption: "Detail of [Complete Map of the Unified Star Configurations in the Heavens](/catalogue/4/)"
