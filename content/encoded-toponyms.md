@@ -25,7 +25,7 @@ FIGURE
 
 Luo compiled census figures, military information and tributary reports to create administrative data sets (listed in descending order of scale and bureaucratic importance) that are presented in a key found in the introduction of the atlas.
 
-FIGURE
+{% figure 'map-chat-zoom-1', 'is-pulled-left' %}
 
 The key includes civil and military administrative units in the following order: route ([lu]{.inline-characters .romanization-characters}) [路]{.inline-characters .chinese-characters}) is \[marked by the symbol\] a dotted line, prefecture ([fu]{.inline-characters .romanization-characters}) [府]{.inline-characters .chinese-characters}) is a square, department ([zhou]{.inline-characters .romanization-characters}) [州]{.inline-characters .chinese-characters}) is a diamond, county ([xian]{.inline-characters .romanization-characters}) [縣]{.inline-characters .chinese-characters}) is a circle, relay station ([yi]{.inline-characters .romanization-characters}) [驛]{.inline-characters .chinese-characters}) is a triangle, guard ([wei]{.inline-characters .romanization-characters}) [衛]{.inline-characters .chinese-characters}) is a solid square, batallion ([so]{.inline-characters .romanization-characters}) [所]{.inline-characters .chinese-characters}) is a solid diamond, company ([tun]{.inline-characters .romanization-characters}) [屯]{.inline-characters .chinese-characters}) is a solid dot, fort ([bao]{.inline-characters .romanization-characters}) [堡]{.inline-characters .chinese-characters}) is a solid triangle, walled town ([cheng]{.inline-characters .romanization-characters}) [城]{.inline-characters .chinese-characters}) is a square with center dot, narrow pass ([ai]{.inline-characters .romanization-characters}) [隘]{.inline-characters .chinese-characters}) is a diamond with a center dot, garrison ([ying]{.inline-characters .romanization-characters}) [營]{.inline-characters .chinese-characters}) is circle with a center dot, postal relay station ([zhan]{.inline-characters .romanization-characters}) [站]{.inline-characters .chinese-characters}) is a triangle with a center dot, frontier pass ([guan]{.inline-characters .romanization-characters} [關]{.inline-characters .chinese-characters}) is a special symbol, stockade ([zhai]{.inline-characters .romanization-characters}) [寨]{.inline-characters .chinese-characters}) is a special symbol, beacon ([dun]{.inline-characters .romanization-characters}) [墩]{.inline-characters .chinese-characters}) is a special symbol, censorate ([tai]{.inline-characters .romanization-characters}) [臺]{.inline-characters .chinese-characters}) is a special symbol, pacification office ([xuanweis]{.inline-characters .romanization-characters})i [宣慰司]{.inline-characters .chinese-characters}) is a solid square with a center dot, pacification commissioner ([xuanfu]{.inline-characters .romanization-characters}) [宣撫]{.inline-characters .chinese-characters}) is a solid diamond with a center dot, pacification commissioner ([anfu]{.inline-characters .romanization-characters}) [安撫]{.inline-characters .chinese-characters}) is a solid circle with a center dot, chief ([zhangguan]{.inline-characters .romanization-characters}) [長官]{.inline-characters .chinese-characters}) is a solid triangle with a center dot.
 
@@ -63,11 +63,11 @@ The very broad range of civil, military and administrative bodies as well as dis
 
 250 years later in the early nineteenth century of the Qing dynasty (1644--1910) a unique Prussian blue terrestrial map was created entitled [*Complete Geographical Map of the Everlasting Unified Qing Empire*](/catalogue/3/) ([大清萬年一統地理全圖]{.inline-characters .chinese-characters} [Daqing wannian yitong dili quantu]{.inline-characters .romanization-characters}).
 
-FIGURE
+{% figure 'commonwealth:wh24b054q' %}
 
 Using the same detail of Shanxi Province we see here that administrative information is conveyed visually as well except that instead of a geometric shape alongside the toponym, each toponym is imbedded in a different geometric shape.
 
-FIGURE
+{% figure 'map-chat-zoom-2' %}
 
 The blue terrestrial map presents a key of nine symbols in the introductory text block found in the lower right corner of the map.
 
