@@ -15,19 +15,13 @@ In the mid-sixteenth century, during the Ming dynasty (1368-1644), the first Chi
 
 {% figure '990086249620203941--1' 'Complete Terrestrial Map' %}
 
-Maps of the eighteen provinces of the late Ming dynasty followed like this *Map of Shanxi Province* ([山西輿圖]{.inline-characters .chinese-characters} [Shanxi yutu]{.inline-characters .romanization-characters} ).
+Maps of the eighteen provinces of the late Ming dynasty followed like this *Map of Shanxi Province* ([山西輿圖]{.inline-characters .chinese-characters} [Shanxi yutu]{.inline-characters .romanization-characters}). If we look closely at a detail of that map we can see that many of the toponyms listed have small geometric shapes next to them, i.e. diamonds, circles, squares, and so on.
 
-{% figure 'zhejiang-2' %}
+{% figuregroup '3', 'shanxi, map-chat-zoom-3, map-chat-zoom-1' %}
 
-If we look closely at a detail of that map we can see that many of the toponyms listed have small geometric shapes next to them, i.e. diamonds, circles, squares, and so on.
 
-FIGURE
+Luo compiled census figures, military information and tributary reports to create administrative data sets (listed in descending order of scale and bureaucratic importance) that are presented in a key found in the introduction of the atlas. The very broad range of civil, military and administrative bodies as well as distinctive geophysical characteristics associated with toponyms provides quite detailed information about the administrative and transportation operations of the province.
 
-Luo compiled census figures, military information and tributary reports to create administrative data sets (listed in descending order of scale and bureaucratic importance) that are presented in a key found in the introduction of the atlas.
-
-{% figure 'map-chat-zoom-1', 'is-pulled-left' %}
-
-The key includes civil and military administrative units in the following order: route ([lu]{.inline-characters .romanization-characters}) [路]{.inline-characters .chinese-characters}) is \[marked by the symbol\] a dotted line, prefecture ([fu]{.inline-characters .romanization-characters}) [府]{.inline-characters .chinese-characters}) is a square, department ([zhou]{.inline-characters .romanization-characters}) [州]{.inline-characters .chinese-characters}) is a diamond, county ([xian]{.inline-characters .romanization-characters}) [縣]{.inline-characters .chinese-characters}) is a circle, relay station ([yi]{.inline-characters .romanization-characters}) [驛]{.inline-characters .chinese-characters}) is a triangle, guard ([wei]{.inline-characters .romanization-characters}) [衛]{.inline-characters .chinese-characters}) is a solid square, batallion ([so]{.inline-characters .romanization-characters}) [所]{.inline-characters .chinese-characters}) is a solid diamond, company ([tun]{.inline-characters .romanization-characters}) [屯]{.inline-characters .chinese-characters}) is a solid dot, fort ([bao]{.inline-characters .romanization-characters}) [堡]{.inline-characters .chinese-characters}) is a solid triangle, walled town ([cheng]{.inline-characters .romanization-characters}) [城]{.inline-characters .chinese-characters}) is a square with center dot, narrow pass ([ai]{.inline-characters .romanization-characters}) [隘]{.inline-characters .chinese-characters}) is a diamond with a center dot, garrison ([ying]{.inline-characters .romanization-characters}) [營]{.inline-characters .chinese-characters}) is circle with a center dot, postal relay station ([zhan]{.inline-characters .romanization-characters}) [站]{.inline-characters .chinese-characters}) is a triangle with a center dot, frontier pass ([guan]{.inline-characters .romanization-characters} [關]{.inline-characters .chinese-characters}) is a special symbol, stockade ([zhai]{.inline-characters .romanization-characters}) [寨]{.inline-characters .chinese-characters}) is a special symbol, beacon ([dun]{.inline-characters .romanization-characters}) [墩]{.inline-characters .chinese-characters}) is a special symbol, censorate ([tai]{.inline-characters .romanization-characters}) [臺]{.inline-characters .chinese-characters}) is a special symbol, pacification office ([xuanweis]{.inline-characters .romanization-characters})i [宣慰司]{.inline-characters .chinese-characters}) is a solid square with a center dot, pacification commissioner ([xuanfu]{.inline-characters .romanization-characters}) [宣撫]{.inline-characters .chinese-characters}) is a solid diamond with a center dot, pacification commissioner ([anfu]{.inline-characters .romanization-characters}) [安撫]{.inline-characters .chinese-characters}) is a solid circle with a center dot, chief ([zhangguan]{.inline-characters .romanization-characters}) [長官]{.inline-characters .chinese-characters}) is a solid triangle with a center dot.
 
 {% crosslink 'List of Encoded Toponyms' %}
 
@@ -59,21 +53,17 @@ The key includes civil and military administrative units in the following order:
 
 {% endcrosslink %}
 
-The very broad range of civil, military and administrative bodies as well as distinctive geophysical characteristics associated with toponyms provides quite detailed information about the administrative and transportation operations of the province.
+
 
 250 years later in the early nineteenth century of the Qing dynasty (1644--1910) a unique Prussian blue terrestrial map was created entitled [*Complete Geographical Map of the Everlasting Unified Qing Empire*](/catalogue/3/) ([大清萬年一統地理全圖]{.inline-characters .chinese-characters} [Daqing wannian yitong dili quantu]{.inline-characters .romanization-characters}).
 
 {% figure 'commonwealth:wh24b054q' %}
 
-Using the same detail of Shanxi Province we see here that administrative information is conveyed visually as well except that instead of a geometric shape alongside the toponym, each toponym is imbedded in a different geometric shape.
+Using the same detail of Shanxi Province we see here that administrative information is conveyed visually as well except that instead of a geometric shape alongside the toponym, each toponym is imbedded in a different geometric shape. The blue terrestrial map presents a key of nine symbols in the introductory text block found in the lower right corner of the map.
 
-{% figure 'map-chat-zoom-2' %}
 
-The blue terrestrial map presents a key of nine symbols in the introductory text block found in the lower right corner of the map.
+{% figuregroup '2', 'map-chat-zoom-2, map-chat-zoom-4' %}
 
-FIGURE
-
-The key on the blue map includes the following administrative units in order: provincial seat ([sheng]{.inline-characters .romanization-characters}) [省]{.inline-characters .chinese-characters}) \[is marked by the symbol\] \[square with a small rectangle on top\], every prefecture ([fu]{.inline-characters .romanization-characters}) [府]{.inline-characters .chinese-characters}) by \[square\], every subprefecture ([ting]{.inline-characters .romanization-characters}) [廳]{.inline-characters .chinese-characters}) by \[diamond\], every independent department ([zhilizhou]{.inline-characters .romanization-characters}) [直隸州]{.inline-characters .chinese-characters}) by \[square with a triangle on top\], every department ([zhou]{.inline-characters .romanization-characters}) [州]{.inline-characters .chinese-characters}) by \[vertical rectangle\], every county ([xian]{.inline-characters .romanization-characters}) [縣]{.inline-characters .chinese-characters}) by \[circle\], every frontier pass ([guan]{.inline-characters .romanization-characters}) [關]{.inline-characters .chinese-characters}) by \[small building\], every brigade garrison ([yingzhen]{.inline-characters .romanization-characters}) [營鎮]{.inline-characters .chinese-characters}) by \[double circle\], every [tusi]{.inline-characters .romanization-characters}) [土司]{.inline-characters .chinese-characters})(ethnic minority in the south-west that was allowed to be in power but reported to Qing authorities) by \[triangle\], and the borders of every province by \[dotted line\].
 
 {% crosslink 'List of Encoded Toponyms' %}
 
@@ -96,8 +86,6 @@ The key on the blue map includes the following administrative units in order: pr
 
 During the Qing dynasty the eighteen provinces ([sheng]{.inline-characters .romanization-characters}) were divided into circuits ([dao]{.inline-characters .romanization-characters}). The circuits were divided into prefectures ([fu]{.inline-characters .romanization-characters}), independent departments ([zhili zhou]{.inline-characters .romanization-characters}), and independent subprefectures ([zhili ting]{.inline-characters .romanization-characters}). The prefectures were divided into counties ([xian]{.inline-characters .romanization-characters}), departments ([zhou]{.inline-characters .romanization-characters}), and subprefectures ([ting]{.inline-characters .romanization-characters}). Thus, the blue terrestrial map provides a very accurate and detailed breakdown of the administrative structure for the entire empire in a single image.
 
-
-
 A few of the geometric symbols on the blue Qing map are the same shapes as those found in the Luo's earlier Ming dynasty atlas key. The difference being Luo placed the symbols by the toponyms and the blue map imbeds the toponym in the shape. These encoded toponyms, although using different visual presentations, conceptually function in the same manner. The use of geometric shapes in association with toponyms and administration is a characteristic of a typology of Chinese mapmaking that visually links places with the people of those places. This encoding visually prioritizes administration over territory, the people living in each administrative unit become more important than depicting information according to scale or geometry, as does the relational spacing of each toponym with the surrounding ones in an administrative hierarchy of the entire empire.
 
 This manner of encoding toponyms is unique to Chinese administrative maps. They reflect the human system (administrative bodies like prefectures, sub-prefectures, counties, and so forth) of all places in the empire conceptually operating within a Chinese familial framework. If we consider these encoded toponyms as presenting a specifically Chinese paradigm of a socio-political order that has a familial framework, then the entire atlas and terrestrial blue map can be understood as presenting the paradigm of an idealized order that is the Ming or Qing empire. Within a specifically Chinese context this type of socio-political order with a familial framework was first proposed and implemented by Confucius (551--479 BCE) and his followers as a method to promote peace and stability on micro and macro scales. That is not to say that these maps are explicitly Confucian in any way but that they present similar paradigms. Confucianism, in its original formulation, before it was assimilated with other religious and ritual practices, is understood to be structured, on the micro-scale, as relationships between individuals within a family then applied, on the macro-scale, to relationships between individuals and humanity and then scaled up to groups and the larger world. A set of principles---including benevolence ([ren]{.inline-characters .romanization-characters} [仁]{.inline-characters .chinese-characters}), righteousness ([yi]{.inline-characters .romanization-characters} [義]{.inline-characters .chinese-characters}), propriety ([li]{.inline-characters .romanization-characters} [禮]{.inline-characters .chinese-characters}), wisdom ([zhi]{.inline-characters .romanization-characters} [智]{.inline-characters .chinese-characters}), sincerity ([xin]{.inline-characters .romanization-characters} [信]{.inline-characters .chinese-characters}) and others---were created to maintain harmony and stability on the micro and macro scales. Each toponym is encoded through a shape that ties it immediately to the administration and a social structure.
@@ -114,6 +102,6 @@ Pegg, Richard A., 2024. "The Blue Terrestrial Map of China in the WereldMuseum, 
 
 Pegg, Richard A. and Papelitzky, Elke, 2024. "The Blue Maps of China: Considerations of Materiality and Function in China and Japan," in *Maps and Colours*, Federal Ministry of Education and Research, Germany, Brill, ch. 14, pp. 190-204.
 
-Pegg, Richard A. and Papelitzky, Elke, forthcoming. *Correlating Heaven and Earth: The Blue Maps of China*, MacLean Collection and University of Chicago Press.
+Pegg, Richard A. and Papelitzky, Elke, forthcoming. *The Chinese Blue Maps: Correlating Heaven and Earth in the Early 19th Century*, MacLean Collection and University of Chicago Press.
 
 Wang, Michelle 2023. *The Art of Terrestrial Diagrams in Early China*. University of Chicago Press.

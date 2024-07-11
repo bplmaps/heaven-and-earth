@@ -150,6 +150,7 @@
     .content figure & {
       display: block;
       margin: 0 auto;
+      max-height: 400px;
     }
   }
 
@@ -365,6 +366,7 @@
       flex-basis: 0;
       flex-grow: 1;
       flex-shrink: 1;
+      
 
       .content & {
         margin-left: 0;
