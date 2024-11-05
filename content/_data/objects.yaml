@@ -28,7 +28,7 @@ object_list:
     medium: Rubbing from stone stele, ink on paper
     dimensions: "182 × 98 cm"
     location: "Harvard-Yenching Library, Harvard University"
-    link: https://id.lib.harvard.edu/digital_collections/W290684_URN-3:FHCL:10873007
+    link: http://id.lib.harvard.edu/images/olvwork290684/urn-3:FHCL:10873007/catalog
     figure:
       - id: "W290684_URN-3:FHCL:10873007"
   - id: "commonwealth:wh24b054q"
